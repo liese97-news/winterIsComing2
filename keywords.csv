@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren',de,Winter,#1818e8,#1818e8,1,1.0
 'Waffen',de,Krieg,#18e818,#18e818,1,1.0
 'Finanz',de,Krise,#181818,#181818,1,1.0
-'Heizen',de,Winter,#1818e8,#1818e8,2,1.0
 'Angriff',de,Krieg,#18e818,#18e818,1,1.0
 'Krise',de,Energie,#e81818,#e81818,1,1.0
 'Inflation',de,Krise,#181818,#181818,1,1.0
+'Heizen',de,Winter,#1818e8,#1818e8,2,0.9186005686363636
 'Preis',de,Energie,#e81818,#e81818,2,0.855132355
 'Gas',de,Winter,#1818e8,#1818e8,2,0.85501609
