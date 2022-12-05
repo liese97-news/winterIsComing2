@@ -1,1343 +1,1800 @@
 ,phrase,label,sentiment,subjectivity,language,count
-"Some of the information stored on your device,","Some of the information stored on your device,",MISC,,,de,177
-…,…,MISC,0.5933333333333334,1.0933333333333333,de,173
-russischen,russischen,MISC,,,de,133
-\u00fcberall.,\u00fcberall.,MISC,,,de,118
-n-tv,n-tv,MISC,,,de,118
-deutschen,deutschen,MISC,,,de,94
+…,…,MISC,0.5722222222222223,1.7444444444444445,de,242
+"Some of the information stored on your device,","Some of the information stored on your device,",MISC,,,de,213
+russischen,russischen,MISC,,,de,192
+\u00fcberall.,\u00fcberall.,MISC,,,de,175
+n-tv,n-tv,MISC,,,de,175
+ukrainische,ukrainische,MISC,,,de,131
+russische,russische,MISC,,,de,112
+deutschen,deutschen,MISC,,,de,110
 "nan When browsing with ads:
 ","nan When browsing with ads:
-",MISC,,,de,89
-ukrainische,ukrainische,MISC,,,de,84
-russische,russische,MISC,,,de,79
-deutsche,deutsche,MISC,,,de-DE,63
-ukrainischen,ukrainischen,MISC,,,de,57
-russischer,russischer,MISC,,,de,39
+",MISC,,,de,108
+ukrainischen,ukrainischen,MISC,,,de,98
+deutsche,deutsche,MISC,,,de-DE,80
+russischer,russischer,MISC,,,de,55
+"When browsing with ads:
+","When browsing with ads:
+",MISC,,,de,44
+Ukraine-Krieg,Ukraine-Krieg,MISC,-0.14444444444444443,0.05555555555555555,de-DE,39
+Ukrainer,Ukrainer,MISC,,,de,35
+Krieg in der Ukraine,Krieg in der Ukraine,MISC,,,de,34
+Deutschen,Deutschen,MISC,,,de,31
+russisches,russisches,MISC,,,de,29
 "When browsing with ads:
 We collect personal data and also transmit it to third-party providers
  that help us improve and finance our digital content.","When browsing with ads:
 We collect personal data and also transmit it to third-party providers
  that help us improve and finance our digital content.",MISC,,,de,28
-"When browsing with ads:
-","When browsing with ads:
-",MISC,,,de,28
-russisches,russisches,MISC,,,de,27
+Deutsche,Deutsche,MISC,,,de,27
 "nan When browsing with ads:
 We collect personal data and also transmit it to third-party providers
  that help us improve and finance our digital content.","nan When browsing with ads:
 We collect personal data and also transmit it to third-party providers
  that help us improve and finance our digital content.",MISC,,,de,27
-Ukraine-Krieg,Ukraine-Krieg,MISC,-0.07500000000000001,0.0,de-DE,26
-Deutschen,Deutschen,MISC,,,de,25
-Krieg in der Ukraine,Krieg in der Ukraine,MISC,,,de,23
-Ukrainer,Ukrainer,MISC,,,de,22
-Deutsche,Deutsche,MISC,,,de,19
-britische,britische,MISC,,,de,18
+Liveticker:,Liveticker:,MISC,,,de,26
+britische,britische,MISC,,,de,25
+europäischen,europäischen,MISC,,,de,21
+europäische,europäische,MISC,,,de,20
+deutscher,deutscher,MISC,,,de,17
+russischem,russischem,MISC,,,de,17
+Krieges,Krieges,MISC,,,de,17
+Russen,Russen,MISC,-0.6416666666666667,0.16666666666666666,de,16
+Liveticker: +++,Liveticker: +++,MISC,,,de,16
 Gaskrise,Gaskrise,MISC,1.65,0.5,de-DE,16
-Liveticker:,Liveticker:,MISC,,,de,15
 Nord Stream 2,Nord Stream 2,MISC,-1.1,0.0,de,15
-europäischen,europäischen,MISC,,,de,15
+Berliner,Berliner,MISC,,,de,15
 DER SPIEGEL.,DER SPIEGEL.,MISC,,,de,15
+Kriegs,Kriegs,MISC,,,de,14
+News,News,MISC,,,de,14
+Millionen,Millionen,MISC,0.0,0.2,de,14
+News.,News.,MISC,,,de,14
+Krieg,Krieg,MISC,,,de,14
 Gas-Pipelines Nord Stream 1,Gas-Pipelines Nord Stream 1,MISC,,,de,13
-deutscher,deutscher,MISC,,,de,13
-europäische,europäische,MISC,,,de,13
-russischem,russischem,MISC,,,de,13
-Berliner,Berliner,MISC,,,de,12
-Millionen,Millionen,MISC,0.0,0.8,de,11
-Gaspreisbremse.,Gaspreisbremse.,MISC,-0.10000000000000002,0.0,de,11
+Ukrainekrieg,Ukrainekrieg,MISC,-2.0,0.0,de,13
+Gaspreisbremse.,Gaspreisbremse.,MISC,-0.10000000000000002,0.0,de,12
+Russische,Russische,MISC,,,de,12
+Deutschland.,Deutschland.,MISC,-0.02307692307692308,0.07692307692307693,de,12
+britischen,britischen,MISC,,,de,12
+Mehr im Liveticker.,Mehr im Liveticker.,MISC,,,de,12
+Russland-Ukraine-Krieg: Das,Russland-Ukraine-Krieg: Das,MISC,,,de,11
+Nacht.,Nacht.,MISC,,,de,11
 Hamburger,Hamburger,MISC,,,de-DE,11
-Deutschland.,Deutschland.,MISC,0.06363636363636363,0.09090909090909091,de,10
-Mehr im Liveticker.,Mehr im Liveticker.,MISC,,,de,10
-Liveticker: +++,Liveticker: +++,MISC,,,de,10
-News,News,MISC,,,de,9
-Russen,Russen,MISC,-0.30833333333333335,0.16666666666666666,de,9
-britischen,britischen,MISC,,,de,9
-iranische,iranische,MISC,,,de,9
-News.,News.,MISC,,,de,8
-Zeit,Zeit,MISC,,,de,8
-Krieges,Krieges,MISC,,,de,8
-Weltklimakonferenz,Weltklimakonferenz,MISC,,,de,8
-Angriffskriegs,Angriffskriegs,MISC,,,de,7
-soziale,soziale,MISC,,,de,7
-Krieg,Krieg,MISC,,,de,7
-türkische,türkische,MISC,,,de,7
+Weltklimakonferenz,Weltklimakonferenz,MISC,,,de,11
+Ampel-Koalition,Ampel-Koalition,MISC,,,de,11
+Winter.,Winter.,MISC,0.5166666666666666,0.0,de,10
+Zeit,Zeit,MISC,,,de,10
+Russlands Krieg,Russlands Krieg,MISC,,,de,10
+iranische,iranische,MISC,,,de,10
+Ukraine.,Ukraine.,MISC,0.7,2.0,de,10
+türkische,türkische,MISC,,,de,9
+Kriegsbeginn,Kriegsbeginn,MISC,,,de,9
+soziale,soziale,MISC,,,de,9
+Russischer,Russischer,MISC,,,de,9
+französischen,französischen,MISC,,,de,8
+Russische Truppen,Russische Truppen,MISC,,,de,8
+ukrainischer,ukrainischer,MISC,,,de,8
+Britischer,Britischer,MISC,,,de,8
+französische,französische,MISC,,,de,7
 News des,News des,MISC,,,de,7
-Ukraine.,Ukraine.,MISC,,,de,7
+Angriffskriegs,Angriffskriegs,MISC,,,de,7
+CO2-Preis,CO2-Preis,MISC,,,de,7
+Krieg gegen die Ukraine,Krieg gegen die Ukraine,MISC,,,de,7
+ukrainischem,ukrainischem,MISC,,,de,7
+Tages,Tages,MISC,,,de,7
+ePaper,ePaper,MISC,,,de,7
 Klima-,Klima-,MISC,,,de,7
-Russland-Ukraine-Krieg: Das,Russland-Ukraine-Krieg: Das,MISC,,,de,7
+WM,WM,MISC,,,de,6
+russischen Angriffskrieges,russischen Angriffskrieges,MISC,,,de,6
+transatlantische,transatlantische,MISC,,,de,6
+katarische,katarische,MISC,,,de,6
+iranischen,iranischen,MISC,,,de,6
 Sixtinische,Sixtinische,MISC,,,de,6
-französische,französische,MISC,,,de,6
-Russischer,Russischer,MISC,,,de,6
-Krieg gegen die Ukraine,Krieg gegen die Ukraine,MISC,,,de,6
-Kriegs,Kriegs,MISC,,,de,6
-Ampel-Koalition,Ampel-Koalition,MISC,,,de,6
-ePaper,ePaper,MISC,,,de,6
-Gaspreisbremse,Gaspreisbremse,MISC,0.006451612903225805,0.0,de,6
-ukrainischem,ukrainischem,MISC,,,de,6
-Russische,Russische,MISC,,,de,6
-Ukrainekrieg,Ukrainekrieg,MISC,-2.0,0.0,de,5
-WM,WM,MISC,,,de,5
-Landtagswahl in Niedersachsen,Landtagswahl in Niedersachsen,MISC,,,de,5
-Nacht.,Nacht.,MISC,,,de,5
-Ostsee-Gaspipelines Nord Stream 1,Ostsee-Gaspipelines Nord Stream 1,MISC,,,de,5
-polnische,polnische,MISC,,,de,5
+Werbeerlösen,Werbeerlösen,MISC,,,de,6
+Internet,Internet,MISC,,,de,6
+Gaspreisbremse,Gaspreisbremse,MISC,0.006249999999999999,0.0,de,6
+iranischer,iranischer,MISC,,,de,6
+S…,S…,MISC,,,de,6
+Deutscher,Deutscher,MISC,,,de,6
+Bundeskabinett,Bundeskabinett,MISC,,,de,5
 Berliner Senat,Berliner Senat,MISC,,,de,5
+polnische,polnische,MISC,,,de,5
+Russlands Armee,Russlands Armee,MISC,,,de,5
+chinesischen,chinesischen,MISC,,,de,5
+Corona-Pandemie,Corona-Pandemie,MISC,,,de,5
+deutsch-französische,deutsch-französische,MISC,,,de,5
 CO2-Ausstoß,CO2-Ausstoß,MISC,,,de,5
-sächsische,sächsische,MISC,,,de,5
-russischen Angriffskrieges,russischen Angriffskrieges,MISC,,,de,5
 LNG-Schiffe,LNG-Schiffe,MISC,,,de,5
+russischen Angriffskrieg,russischen Angriffskrieg,MISC,,,de,5
+NACHRICHTEN.,NACHRICHTEN.,MISC,,,de,5
+sächsische,sächsische,MISC,,,de,5
+COP27,COP27,MISC,,,de,5
+Russland.,Russland.,MISC,0.0,0.0,de,5
+Landtagswahl in Niedersachsen,Landtagswahl in Niedersachsen,MISC,,,de,5
 Pandemie,Pandemie,MISC,,,de,5
-Angriff auf die Ukraine,Angriff auf die Ukraine,MISC,,,de,4
-G-20-Gipfel,G-20-Gipfel,MISC,,,de,4
-G7,G7,MISC,,,de,4
-Weltklimakonferenz in,Weltklimakonferenz in,MISC,,,de,4
-ukrainischer,ukrainischer,MISC,,,de,4
-Internet,Internet,MISC,,,de,4
-nicht-traditionelle,nicht-traditionelle,MISC,,,de,4
-iranischen,iranischen,MISC,,,de,4
+G7,G7,MISC,,,de,5
+Ostsee-Gaspipelines Nord Stream 1,Ostsee-Gaspipelines Nord Stream 1,MISC,,,de,5
+Getreide-Deal,Getreide-Deal,MISC,0.0,0.0,de,4
+wohlig-warmes,wohlig-warmes,MISC,,,de,4
 Schwedische,Schwedische,MISC,,,de,4
-Tages,Tages,MISC,,,de,4
-Bundeskabinett,Bundeskabinett,MISC,,,de,4
-Gaspipelines Nord Stream 1,Gaspipelines Nord Stream 1,MISC,,,de,4
-Werbeerlösen,Werbeerlösen,MISC,,,de,4
-deutsch-französische,deutsch-französische,MISC,,,de,4
-norwegische,norwegische,MISC,,,de,4
-De…,De…,MISC,,,de,4
+niedersächsischen,niedersächsischen,MISC,,,de,4
+Fußball-WM in Katar.,Fußball-WM in Katar.,MISC,,,de,4
+polnischen,polnischen,MISC,,,de,4
 Russische Invasion: Krieg,Russische Invasion: Krieg,MISC,,,de,4
 russischen Armee,russischen Armee,MISC,,,de,4
+Krieg gegen Russland,Krieg gegen Russland,MISC,,,de,4
+De…,De…,MISC,,,de,4
+Ukrainern,Ukrainern,MISC,,,de,4
+türkischen,türkischen,MISC,,,de,4
+Ukraine-Invasion Tag,Ukraine-Invasion Tag,MISC,,,de,4
 Weihnachtszeit,Weihnachtszeit,MISC,,,de,4
-Russland.,Russland.,MISC,0.0,0.0,de,3
-Wintershall-Dea-Chef,Wintershall-Dea-Chef,MISC,,,de,3
-Putins Krieg,Putins Krieg,MISC,,,de,3
-Klimakonferenz in Ägypten,Klimakonferenz in Ägypten,MISC,,,de,3
-französischen,französischen,MISC,,,de,3
-Ukraine,Ukraine,MISC,-0.008333333333333333,0.0,de,3
-Corona-Pandemie,Corona-Pandemie,MISC,,,de,3
-iranischer,iranischer,MISC,,,de,3
-Ukrainekriegs,Ukrainekriegs,MISC,,,de,3
-Winter?,Winter?,MISC,,,de,3
-Kriegsbeginn,Kriegsbeginn,MISC,,,de,3
-S…,S…,MISC,,,de,3
-Russlands Krieg,Russlands Krieg,MISC,,,de,3
-Google,Google,MISC,,,de,3
-chinesische,chinesische,MISC,,,de,3
-russischen Kriegs,russischen Kriegs,MISC,,,de,3
-Nord-Stream-Explosionen,Nord-Stream-Explosionen,MISC,,,de,3
-Di…,Di…,MISC,,,de,3
-Aktionen.,Aktionen.,MISC,,,de,3
-CO2-Preis,CO2-Preis,MISC,,,de,3
-Britischer,Britischer,MISC,,,de,3
-niederländisches,niederländisches,MISC,,,de,3
-Katar.,Katar.,MISC,,,de,3
-chinesischen,chinesischen,MISC,,,de,3
-Deutscher,Deutscher,MISC,,,de,3
-BILD,BILD,MISC,,,de,3
-Petersburger Dialog,Petersburger Dialog,MISC,,,de,3
-Truma Combi D,Truma Combi D,MISC,,,de,3
-griechische,griechische,MISC,,,de,3
-LNG-Terminals,LNG-Terminals,MISC,-0.30000000000000004,0.0,de,3
-Kolonialistisch?,Kolonialistisch?,MISC,,,de,3
-Ifo-Index,Ifo-Index,MISC,,,de,3
-DAX,DAX,MISC,,,de,3
-Ukrainischer,Ukrainischer,MISC,,,de,3
-deutsch-französischer,deutsch-französischer,MISC,,,de,3
-Ukraine-Kriegs.,Ukraine-Kriegs.,MISC,,,de,3
-AKW-Weiterbetrieb,AKW-Weiterbetrieb,MISC,,,de,3
+nicht-traditionelle,nicht-traditionelle,MISC,,,de,4
+Angriff auf die Ukraine,Angriff auf die Ukraine,MISC,,,de,4
+russischen Kriegs,russischen Kriegs,MISC,,,de,4
+amerikanische,amerikanische,MISC,,,de,4
+Weihnachten,Weihnachten,MISC,,,de,4
+Weihnachtsmarkt-Besuch,Weihnachtsmarkt-Besuch,MISC,,,de,4
+Weltklimakonferenz in,Weltklimakonferenz in,MISC,,,de,4
+norwegische,norwegische,MISC,,,de,4
+Gaspipelines Nord Stream 1,Gaspipelines Nord Stream 1,MISC,,,de,4
+russische Armee,russische Armee,MISC,,,de,4
+PLUS-Inhalten,PLUS-Inhalten,MISC,,,de,4
+Republikaner,Republikaner,MISC,,,de,4
+Münchner,Münchner,MISC,,,de,4
+G-20-Gipfel,G-20-Gipfel,MISC,,,de,4
+Ukraine-Krieg.,Ukraine-Krieg.,MISC,,,de,4
+BILD,BILD,MISC,,,de,4
 Weltraumtourismus: Wie,Weltraumtourismus: Wie,MISC,,,de,3
 Liveticker: +++ 10:16 London:,Liveticker: +++ 10:16 London:,MISC,,,de,3
-Winter.,Winter.,MISC,0.0,0.0,de,3
-Aldi,Aldi,MISC,0.7,0.0,de,3
+Ukrainekriegs,Ukrainekriegs,MISC,,,de,3
+"NACHRICHTEN
+","NACHRICHTEN
+",MISC,,,de,3
+Ägypten.,Ägypten.,MISC,,,de,3
+Ifo-Index,Ifo-Index,MISC,,,de,3
+Kolonialistisch?,Kolonialistisch?,MISC,,,de,3
+Winter?,Winter?,MISC,,,de,3
+DAX,DAX,MISC,,,de,3
+Truma Combi D,Truma Combi D,MISC,,,de,3
+Katar.,Katar.,MISC,,,de,3
+Ukraine-Kriegs.,Ukraine-Kriegs.,MISC,,,de,3
+Ukrainische,Ukrainische,MISC,,,de,3
+Ukraine-Krieg +++,Ukraine-Krieg +++,MISC,,,de,3
+Düsseldorfer,Düsseldorfer,MISC,,,de,3
+Wärmestuben,Wärmestuben,MISC,0.0,0.2,de,3
+Aktionen.,Aktionen.,MISC,,,de,3
+diesem Jahr,diesem Jahr,MISC,,,de,3
+ukrainisches,ukrainisches,MISC,,,de,3
+Ukraine,Ukraine,MISC,-0.00510204081632653,0.0,de,3
+niederländisches,niederländisches,MISC,,,de,3
+griechische,griechische,MISC,,,de,3
+LNG-Terminals,LNG-Terminals,MISC,-0.30000000000000004,0.0,de,3
+Di…,Di…,MISC,,,de,3
+Aufruf,Aufruf,MISC,,,de,3
+AKW-Weiterbetrieb,AKW-Weiterbetrieb,MISC,,,de,3
+Ukrainischer,Ukrainischer,MISC,0.0,0.0,de,3
+Gegenwind,Gegenwind,MISC,,,de,3
+chinesische,chinesische,MISC,,,de,3
+Widerstandsgeist seines Volkes,Widerstandsgeist seines Volkes,MISC,,,de,3
+Ukraine-Krieg:,Ukraine-Krieg:,MISC,,,de,3
+"Print-Magazin
+werbefrei &amp;","Print-Magazin
+werbefrei &amp;",MISC,,,de,3
+Putins Krieg,Putins Krieg,MISC,,,de,3
+Twitter,Twitter,MISC,,,de,3
+Klimakonferenz in Ägypten,Klimakonferenz in Ägypten,MISC,,,de,3
+italienische,italienische,MISC,,,de,3
+Russland +++,Russland +++,MISC,,,de,3
+Weltklimakonferenz COP27,Weltklimakonferenz COP27,MISC,,,de,3
+Skript,Skript,MISC,,,de,3
+Fußball-WM,Fußball-WM,MISC,,,de,3
+Informatio…,Informatio…,MISC,,,de,3
+Zweiten Weltkrieg“,Zweiten Weltkrieg“,MISC,,,de,3
 Klimaproteste,Klimaproteste,MISC,,,de,3
-Weihnachten,Weihnachten,MISC,,,de,3
-Berliner Gasnetz,Berliner Gasnetz,MISC,,,de,2
-dieses Jahr riesig.,dieses Jahr riesig.,MISC,,,de,2
-Russen verfolg…,Russen verfolg…,MISC,,,de,2
+Anschluss,Anschluss,MISC,,,de,3
+Wiener,Wiener,MISC,,,de,3
+Fußball-Weltmeisterschaft,Fußball-Weltmeisterschaft,MISC,,,de,3
+Nord-Stream-Explosionen,Nord-Stream-Explosionen,MISC,,,de,3
+Telegram,Telegram,MISC,,,de,3
+Wintershall-Dea-Chef,Wintershall-Dea-Chef,MISC,,,de,3
+Klimaversprechen,Klimaversprechen,MISC,,,de,3
+italienischen,italienischen,MISC,,,de,3
+österreichische,österreichische,MISC,,,de,3
+Google,Google,MISC,,,de,3
+Aldi,Aldi,MISC,0.7,0.0,de,3
+Petersburger Dialog,Petersburger Dialog,MISC,,,de,3
+deutsch-französischer,deutsch-französischer,MISC,,,de,3
+ungarische,ungarische,MISC,,,de,3
+Weltmeisterschaft,Weltmeisterschaft,MISC,,,de,2
+Russische Besatzer,Russische Besatzer,MISC,,,de,2
+Gasmarktes,Gasmarktes,MISC,,,de,2
+Nöte.,Nöte.,MISC,,,de,2
+Gas-Tochter VNG,Gas-Tochter VNG,MISC,,,de,2
+russische Invasion,russische Invasion,MISC,,,de,2
+Letzte Generation,Letzte Generation,MISC,,,de,2
+Fußball-WM 2022,Fußball-WM 2022,MISC,,,de,2
+Kleinverbrauchern,Kleinverbrauchern,MISC,,,de,2
+Krieg in der,Krieg in der,MISC,,,de,2
+amerikanischen,amerikanischen,MISC,,,de,2
+Heiz-Alternative.,Heiz-Alternative.,MISC,,,de,2
+russischen Invasion,russischen Invasion,MISC,,,de,2
+Die wichtigsten Fragen,Die wichtigsten Fragen,MISC,,,de,2
+österreichischen,österreichischen,MISC,,,de,2
+finnische,finnische,MISC,,,de,2
+Arbeitsmarkt-Studie,Arbeitsmarkt-Studie,MISC,,,de,2
+Atombehörden-Chef Kotin,Atombehörden-Chef Kotin,MISC,,,de,2
+"Gesetzes gegen ""LGBTQ-Propaganda"" ausgesprochen.","Gesetzes gegen ""LGBTQ-Propaganda"" ausgesprochen.",MISC,,,de,2
+Letzten Generation,Letzten Generation,MISC,,,de,2
+Der Bundeskanzler,Der Bundeskanzler,MISC,,,de,2
 polnischem,polnischem,MISC,,,de,2
-norwegischen,norwegischen,MISC,,,de,2
+Biogas.,Biogas.,MISC,,,de,2
+"Chaos in Westminster, das Kabinett","Chaos in Westminster, das Kabinett",MISC,,,de,2
+schwedische,schwedische,MISC,,,de,2
+russischen Militär,russischen Militär,MISC,,,de,2
+Krieges: die Krim,Krieges: die Krim,MISC,,,de,2
+Nützlinge.,Nützlinge.,MISC,,,de,2
+Kiew.,Kiew.,MISC,0.0,0.0,de,2
+Gartenarbeit.,Gartenarbeit.,MISC,,,de,2
+Demonstrationen: Tausende,Demonstrationen: Tausende,MISC,,,de,2
+Berliner Gasnetz,Berliner Gasnetz,MISC,,,de,2
+VW ID.3,VW ID.3,MISC,,,de,2
+Alarm.,Alarm.,MISC,,,de,2
+Frieden,Frieden,MISC,,,de,2
+Soforthilfefonds für Bedürftige,Soforthilfefonds für Bedürftige,MISC,,,de,2
+MG4,MG4,MISC,,,de,2
+Schlacht [premium],Schlacht [premium],MISC,,,de,2
+LGBTQ-Community,LGBTQ-Community,MISC,,,de,2
 Ukraine-Krieg: Warum Russland,Ukraine-Krieg: Warum Russland,MISC,,,de,2
-Anschlag auf die Nord-Stream-Pipelines,Anschlag auf die Nord-Stream-Pipelines,MISC,,,de,2
-Aufstand im Iran,Aufstand im Iran,MISC,,,de,2
+G…,G…,MISC,,,de,2
+TTF,TTF,MISC,,,de,2
+Ampelregierung.,Ampelregierung.,MISC,,,de,2
+SPD-Landtagsabgeordnete,SPD-Landtagsabgeordnete,MISC,,,de,2
+Eisbrechers,Eisbrechers,MISC,,,de,2
 Corona-Bekämpfung,Corona-Bekämpfung,MISC,,,de,2
+WM 2022,WM 2022,MISC,,,de,2
+AKW-Laufzeitverlängerung.,AKW-Laufzeitverlängerung.,MISC,,,de,2
+rheinland-pfälzische,rheinland-pfälzische,MISC,,,de,2
+CO₂-Abgabe,CO₂-Abgabe,MISC,,,de,2
+Sunak-Regierung,Sunak-Regierung,MISC,,,de,2
+Speicherbetreiber.,Speicherbetreiber.,MISC,,,de,2
+Homeoffice,Homeoffice,MISC,,,de,2
+Bones and All,Bones and All,MISC,,,de,2
+Kamikaze-Drohnen,Kamikaze-Drohnen,MISC,,,de,2
+Nord Stream 1,Nord Stream 1,MISC,,,de,2
+IEP,IEP,MISC,,,de,2
+Tigerhai,Tigerhai,MISC,,,de,2
+bayerische,bayerische,MISC,,,de,2
+"Goldener Herbst, milder Winter: Was","Goldener Herbst, milder Winter: Was",MISC,,,de,2
+deutsch-russischen Gas-Pipelines Nord Stream 1,deutsch-russischen Gas-Pipelines Nord Stream 1,MISC,,,de,2
+Gute Nachrichten,Gute Nachrichten,MISC,,,de,2
+deutsches,deutsches,MISC,,,de,2
+Wirtschaftsstabilisierungsfonds.,Wirtschaftsstabilisierungsfonds.,MISC,,,de,2
+Vor einem Jahr,Vor einem Jahr,MISC,,,de,2
+israelische,israelische,MISC,,,de,2
+chinesischer,chinesischer,MISC,,,de,2
+Finanznot bei Deutschlands,Finanznot bei Deutschlands,MISC,,,de,2
+Russland-Positionen,Russland-Positionen,MISC,,,de,2
+Krieg in der Ukraine:,Krieg in der Ukraine:,MISC,,,de,2
+BASF-Aktie,BASF-Aktie,MISC,,,de,2
+europäischen Gasspeicherverbandes,europäischen Gasspeicherverbandes,MISC,,,de,2
 "DER SPIEGEL  DER SPIEGEL
 </li><li>","DER SPIEGEL  DER SPIEGEL
 </li><li>",MISC,,,de,2
-Zweiten Weltkrieg,Zweiten Weltkrieg,MISC,,,de,2
-Pol…,Pol…,MISC,,,de,2
-BASF-Aktie,BASF-Aktie,MISC,,,de,2
-Bayern.,Bayern.,MISC,,,de,2
-Eisbrechers,Eisbrechers,MISC,,,de,2
-Ostsee-Gaspipeline,Ostsee-Gaspipeline,MISC,,,de,2
-Kiew.,Kiew.,MISC,0.0,0.0,de,2
-Demonstrationen: Tausende,Demonstrationen: Tausende,MISC,,,de,2
-niedersächsische,niedersächsische,MISC,,,de,2
-Tag.,Tag.,MISC,,,de,2
-Sunak-Regierung,Sunak-Regierung,MISC,,,de,2
-G…,G…,MISC,,,de,2
-Sind Frauen die besseren Menschen?,Sind Frauen die besseren Menschen?,MISC,,,de,2
-VW ID.3,VW ID.3,MISC,,,de,2
-PLUS-Inhalten,PLUS-Inhalten,MISC,,,de,2
-Klimaversprechen,Klimaversprechen,MISC,,,de,2
-russischen Angriffskrieg,russischen Angriffskrieg,MISC,,,de,2
-russischen Militär,russischen Militär,MISC,,,de,2
-Republikaner,Republikaner,MISC,,,de,2
-SPD-Umweltsenator,SPD-Umweltsenator,MISC,,,de,2
-Vorjahre.,Vorjahre.,MISC,,,de,2
-baden-württembergische,baden-württembergische,MISC,,,de,2
-Eilige.,Eilige.,MISC,,,de,2
-Twitter,Twitter,MISC,,,de,2
-türkischen,türkischen,MISC,,,de,2
-Auftrag des EU-Gipfels,Auftrag des EU-Gipfels,MISC,,,de,2
-Ukraine-Invasion Tag,Ukraine-Invasion Tag,MISC,,,de,2
-Zweiten Weltkrieg“,Zweiten Weltkrieg“,MISC,,,de,2
-Gas-Kommission,Gas-Kommission,MISC,0.0,0.0,de,2
-Wärmestuben,Wärmestuben,MISC,0.0,0.0,de,2
-We…,We…,MISC,,,de,2
-rheinland-pfälzische,rheinland-pfälzische,MISC,,,de,2
+Aufstand im Iran,Aufstand im Iran,MISC,,,de,2
+Russland-Ukraine-Krieg,Russland-Ukraine-Krieg,MISC,,,de,2
 Liveticker: +++ 15:41,Liveticker: +++ 15:41,MISC,,,de,2
-Finanznot bei Deutschlands,Finanznot bei Deutschlands,MISC,,,de,2
-Alarm.,Alarm.,MISC,,,de,2
-MG4,MG4,MISC,,,de,2
-schwedischen,schwedischen,MISC,,,de,2
-ungarische,ungarische,MISC,,,de,2
-Biogas.,Biogas.,MISC,,,de,2
-"Goldener Herbst, milder Winter: Was","Goldener Herbst, milder Winter: Was",MISC,,,de,2
-TTF-Kontrakt,TTF-Kontrakt,MISC,,,de,2
-Atombehörden-Chef Kotin,Atombehörden-Chef Kotin,MISC,,,de,2
-Wirtschaftsstabilisierungsfonds.,Wirtschaftsstabilisierungsfonds.,MISC,,,de,2
-Der Bundeskanzler,Der Bundeskanzler,MISC,,,de,2
-deutsches,deutsches,MISC,,,de,2
-Gasausstieg,Gasausstieg,MISC,,,de,2
-Kamikaze-Drohnen,Kamikaze-Drohnen,MISC,,,de,2
-COP27,COP27,MISC,,,de,2
-ägyptischen,ägyptischen,MISC,,,de,2
-CO₂-Ausstoß,CO₂-Ausstoß,MISC,,,de,2
-Erdgas-Sparen,Erdgas-Sparen,MISC,,,de,2
-NRW-Landespolitik,NRW-Landespolitik,MISC,,,de,2
-NACHRICHTEN.,NACHRICHTEN.,MISC,,,de,2
-Frieden mit Russland,Frieden mit Russland,MISC,,,de,2
-europäischen Gasspeicherverbandes,europäischen Gasspeicherverbandes,MISC,,,de,2
-ukrainisches,ukrainisches,MISC,,,de,2
-LGBTQ-Community,LGBTQ-Community,MISC,,,de,2
-Nord Stream 1,Nord Stream 1,MISC,,,de,2
-Kriegsende,Kriegsende,MISC,,,de,2
-schwedische,schwedische,MISC,,,de,2
-Fußball-Weltmeisterschaft,Fußball-Weltmeisterschaft,MISC,,,de,2
-Ukraine-Krieg.,Ukraine-Krieg.,MISC,,,de,2
-chinesischer,chinesischer,MISC,,,de,2
-TTF,TTF,MISC,,,de,2
-Aufruf,Aufruf,MISC,,,de,2
-SPD-Landtagsabgeordnete,SPD-Landtagsabgeordnete,MISC,,,de,2
-Gute Nachrichten,Gute Nachrichten,MISC,,,de,2
-AKW-Laufzeitverlängerung.,AKW-Laufzeitverlängerung.,MISC,,,de,2
-IEP,IEP,MISC,,,de,2
-Ukraine-Krieg:,Ukraine-Krieg:,MISC,,,de,2
-Nöte.,Nöte.,MISC,,,de,2
-Gas-Tochter VNG,Gas-Tochter VNG,MISC,,,de,2
-WELT.,WELT.,MISC,,,de,2
-Speicherbetreiber.,Speicherbetreiber.,MISC,,,de,2
-Homeoffice,Homeoffice,MISC,,,de,2
-"Chaos in Westminster, das Kabinett","Chaos in Westminster, das Kabinett",MISC,,,de,2
-Kleinverbrauchern,Kleinverbrauchern,MISC,,,de,2
-Gasmarktes,Gasmarktes,MISC,,,de,2
-Krieges: die Krim,Krieges: die Krim,MISC,,,de,2
-Telegram,Telegram,MISC,,,de,2
-Russland +++,Russland +++,MISC,,,de,2
-Berlin: Crash an Siegessäule,Berlin: Crash an Siegessäule,MISC,,,de,2
-Russland-Positionen,Russland-Positionen,MISC,,,de,2
-Die Stimmung in den Chefetagen deutscher Firmen,Die Stimmung in den Chefetagen deutscher Firmen,MISC,,,de,2
-Europas Gasinfrastruktur-Betreibern,Europas Gasinfrastruktur-Betreibern,MISC,,,de,2
-russischen Überfalls,russischen Überfalls,MISC,,,de,2
-russischen Angriffs,russischen Angriffs,MISC,,,de,2
-"NACHRICHTEN
-","NACHRICHTEN
-",MISC,,,de,2
-Klimaneutral,Klimaneutral,MISC,,,de,2
-Informatio…,Informatio…,MISC,,,de,2
-italienischen,italienischen,MISC,,,de,2
-"Gesetzes gegen ""LGBTQ-Propaganda"" ausgesprochen.","Gesetzes gegen ""LGBTQ-Propaganda"" ausgesprochen.",MISC,,,de,2
-Skript,Skript,MISC,,,de,2
-Arbeitsmarkt-Studie,Arbeitsmarkt-Studie,MISC,,,de,2
-BerlinDer,BerlinDer,MISC,,,de,2
-Soforthilfefonds für Bedürftige,Soforthilfefonds für Bedürftige,MISC,,,de,2
-Heizsaison.,Heizsaison.,MISC,,,de,2
-Gaspreiskommission.,Gaspreiskommission.,MISC,,,de,2
-österreichische,österreichische,MISC,,,de,2
-Letzten Generation,Letzten Generation,MISC,,,de,2
-niedersächsischen,niedersächsischen,MISC,,,de,2
-rumänische,rumänische,MISC,,,de,2
-Anschluss,Anschluss,MISC,,,de,2
-Ukrainern,Ukrainern,MISC,,,de,2
-Homeoffice.,Homeoffice.,MISC,,,de,2
-Millionen Heizölkunden,Millionen Heizölkunden,MISC,,,de,2
-bayerische,bayerische,MISC,,,de,2
-Dezember-Abschlagszahlungen,Dezember-Abschlagszahlungen,MISC,,,de,2
-Der Krieg in der Ukraine,Der Krieg in der Ukraine,MISC,,,de,2
-Getreide-Deal,Getreide-Deal,MISC,,,de,2
-Stromausfällen.,Stromausfällen.,MISC,,,de,2
-Dienstagabend he…,Dienstagabend he…,MISC,,,de,2
-deutsch-russischen Gas-Pipelines Nord Stream 1,deutsch-russischen Gas-Pipelines Nord Stream 1,MISC,,,de,2
-Tigerhai,Tigerhai,MISC,,,de,2
-Russlands Armee,Russlands Armee,MISC,,,de,2
-Ukraine-Kriegs:,Ukraine-Kriegs:,MISC,,,de,2
-kommende Jahr,kommende Jahr,MISC,,,de,2
-CDU-Wirtschaftspolitikerin,CDU-Wirtschaftspolitikerin,MISC,,,de,2
-sozialen,sozialen,MISC,,,de,2
 Patriot-Raketen,Patriot-Raketen,MISC,,,de,2
+We…,We…,MISC,,,de,2
+Gasabschlag,Gasabschlag,MISC,,,de,2
+CO₂-Ausstoß,CO₂-Ausstoß,MISC,,,de,2
+HolzpelletsHolzpellets,HolzpelletsHolzpellets,MISC,,,de,2
+Der Krieg in der Ukraine,Der Krieg in der Ukraine,MISC,,,de,2
+russischen Luftangriffe,russischen Luftangriffe,MISC,,,de,2
+Millionen Heizölkunden,Millionen Heizölkunden,MISC,,,de,2
+Auftrag des EU-Gipfels,Auftrag des EU-Gipfels,MISC,,,de,2
+Eilige.,Eilige.,MISC,,,de,2
+Zweiten Weltkrieg,Zweiten Weltkrieg,MISC,,,de,2
+SPD-Umweltsenator,SPD-Umweltsenator,MISC,,,de,2
+Proteste im Iran,Proteste im Iran,MISC,,,de,2
+britischem,britischem,MISC,,,de,2
+En…,En…,MISC,,,de,2
+russischen Angriffs,russischen Angriffs,MISC,,,de,2
+Ukraine-Kriegs:,Ukraine-Kriegs:,MISC,,,de,2
+Gaspreiskommission.,Gaspreiskommission.,MISC,,,de,2
+Frankfurter,Frankfurter,MISC,,,de,2
+Erdgas-Sparen,Erdgas-Sparen,MISC,,,de,2
+Ticker.,Ticker.,MISC,,,de,2
+Streit um Vorfahrt,Streit um Vorfahrt,MISC,,,de,2
+kommende Jahr,kommende Jahr,MISC,,,de,2
+Frieden mit Russland,Frieden mit Russland,MISC,,,de,2
+rumänische,rumänische,MISC,,,de,2
+somalische,somalische,MISC,,,de,2
+Berlin: Crash an Siegessäule,Berlin: Crash an Siegessäule,MISC,,,de,2
+Kryptobörse FTX,Kryptobörse FTX,MISC,,,de,2
+CDU-Wirtschaftspolitikerin,CDU-Wirtschaftspolitikerin,MISC,,,de,2
+sowjetischer,sowjetischer,MISC,,,de,2
+hessische,hessische,MISC,,,de,2
+Die Stimmung in den Chefetagen deutscher Firmen,Die Stimmung in den Chefetagen deutscher Firmen,MISC,,,de,2
+Kriegsende,Kriegsende,MISC,,,de,2
+russischen Überfalls,russischen Überfalls,MISC,,,de,2
+G20-Gipfel,G20-Gipfel,MISC,,,de,2
+die Jahre 2015,die Jahre 2015,MISC,,,de,2
+NRW-Landespolitik,NRW-Landespolitik,MISC,,,de,2
+ISW-Experten,ISW-Experten,MISC,,,de,2
+Homeoffice.,Homeoffice.,MISC,,,de,2
+Stromausfällen.,Stromausfällen.,MISC,,,de,2
+Russland?,Russland?,MISC,,,de,2
+britischer,britischer,MISC,,,de,2
+ägyptischen,ägyptischen,MISC,,,de,2
+Sachsen,Sachsen,MISC,0.0,0.0,de,2
+Bayerische,Bayerische,MISC,,,de,2
+Polen.,Polen.,MISC,-0.5,0.0,de,2
+schottischen,schottischen,MISC,,,de,2
+Angriff auf die Schwarzmeerflotte,Angriff auf die Schwarzmeerflotte,MISC,,,de,2
+Die Lage,Die Lage,MISC,,,de,2
+Ostsee-Gaspipeline,Ostsee-Gaspipeline,MISC,,,de,2
+TTF-Kontrakt,TTF-Kontrakt,MISC,,,de,2
+Heizsaison.,Heizsaison.,MISC,,,de,2
+Zubehör-Shop,Zubehör-Shop,MISC,,,de,2
+Gasausstieg,Gasausstieg,MISC,,,de,2
+Bayern.,Bayern.,MISC,,,de,2
+Liveticker: +++ 18:29,Liveticker: +++ 18:29,MISC,,,de,2
+Ukraine +++ London:,Ukraine +++ London:,MISC,,,de,2
+Russen verfolg…,Russen verfolg…,MISC,,,de,2
+lettische,lettische,MISC,,,de,2
+Niedersachsen-Wahl,Niedersachsen-Wahl,MISC,,,de,2
+Auferstehung,Auferstehung,MISC,,,de,2
+WELT.,WELT.,MISC,,,de,2
+Cyber Week,Cyber Week,MISC,,,de,2
+"Eine Frau"" forscht die","Eine Frau"" forscht die",MISC,,,de,2
+Drohungen und Militärmanöver,Drohungen und Militärmanöver,MISC,,,de,2
+dieses Jahr riesig.,dieses Jahr riesig.,MISC,,,de,2
+Mehr i,Mehr i,MISC,,,de,2
+Aufstand,Aufstand,MISC,,,de,2
+russische Einmarsch,russische Einmarsch,MISC,,,de,2
+norwegischen,norwegischen,MISC,,,de,2
+schwedischen,schwedischen,MISC,,,de,2
+russische Invasion beschworen…,russische Invasion beschworen…,MISC,,,de,2
+WM-Achtelfinale,WM-Achtelfinale,MISC,,,de,2
+deutsch-argentinische,deutsch-argentinische,MISC,,,de,2
+Gas-Kommission,Gas-Kommission,MISC,0.0,0.0,de,2
+Pol…,Pol…,MISC,,,de,2
+Sowjetdiktator Stalin,Sowjetdiktator Stalin,MISC,,,de,2
+Videos,Videos,MISC,,,de,2
+Sind Frauen die besseren Menschen?,Sind Frauen die besseren Menschen?,MISC,,,de,2
+Hungersnot Holodomor,Hungersnot Holodomor,MISC,,,de,2
+Liveticker: +++ 23:08 Italiens Kabinett,Liveticker: +++ 23:08 Italiens Kabinett,MISC,,,de,2
+Tag.,Tag.,MISC,,,de,2
+baden-württembergische,baden-württembergische,MISC,,,de,2
+BerlinDer,BerlinDer,MISC,,,de,2
+"Letzten Generation"" schlagen derzeit hohe","Letzten Generation"" schlagen derzeit hohe",MISC,,,de,2
+AKW.,AKW.,MISC,,,de,2
+Klimaneutral,Klimaneutral,MISC,,,de,2
+Vorjahre.,Vorjahre.,MISC,,,de,2
+Ebersberger Frauennotruf,Ebersberger Frauennotruf,MISC,,,de,2
+"Jahr, oh…","Jahr, oh…",MISC,,,de,2
+Dienstagabend he…,Dienstagabend he…,MISC,,,de,2
+Anschlag auf die Nord-Stream-Pipelines,Anschlag auf die Nord-Stream-Pipelines,MISC,,,de,2
+"NACHRICHTEN
+</li><li>","NACHRICHTEN
+</li><li>",MISC,,,de,2
+Dezember-Abschlagszahlungen,Dezember-Abschlagszahlungen,MISC,,,de,2
+Europas Gasinfrastruktur-Betreibern,Europas Gasinfrastruktur-Betreibern,MISC,,,de,2
+sozialen,sozialen,MISC,,,de,2
+niedersächsische,niedersächsische,MISC,,,de,2
 "Inhaltsverzeichnis
 ","Inhaltsverzeichnis
 ",MISC,,,de,2
-Weltklimakonferenz COP27,Weltklimakonferenz COP27,MISC,,,de,2
-Auferstehung,Auferstehung,MISC,,,de,2
-Niedersachsen-Wahl,Niedersachsen-Wahl,MISC,,,de,2
-russischen Invasion,russischen Invasion,MISC,,,de,2
-Weltrettung.,Weltrettung.,MISC,,,de,1
-Gaspreisbremse klappt,Gaspreisbremse klappt,MISC,,,de,1
-Frankfurter,Frankfurter,MISC,,,de,1
-COP27: Was,COP27: Was,MISC,,,de,1
-ersten Konferenz,ersten Konferenz,MISC,,,de,1
+jüdischer,jüdischer,MISC,,,de,2
+Gepard-Panzer,Gepard-Panzer,MISC,,,de,1
+Ihre Daunendecke,Ihre Daunendecke,MISC,,,de,1
+Aufstand.,Aufstand.,MISC,,,de,1
+Zwei junge Kannibalen,Zwei junge Kannibalen,MISC,,,de,1
+Explosionsorten in …,Explosionsorten in …,MISC,,,de,1
+Made in Germany,Made in Germany,MISC,,,de,1
+Liveblog: ++ IAEA,Liveblog: ++ IAEA,MISC,,,de,1
+Die Lecks,Die Lecks,MISC,,,de,1
+Was heute Nacht…,Was heute Nacht…,MISC,,,de,1
+G20-Gipfel: Warum,G20-Gipfel: Warum,MISC,,,de,1
+Fridays for Future:,Fridays for Future:,MISC,,,de,1
+Der US-Historiker,Der US-Historiker,MISC,,,de,1
+Basketball-Olympiasiegerin,Basketball-Olympiasiegerin,MISC,,,de,1
+Foto: DANIEL,Foto: DANIEL,MISC,,,de,1
+Das Ukraine-Update: Was heute passiert ist,Das Ukraine-Update: Was heute passiert ist,MISC,,,de,1
+Ein Mann mit einer Axt,Ein Mann mit einer Axt,MISC,,,de,1
+Kilowattstunden,Kilowattstunden,MISC,,,de,1
+Schäuble.,Schäuble.,MISC,,,de,1
+Krieg gegen R…,Krieg gegen R…,MISC,,,de,1
+Ukraine Tausende Wärmestuben,Ukraine Tausende Wärmestuben,MISC,,,de,1
+Tesla-Chef,Tesla-Chef,MISC,,,de,1
+rot-grün-gelbe,rot-grün-gelbe,MISC,,,de,1
+Argentinien.,Argentinien.,MISC,,,de,1
+Kältehilfen.,Kältehilfen.,MISC,,,de,1
+MünchenDer,MünchenDer,MISC,,,de,1
+Russland-Termin,Russland-Termin,MISC,,,de,1
+COP-27-Klimakonferenz für bedenklich.,COP-27-Klimakonferenz für bedenklich.,MISC,,,de,1
+Spot-Preise k…,Spot-Preise k…,MISC,,,de,1
+Bveaeleu oluOlueulel Peklltlplettelplletveekpet pel evlpekeu…,Bveaeleu oluOlueulel Peklltlplettelplletveekpet pel evlpekeu…,MISC,,,de,1
+Kreml.,Kreml.,MISC,,,de,1
+Haltesignals,Haltesignals,MISC,,,de,1
+Dezember-Rechnung,Dezember-Rechnung,MISC,,,de,1
+Nato-Reaktion,Nato-Reaktion,MISC,,,de,1
+Friedensdividende,Friedensdividende,MISC,,,de,1
+Polen: Ruhe,Polen: Ruhe,MISC,,,de,1
+Pellet-Verband,Pellet-Verband,MISC,,,de,1
+Slowakei.,Slowakei.,MISC,,,de,1
+Jahr 2022,Jahr 2022,MISC,,,de,1
+Wohnheim-Mieten,Wohnheim-Mieten,MISC,,,de,1
+Rhein-Sieg-Kreis: Geldautomat,Rhein-Sieg-Kreis: Geldautomat,MISC,,,de,1
+Silvester-Sendung,Silvester-Sendung,MISC,,,de,1
+Tödliche Hinterlassenschaften: Maryna Ziuskinas Mann und Sohn,Tödliche Hinterlassenschaften: Maryna Ziuskinas Mann und Sohn,MISC,,,de,1
+F35-Kampfjets,F35-Kampfjets,MISC,,,de,1
+GasherdDie,GasherdDie,MISC,,,de,1
+CNN-Moderatoren,CNN-Moderatoren,MISC,,,de,1
+Gas-Pipelines,Gas-Pipelines,MISC,,,de,1
+Goldpreis,Goldpreis,MISC,,,de,1
+BankhausesNoch,BankhausesNoch,MISC,,,de,1
+Goldbarren im Tresor,Goldbarren im Tresor,MISC,,,de,1
+Ukrainischer Kanute,Ukrainischer Kanute,MISC,,,de,1
+neuen Jahr,neuen Jahr,MISC,,,de,1
+Ka…,Ka…,MISC,,,de,1
+Landmine,Landmine,MISC,,,de,1
+Cherson:,Cherson:,MISC,0.0,0.0,de,1
+Minenopfer,Minenopfer,MISC,,,de,1
+Raketeneinschlag,Raketeneinschlag,MISC,0.0,0.0,de,1
+Stromkrise,Stromkrise,MISC,,,de,1
+Brexit für die schlechte Situation der Wirtschaft,Brexit für die schlechte Situation der Wirtschaft,MISC,,,de,1
+diesem Jahr z…,diesem Jahr z…,MISC,,,de,1
+Liveticker: +++ 13:49,Liveticker: +++ 13:49,MISC,,,de,1
+Nord-Stream-Gaspipelines,Nord-Stream-Gaspipelines,MISC,,,de,1
+Speicherbetreiber:,Speicherbetreiber:,MISC,,,de,1
+Füllkrug-Einsatz zum deutschen Auftakt,Füllkrug-Einsatz zum deutschen Auftakt,MISC,,,de,1
+Liveticker: +++ 15:28,Liveticker: +++ 15:28,MISC,,,de,1
+"G20-Konferenz auf Bali, den globalen Temperaturanstieg","G20-Konferenz auf Bali, den globalen Temperaturanstieg",MISC,,,de,1
+Reis.,Reis.,MISC,,,de,1
+Weltklimakonferenz: Ärmere Länder,Weltklimakonferenz: Ärmere Länder,MISC,,,de,1
+Ukraine-Krieg: Grünen-Vorsitzende Lang: «Wladimir Putin,Ukraine-Krieg: Grünen-Vorsitzende Lang: «Wladimir Putin,MISC,,,de,1
+BBK)  Ralph Tiesler,BBK)  Ralph Tiesler,MISC,,,de,1
+Todesopfer des,Todesopfer des,MISC,,,de,1
+"Liveticker: +++ 10:41 Passlick: ""Putin","Liveticker: +++ 10:41 Passlick: ""Putin",MISC,,,de,1
+Fußball-WM 1978,Fußball-WM 1978,MISC,,,de,1
+ostukrainischen,ostukrainischen,MISC,,,de,1
+Liveticker: +++ 14:30,Liveticker: +++ 14:30,MISC,,,de,1
+Österreichischer,Österreichischer,MISC,,,de,1
+Liveticker: +++ 13:33 Michel:,Liveticker: +++ 13:33 Michel:,MISC,,,de,1
+Frieden nutzen +++,Frieden nutzen +++,MISC,,,de,1
+Liveticker: +++ 21:46,Liveticker: +++ 21:46,MISC,,,de,1
+thailändische,thailändische,MISC,,,de,1
+Ein Füllkru…,Ein Füllkru…,MISC,,,de,1
+Zerstörte Stromversorgung,Zerstörte Stromversorgung,MISC,,,de,1
+Proteste auf Eis,Proteste auf Eis,MISC,,,de,1
+Terminal-Kosten,Terminal-Kosten,MISC,,,de,1
+… lp,… lp,MISC,,,de,1
+Das Jahr 2022,Das Jahr 2022,MISC,,,de,1
+Wärme mit Risiken,Wärme mit Risiken,MISC,,,de,1
+Russische Invasion: Krieg in der Ukraine: ,Russische Invasion: Krieg in der Ukraine: ,MISC,,,de,1
+Cota…,Cota…,MISC,,,de,1
+News im…,News im…,MISC,,,de,1
+Winter:,Winter:,MISC,,,de,1
+Briefbombe,Briefbombe,MISC,,,de,1
+Weltklimakonferenz COP27: UN-Klimagipfel,Weltklimakonferenz COP27: UN-Klimagipfel,MISC,,,de,1
+Liveticker: +++ 20:13 Schweiz,Liveticker: +++ 20:13 Schweiz,MISC,,,de,1
+Liveticker: +++ 20:39 Biden,Liveticker: +++ 20:39 Biden,MISC,,,de,1
+Winter: Terminals,Winter: Terminals,MISC,,,de,1
+"Katar, Fifa","Katar, Fifa",MISC,,,de,1
+News: Fußball-WM,News: Fußball-WM,MISC,,,de,1
+Liveticker: +++ 13:55 US-Botschafterin,Liveticker: +++ 13:55 US-Botschafterin,MISC,,,de,1
+"Das Wichtigste im Überblick:
+<ul><li>Selenskyj","Das Wichtigste im Überblick:
+<ul><li>Selenskyj",MISC,,,de,1
+Liveticker: +++ 12:42 Kreml-Kenner:,Liveticker: +++ 12:42 Kreml-Kenner:,MISC,,,de,1
+Apec,Apec,MISC,0.0,0.0,de,1
+"Polen, Frankreich, Dänema…","Polen, Frankreich, Dänema…",MISC,,,de,1
+ARD-Intervi…,ARD-Intervi…,MISC,,,de,1
+Atommä…,Atommä…,MISC,,,de,1
+OSZE-Gipfel,OSZE-Gipfel,MISC,,,de,1
+Einreise-Verbot,Einreise-Verbot,MISC,,,de,1
+"Liveticker: +++ 18:07 ""Beispiellos""","Liveticker: +++ 18:07 ""Beispiellos""",MISC,,,de,1
+Südukraine,Südukraine,MISC,0.5,0.5,de,1
+Liveticker: +++ 13:23 Erster Personenzug seit Befreiung,Liveticker: +++ 13:23 Erster Personenzug seit Befreiung,MISC,,,de,1
+Liveticker: +++ 10:28 Bericht,Liveticker: +++ 10:28 Bericht,MISC,,,de,1
+Geoeconomics: Die kleinen Sünden,Geoeconomics: Die kleinen Sünden,MISC,,,de,1
+Liveticker: +++ 21:52,Liveticker: +++ 21:52,MISC,,,de,1
+INTERVIEW,INTERVIEW,MISC,,,de,1
+WM in,WM in,MISC,,,de,1
+Teuer-Schock,Teuer-Schock,MISC,,,de,1
+Die Betreiber der,Die Betreiber der,MISC,,,de,1
+Fer…,Fer…,MISC,,,de,1
+Mädchen.,Mädchen.,MISC,,,de,1
+Krieg gegen,Krieg gegen,MISC,,,de,1
+Liveticker: +++ 05:21 Prekäre,Liveticker: +++ 05:21 Prekäre,MISC,,,de,1
+estnische,estnische,MISC,,,de,1
+Liveticker: +++ 19:57,Liveticker: +++ 19:57,MISC,,,de,1
+Liveticker: +++ 15:15,Liveticker: +++ 15:15,MISC,,,de,1
+Liveticker: +++ 19:30 Streit,Liveticker: +++ 19:30 Streit,MISC,,,de,1
+Liveticker: +++ 12:59,Liveticker: +++ 12:59,MISC,,,de,1
+Baltischen Flotte,Baltischen Flotte,MISC,,,de,1
+Liveticker: +++ 17:10,Liveticker: +++ 17:10,MISC,,,de,1
+Außenministeriums,Außenministeriums,MISC,,,de,1
+russische Ostseeflotte,russische Ostseeflotte,MISC,,,de,1
+Russlands Ostseeflotte,Russlands Ostseeflotte,MISC,,,de,1
+Liveticker: +++ 17:41,Liveticker: +++ 17:41,MISC,,,de,1
+ERR,ERR,MISC,,,de,1
+Liveticker: +++ 14:40,Liveticker: +++ 14:40,MISC,,,de,1
+Liveticker: +++ 22:59 Generalstaatsanwalt,Liveticker: +++ 22:59 Generalstaatsanwalt,MISC,,,de,1
+Liveticker: +++ 16:02,Liveticker: +++ 16:02,MISC,,,de,1
+Liveticker: +++ 16:54,Liveticker: +++ 16:54,MISC,,,de,1
+Liveticker: +++ 14:14,Liveticker: +++ 14:14,MISC,,,de,1
+Liveticker: +++ 07:04 US-Bericht:,Liveticker: +++ 07:04 US-Bericht:,MISC,,,de,1
+Liveticker: +++ 00:08 Iran,Liveticker: +++ 00:08 Iran,MISC,,,de,1
+AKW-Abfall,AKW-Abfall,MISC,,,de,1
+em>SWR</em>-Recherchen,em>SWR</em>-Recherchen,MISC,,,de,1
+Statistisches Bundesamt: Mehr,Statistisches Bundesamt: Mehr,MISC,,,de,1
+Russland-Politik,Russland-Politik,MISC,,,de,1
+Ost-Ukraine,Ost-Ukraine,MISC,,,de,1
+Leipziger,Leipziger,MISC,,,de,1
+Nicaragua:,Nicaragua:,MISC,,,de,1
+BILD Lagez…,BILD Lagez…,MISC,,,de,1
+Training.,Training.,MISC,,,de,1
+WM?«,WM?«,MISC,,,de,1
+russischen Krieg,russischen Krieg,MISC,,,de,1
+Die hohen Preise für Energie und Lebensmittel,Die hohen Preise für Energie und Lebensmittel,MISC,,,de,1
 V…,V…,MISC,0.0,0.0,de,1
+Kriegsbeginn +++,Kriegsbeginn +++,MISC,,,de,1
+Android App,Android App,MISC,,,de,1
+Umweltschützer,Umweltschützer,MISC,,,de,1
+AKW: Aufatmen,AKW: Aufatmen,MISC,,,de,1
+Atomstrom in,Atomstrom in,MISC,,,de,1
+Parl…,Parl…,MISC,,,de,1
+Parlament.,Parlament.,MISC,,,de,1
+Ein Jahr nach der,Ein Jahr nach der,MISC,,,de,1
+Herzinfarkt: Im Winter und bei Kälte,Herzinfarkt: Im Winter und bei Kälte,MISC,,,de,1
+Jahrestief,Jahrestief,MISC,,,de,1
 Alexander-von-Humboldt-Stiftung,Alexander-von-Humboldt-Stiftung,MISC,,,de,1
+t-online.de.,t-online.de.,MISC,,,de,1
+Netto-Null.,Netto-Null.,MISC,,,de,1
+Crime Time,Crime Time,MISC,,,de,1
+Crime Time“,Crime Time“,MISC,,,de,1
+Official Secrets Act,Official Secrets Act,MISC,,,de,1
+Heizkostenzuschusses,Heizkostenzuschusses,MISC,,,de,1
+Pen Berlin.,Pen Berlin.,MISC,,,de,1
+Leitindex Dax,Leitindex Dax,MISC,,,de,1
+Project,Project,MISC,,,de,1
+Alice.,Alice.,MISC,,,de,1
+Ritter und Bettler,Ritter und Bettler,MISC,,,de,1
+Mal A,Mal A,MISC,,,de,1
+"Alice, das","Alice, das",MISC,,,de,1
+Vorstand-Abberufung.,Vorstand-Abberufung.,MISC,,,de,1
+Landtag: Klima-Stiftung: Rechtliche Hürde für,Landtag: Klima-Stiftung: Rechtliche Hürde für,MISC,,,de,1
+Methan,Methan,MISC,,,de,1
+Atomgesetzes,Atomgesetzes,MISC,,,de,1
 "Klimakonferenz
 Verursacher","Klimakonferenz
 Verursacher",MISC,,,de,1
-Leitindex Dax,Leitindex Dax,MISC,,,de,1
 CO2-Exzess,CO2-Exzess,MISC,,,de,1
-UN-Weltklimakonferenz in Ägypten,UN-Weltklimakonferenz in Ägypten,MISC,,,de,1
-Die Landesarmutskonferenz,Die Landesarmutskonferenz,MISC,,,de,1
-Dro…,Dro…,MISC,,,de,1
-L.F,L.F,MISC,,,de,1
-"Krieg, Energiekrise und Inflation","Krieg, Energiekrise und Inflation",MISC,,,de,1
-Heizkostenzuschusses,Heizkostenzuschusses,MISC,,,de,1
-Atomgesetzes,Atomgesetzes,MISC,,,de,1
-Treffen der G7-Außenminister,Treffen der G7-Außenminister,MISC,,,de,1
-Xi,Xi,MISC,,,de,1
-Methan,Methan,MISC,,,de,1
-Leipziger,Leipziger,MISC,,,de,1
-Cop27,Cop27,MISC,,,de,1
-Nicaragua:,Nicaragua:,MISC,,,de,1
-Extreme Wetterereignisse,Extreme Wetterereignisse,MISC,,,de,1
-Landtag: Klima-Stiftung: Rechtliche Hürde für,Landtag: Klima-Stiftung: Rechtliche Hürde für,MISC,,,de,1
-Die hohen Preise für Energie und Lebensmittel,Die hohen Preise für Energie und Lebensmittel,MISC,,,de,1
-Deportationen,Deportationen,MISC,,,de,1
-Android App,Android App,MISC,,,de,1
-Conference of the,Conference of the,MISC,,,de,1
-Vorstand-Abberufung.,Vorstand-Abberufung.,MISC,,,de,1
-Parl…,Parl…,MISC,,,de,1
-Parlament.,Parlament.,MISC,,,de,1
-Russische Soldaten,Russische Soldaten,MISC,,,de,1
-Neues Preissystem.,Neues Preissystem.,MISC,,,de,1
-Vertrag zur fossilen Abrüstung.,Vertrag zur fossilen Abrüstung.,MISC,,,de,1
-"NACHRICHTEN
-</li><li>Strom-","NACHRICHTEN
-</li><li>Strom-",MISC,,,de,1
-Zeit von…,Zeit von…,MISC,,,de,1
-Gashändler.,Gashändler.,MISC,,,de,1
-Niederlage in Cherson?,Niederlage in Cherson?,MISC,,,de,1
-schottischen,schottischen,MISC,,,de,1
-Lira,Lira,MISC,,,de,1
-Laufzeit-Diskussionen.,Laufzeit-Diskussionen.,MISC,,,de,1
-COP26,COP26,MISC,,,de,1
-lO Vepleu,lO Vepleu,MISC,,,de,1
-Winterurlaub trotz Krisen,Winterurlaub trotz Krisen,MISC,,,de,1
-Explosio…,Explosio…,MISC,,,de,1
-Urlaub in Österreich,Urlaub in Österreich,MISC,,,de,1
-Ägypten.,Ägypten.,MISC,,,de,1
-Official Secrets Act,Official Secrets Act,MISC,,,de,1
-Mi…,Mi…,MISC,,,de,1
-Liveticker: +++ 11:01,Liveticker: +++ 11:01,MISC,,,de,1
-Super Verteidigung,Super Verteidigung,MISC,,,de,1
-Super Gepard,Super Gepard,MISC,,,de,1
-Die Temperaturen,Die Temperaturen,MISC,,,de,1
-G20-Gipfel,G20-Gipfel,MISC,,,de,1
-News: G20,News: G20,MISC,,,de,1
-Emirat,Emirat,MISC,,,de,1
-Baerboc…,Baerboc…,MISC,,,de,1
-Vormonat,Vormonat,MISC,,,de,1
-Au…,Au…,MISC,,,de,1
-COP27-Konferenz,COP27-Konferenz,MISC,,,de,1
-Neue Daten,Neue Daten,MISC,,,de,1
-ein Jahr,ein Jahr,MISC,,,de,1
-Neues Landesprogramm,Neues Landesprogramm,MISC,,,de,1
-Klima-Aktivisten.,Klima-Aktivisten.,MISC,,,de,1
-Die Kühe von,Die Kühe von,MISC,,,de,1
-Gazprom-Tochter.,Gazprom-Tochter.,MISC,,,de,1
-Das Ziel,Das Ziel,MISC,,,de,1
-Krieg gegen Russland.,Krieg gegen Russland.,MISC,,,de,1
-Cherson.,Cherson.,MISC,,,de,1
-Globale CO2-Emissionen,Globale CO2-Emissionen,MISC,,,de,1
-Musks Tweet,Musks Tweet,MISC,,,de,1
-"Ukraine,","Ukraine,",MISC,,,de,1
-Herbstanfang,Herbstanfang,MISC,,,de,1
-Briten-Premier,Briten-Premier,MISC,,,de,1
-Gasspeicherung.,Gasspeicherung.,MISC,,,de,1
-Klimakonferenz COP27,Klimakonferenz COP27,MISC,,,de,1
-Auf der Suche nach neuer Handelspolitik,Auf der Suche nach neuer Handelspolitik,MISC,,,de,1
-SPIEGEL-Reporter,SPIEGEL-Reporter,MISC,,,de,1
-"Schwarzmeer-Häfen
-9.05 Uhr:","Schwarzmeer-Häfen
-9.05 Uhr:",MISC,,,de,1
-Getreidedeal.,Getreidedeal.,MISC,,,de,1
-DER SPIEGEL»Es,DER SPIEGEL»Es,MISC,,,de,1
-Traf internationale Ex…,Traf internationale Ex…,MISC,,,de,1
-Twitter?,Twitter?,MISC,,,de,1
-Energiekrise.,Energiekrise.,MISC,,,de,1
-Jahr 2023.,Jahr 2023.,MISC,,,de,1
-Berlin: Klima-Demonstranten,Berlin: Klima-Demonstranten,MISC,,,de,1
-Bosch Professional Akku,Bosch Professional Akku,MISC,,,de,1
-französischem,französischem,MISC,,,de,1
-russischen Luftwaffe,russischen Luftwaffe,MISC,,,de,1
-"Print-Magazin
-werbefrei &amp;","Print-Magazin
-werbefrei &amp;",MISC,,,de,1
-Ampel will,Ampel will,MISC,,,de,1
-Letzten Generation»,Letzten Generation»,MISC,,,de,1
-russische Krieg,russische Krieg,MISC,,,de,1
-Täter un…,Täter un…,MISC,,,de,1
-Bosch Akku 18V,Bosch Akku 18V,MISC,,,de,1
-Klimawende.,Klimawende.,MISC,,,de,1
-12V,12V,MISC,,,de,1
-Grüner Widerstand gegen Fracking?,Grüner Widerstand gegen Fracking?,MISC,,,de,1
-Ampel.,Ampel.,MISC,,,de,1
-Liveticker: +++ 23:03,Liveticker: +++ 23:03,MISC,,,de,1
-Russland-Politik: War,Russland-Politik: War,MISC,,,de,1
-CO₂-Preis,CO₂-Preis,MISC,,,de,1
-CO₂-Abgabe,CO₂-Abgabe,MISC,,,de,1
-Russlands brutalen Krieg,Russlands brutalen Krieg,MISC,,,de,1
-spanischen,spanischen,MISC,,,de,1
-China: Handelsmesse streicht Eröffnungsvideo,China: Handelsmesse streicht Eröffnungsvideo,MISC,,,de,1
-Klima-Stiftung,Klima-Stiftung,MISC,,,de,1
-Proteste auf Konferenz,Proteste auf Konferenz,MISC,,,de,1
-CC0,CC0,MISC,,,de,1
-Energiesparanreize,Energiesparanreize,MISC,,,de,1
-Ifo-Institut,Ifo-Institut,MISC,,,de,1
-Energie-Krise.,Energie-Krise.,MISC,,,de,1
-Die wichtigsten Fragen,Die wichtigsten Fragen,MISC,,,de,1
-EinfamilienhäusernDer,EinfamilienhäusernDer,MISC,,,de,1
-Ukraine-Krieg: Hohe Verluste,Ukraine-Krieg: Hohe Verluste,MISC,,,de,1
-China: Chef,China: Chef,MISC,,,de,1
-Klimakonferenz COP 27,Klimakonferenz COP 27,MISC,,,de,1
-"DeutschlandFoto: Dirk Sukow,","DeutschlandFoto: Dirk Sukow,",MISC,,,de,1
-Gas-Notlage,Gas-Notlage,MISC,,,de,1
-Gaspreis-Explosion.,Gaspreis-Explosion.,MISC,,,de,1
-russischen Invasion in der Ukraine,russischen Invasion in der Ukraine,MISC,,,de,1
-Bundesregierug,Bundesregierug,MISC,,,de,1
-nächsten Jahr,nächsten Jahr,MISC,,,de,1
-RAF.,RAF.,MISC,,,de,1
-Letzte Generation,Letzte Generation,MISC,,,de,1
-Der Bürgermeister,Der Bürgermeister,MISC,,,de,1
-News im Üb…,News im Üb…,MISC,,,de,1
-Gasver…,Gasver…,MISC,,,de,1
-Autovermieter: Mietwagenboom,Autovermieter: Mietwagenboom,MISC,,,de,1
-So heizt Deutschland.,So heizt Deutschland.,MISC,,,de,1
-SixtDer,SixtDer,MISC,,,de,1
-Baustelle für Gaspipeline,Baustelle für Gaspipeline,MISC,,,de,1
-Heiz-Alternative.,Heiz-Alternative.,MISC,,,de,1
-CO₂-Preis.,CO₂-Preis.,MISC,,,de,1
-"netzpolitik.org
-","netzpolitik.org
-",MISC,,,de,1
-ISW“-Analyse,ISW“-Analyse,MISC,,,de,1
-Winter: Warum,Winter: Warum,MISC,,,de,1
-Guterres: „Sind auf dem Highway,Guterres: „Sind auf dem Highway,MISC,,,de,1
-US-Wahlen,US-Wahlen,MISC,,,de,1
 Liveticker: +++ 05:44 ISW,Liveticker: +++ 05:44 ISW,MISC,,,de,1
-ukrainischer Armee,ukrainischer Armee,MISC,,,de,1
-Weltweite CO₂-Emissionen,Weltweite CO₂-Emissionen,MISC,,,de,1
-Kampf gegen den Klimawandel,Kampf gegen den Klimawandel,MISC,,,de,1
-Google Ne…,Google Ne…,MISC,,,de,1
-"russischen Bombenkrieg  zdf.de
-</li><li>""Mehr","russischen Bombenkrieg  zdf.de
-</li><li>""Mehr",MISC,,,de,1
-CO2-Ausstoß.,CO2-Ausstoß.,MISC,,,de,1
+Jahr 2023.,Jahr 2023.,MISC,,,de,1
 Extremwetter-Ereignisse,Extremwetter-Ereignisse,MISC,,,de,1
-"Krieges  DER SPIEGEL
-</li><li>Zerstörung mit deutscher Hilfe?","Krieges  DER SPIEGEL
-</li><li>Zerstörung mit deutscher Hilfe?",MISC,,,de,1
-amerikanischen,amerikanischen,MISC,,,de,1
-Sterneköche in der Krise.,Sterneköche in der Krise.,MISC,,,de,1
-nordrhein-westfälische,nordrhein-westfälische,MISC,,,de,1
-Klimakonferenz,Klimakonferenz,MISC,,,,1
+CO2-Ausstoß.,CO2-Ausstoß.,MISC,,,de,1
+Kampf gegen den Klimawandel,Kampf gegen den Klimawandel,MISC,,,de,1
+Weltweite CO₂-Emissionen,Weltweite CO₂-Emissionen,MISC,,,de,1
+Wirtsch…,Wirtsch…,MISC,,,de,1
+ukrainischer Armee,ukrainischer Armee,MISC,,,de,1
+Tr…,Tr…,MISC,,,de,1
+Die Landesarmutskonferenz,Die Landesarmutskonferenz,MISC,,,de,1
+B-1B,B-1B,MISC,,,de,1
+Liveticker: +++ 02:15 Linke,Liveticker: +++ 02:15 Linke,MISC,,,de,1
+MG4 Electric,MG4 Electric,MISC,,,de,1
+"MG4 Electric Luxury: Elektro, Test, Motor,","MG4 Electric Luxury: Elektro, Test, Motor,",MISC,,,de,1
+Truppenrückzug,Truppenrückzug,MISC,,,de,1
+Ölpreisdeckel +++,Ölpreisdeckel +++,MISC,,,de,1
+Waffenherstellern.,Waffenherstellern.,MISC,,,de,1
 tauschen.,tauschen.,MISC,,,de,1
+Ukraine-Liveblog:,Ukraine-Liveblog:,MISC,,,de,1
 Morning Briefing,Morning Briefing,MISC,,,de,1
 Im Jahr 2022,Im Jahr 2022,MISC,,,de,1
-China-Investitionen:,China-Investitionen:,MISC,,,de,1
-Guten Morgen liebe Leserinnen,Guten Morgen liebe Leserinnen,MISC,,,de,1
-ENBW-Finanzvorstand,ENBW-Finanzvorstand,MISC,,,de,1
+Ein Jahr Ampel-Koalition:,Ein Jahr Ampel-Koalition:,MISC,,,de,1
+L.F,L.F,MISC,,,de,1
+Energiekrise.,Energiekrise.,MISC,,,de,1
+Globale CO2-Emissionen,Globale CO2-Emissionen,MISC,,,de,1
+Berlin: Klima-Demonstranten,Berlin: Klima-Demonstranten,MISC,,,de,1
+Winter: Warum,Winter: Warum,MISC,,,de,1
+Ein Jahr Ampel-Koaliton,Ein Jahr Ampel-Koaliton,MISC,,,de,1
+Massenprotest: Kollektive,Massenprotest: Kollektive,MISC,,,de,1
+Kriegsbeginn +++ Ukrainische Truppen,Kriegsbeginn +++ Ukrainische Truppen,MISC,,,de,1
+Ukraine-Liveblog: Treffen zu Ukraine-Hilfe,Ukraine-Liveblog: Treffen zu Ukraine-Hilfe,MISC,,,de,1
 China.,China.,MISC,,,de,1
-Konferenz in Ägypten,Konferenz in Ägypten,MISC,,,de,1
-Russische Trolle,Russische Trolle,MISC,,,de,1
-US-Wahlen der vergangenen Jahre.,US-Wahlen der vergangenen Jahre.,MISC,,,de,1
-MG4 Electric,MG4 Electric,MISC,,,de,1
-Blicklicht,Blicklicht,MISC,,,de,1
-Paludifarming,Paludifarming,MISC,,,de,1
-Energie-Krise: Soll ich jetzt mein Haus,Energie-Krise: Soll ich jetzt mein Haus,MISC,,,de,1
-Steckdose.,Steckdose.,MISC,,,de,1
-News im Überblick…,News im Überblick…,MISC,,,de,1
-Fest,Fest,MISC,,,de,1
-Gasnetz.,Gasnetz.,MISC,,,de,1
-CSU-Landesgruppe,CSU-Landesgruppe,MISC,,,de,1
-Konzessionsvertrages,Konzessionsvertrages,MISC,,,de,1
-Bundestag,Bundestag,MISC,,,de,1
-Terrorliste.,Terrorliste.,MISC,,,de,1
-Schweiz.,Schweiz.,MISC,,,de,1
-Betriebslizenz,Betriebslizenz,MISC,,,de,1
-COP27: «Menschheit,COP27: «Menschheit,MISC,,,de,1
-Das Berliner Gasnetz,Das Berliner Gasnetz,MISC,,,de,1
-Klima-Versprechen,Klima-Versprechen,MISC,,,de,1
-Mega-Blackout,Mega-Blackout,MISC,,,de,1
-Ukraine-Krieg: Russlands Truppenrückzug,Ukraine-Krieg: Russlands Truppenrückzug,MISC,,,de,1
-Truppenrückzug,Truppenrückzug,MISC,,,de,1
-"MG4 Electric Luxury: Elektro, Test, Motor,","MG4 Electric Luxury: Elektro, Test, Motor,",MISC,,,de,1
-Kl…,Kl…,MISC,,,de,1
-"COP27: ""Menschheit","COP27: ""Menschheit",MISC,,,de,1
-UN-Konferenz,UN-Konferenz,MISC,,,de,1
-Shell,Shell,MISC,,,de,1
+ENBW-Finanzvorstand,ENBW-Finanzvorstand,MISC,,,de,1
+Atom-Laufzeitverlängerung.,Atom-Laufzeitverlängerung.,MISC,,,de,1
+litauische,litauische,MISC,,,de,1
+Guten Morgen liebe Leserinnen,Guten Morgen liebe Leserinnen,MISC,,,de,1
+Solar,Solar,MISC,,,de,1
+DIE DEBATTENRUNDSCHAU:,DIE DEBATTENRUNDSCHAU:,MISC,,,de,1
+9PUNKT,9PUNKT,MISC,,,de,1
+Embargo pro Tag,Embargo pro Tag,MISC,,,de,1
+Demn…,Demn…,MISC,,,de,1
+Jänner.,Jänner.,MISC,,,de,1
+… Bali,… Bali,MISC,,,de,1
+Rekordtief.,Rekordtief.,MISC,,,de,1
+Schuldneratlas: Weniger Überschuldung,Schuldneratlas: Weniger Überschuldung,MISC,,,de,1
+Alles über meine Mutter.,Alles über meine Mutter.,MISC,,,de,1
+Gasspeicher-Füllstand knackt 100-Prozent-Marke.,Gasspeicher-Füllstand knackt 100-Prozent-Marke.,MISC,,,de,1
+Ölembargo,Ölembargo,MISC,,,de,1
+"Shadow Diplomats«-Enthüllungen: Vergewaltiger, Terrorfinanziers, Steuerhinterzieher","Shadow Diplomats«-Enthüllungen: Vergewaltiger, Terrorfinanziers, Steuerhinterzieher",MISC,,,de,1
+Weiterlesen),Weiterlesen),MISC,,,de,1
+Russland:,Russland:,MISC,,,de,1
+Vorjahresverbrauch,Vorjahresverbrauch,MISC,,,de,1
 russischen Krieges,russischen Krieges,MISC,,,de,1
-Ukraine-Krieg: Darum will Polen,Ukraine-Krieg: Darum will Polen,MISC,,,de,1
-australische,australische,MISC,,,de,1
-Medibank,Medibank,MISC,,,de,1
-Ent…,Ent…,MISC,,,de,1
-Moskaus Geheimdienstversagen,Moskaus Geheimdienstversagen,MISC,,,de,1
-Cyber-Krieg,Cyber-Krieg,MISC,,,de,1
-Klima-Demonstranten,Klima-Demonstranten,MISC,,,de,1
-Sächsische.de.,Sächsische.de.,MISC,,,de,1
-"Letzten Generation""  n-tv","Letzten Generation""  n-tv",MISC,,,de,1
-investierter,investierter,MISC,,,de,1
-"ALEXANDER NEMENOV/AFP, Agency People Image","ALEXANDER NEMENOV/AFP, Agency People Image",MISC,,,de,1
-Der bestialische Angriff Russlands,Der bestialische Angriff Russlands,MISC,,,de,1
-Chaosumlage 2,Chaosumlage 2,MISC,,,de,1
-Donnerstag leicht am Arm v…,Donnerstag leicht am Arm v…,MISC,,,de,1
-Donnerstag leicht am Arm v… Berlin,Donnerstag leicht am Arm v… Berlin,MISC,,,de,1
-Patriot-Systeme,Patriot-Systeme,MISC,,,de,1
-Angriff auf australische Krankenkasse.,Angriff auf australische Krankenkasse.,MISC,,,de,1
-Deutschland will,Deutschland will,MISC,,,de,1
-Stromnetz.,Stromnetz.,MISC,,,de,1
-"Letzten Generation"": Warum das Gerede","Letzten Generation"": Warum das Gerede",MISC,,,de,1
-M23-Rebellenchef,M23-Rebellenchef,MISC,,,de,1
-Flucht Richtung,Flucht Richtung,MISC,,,de,1
-Goma,Goma,MISC,,,de,1
-Angriff auf EU-Parlament,Angriff auf EU-Parlament,MISC,,,de,1
-Die Liebe zu Dating-Apps,Die Liebe zu Dating-Apps,MISC,,,de,1
-data.ai.,data.ai.,MISC,,,de,1
+Vormonat,Vormonat,MISC,,,de,1
+Emirat,Emirat,MISC,,,de,1
+News: G20,News: G20,MISC,,,de,1
+… ...,… ...,MISC,,,de,1
+OMV-Chef Stern,OMV-Chef Stern,MISC,,,de,1
+Süddeutsche Zeitung,Süddeutsche Zeitung,MISC,,,de,1
+OMV-Chef Alfred Stern.,OMV-Chef Alfred Stern.,MISC,,,de,1
+SAP for Utilities.,SAP for Utilities.,MISC,,,de,1
+Soforthilfe und Preisbremsen,Soforthilfe und Preisbremsen,MISC,,,de,1
+Jahr zu Jahr,Jahr zu Jahr,MISC,,,de,1
+Jahr rasan…,Jahr rasan…,MISC,,,de,1
+Tyrolit-Werk,Tyrolit-Werk,MISC,,,de,1
+Ukrainer?,Ukrainer?,MISC,,,de,1
+Frankreich,Frankreich,MISC,0.0,0.0,de,1
+Bürgerkr…,Bürgerkr…,MISC,,,de,1
+Russische Niederlage,Russische Niederlage,MISC,,,de,1
+Das Wort,Das Wort,MISC,,,de,1
+Erster LNG-Anleger,Erster LNG-Anleger,MISC,,,de,1
+Sicherheitsexpert…,Sicherheitsexpert…,MISC,,,de,1
+PG),PG),MISC,,,de,1
+Entwarnung bedeu…,Entwarnung bedeu…,MISC,,,de,1
+Entwarnung,Entwarnung,MISC,,,de,1
+Die Temperaturen,Die Temperaturen,MISC,,,de,1
+Der bewaffnete Mann,Der bewaffnete Mann,MISC,,,de,1
+Die Kühe von,Die Kühe von,MISC,,,de,1
+Silvesternacht,Silvesternacht,MISC,,,de,1
+Auf der Suche nach neuer Handelspolitik,Auf der Suche nach neuer Handelspolitik,MISC,,,de,1
+"Auslandsjournalismus: ""Ich habe mir","Auslandsjournalismus: ""Ich habe mir",MISC,,,de,1
+Flucht vor dem Krieg,Flucht vor dem Krieg,MISC,,,de,1
+Auto.,Auto.,MISC,,,de,1
+Neue Jahr,Neue Jahr,MISC,,,de,1
+Briten-Premier,Briten-Premier,MISC,,,de,1
+Ukrain…,Ukrain…,MISC,,,de,1
+Cherson-Erfolg,Cherson-Erfolg,MISC,,,de,1
+Football-Teams,Football-Teams,MISC,,,de,1
+Vertrag zur fossilen Abrüstung.,Vertrag zur fossilen Abrüstung.,MISC,,,de,1
+Hunger.,Hunger.,MISC,,,de,1
+Begeht Russland,Begeht Russland,MISC,,,de,1
+Propaganda-Vertreter,Propaganda-Vertreter,MISC,,,de,1
+Gazprom-Tochter.,Gazprom-Tochter.,MISC,,,de,1
+Ostfront,Ostfront,MISC,,,de,1
+Ukraine: Russische Rekruten,Ukraine: Russische Rekruten,MISC,,,de,1
+SPIEGEL-Reporter,SPIEGEL-Reporter,MISC,,,de,1
+WärmepumpeDie,WärmepumpeDie,MISC,,,de,1
+DER SPIEGEL»Es,DER SPIEGEL»Es,MISC,,,de,1
+Twitter?,Twitter?,MISC,,,de,1
+Mi…,Mi…,MISC,,,de,1
+Zeit von…,Zeit von…,MISC,,,de,1
+Deutschlands.,Deutschlands.,MISC,,,de,1
+Urlaub in Österreich,Urlaub in Österreich,MISC,,,de,1
+Winterurlaub trotz Krisen,Winterurlaub trotz Krisen,MISC,,,de,1
+lO Vepleu,lO Vepleu,MISC,,,de,1
+Niederlage in Cherson?,Niederlage in Cherson?,MISC,,,de,1
+Gashändler.,Gashändler.,MISC,,,de,1
+Erwerbsminderung,Erwerbsminderung,MISC,,,de,1
+sozialer,sozialer,MISC,,,de,1
+Au…,Au…,MISC,,,de,1
+Gaskunden-Entlastung,Gaskunden-Entlastung,MISC,,,de,1
+Verlags,Verlags,MISC,,,de,1
+Neue Daten,Neue Daten,MISC,,,de,1
+IAN LANGSDON/EPA-EFE/Shutterstock,IAN LANGSDON/EPA-EFE/Shutterstock,MISC,,,de,1
+Cybersicherheit im Jahr 2022: Schadsoftware,Cybersicherheit im Jahr 2022: Schadsoftware,MISC,,,de,1
+Bürokratie u,Bürokratie u,MISC,,,de,1
+Pnek vellele,Pnek vellele,MISC,,,de,1
+pekOeeheu.,pekOeeheu.,MISC,,,de,1
+Video,Video,MISC,,,de,1
+Matthias,Matthias,MISC,,,de,1
+NAC… <ul><li>13:01,NAC… <ul><li>13:01,MISC,,,de,1
 "Krieges""  WEB.DE News
 </li><li>","Krieges""  WEB.DE News
 </li><li>",MISC,,,de,1
-NAC… <ul><li>13:01,NAC… <ul><li>13:01,MISC,,,de,1
-Matthias,Matthias,MISC,,,de,1
-Video,Video,MISC,,,de,1
+data.ai.,data.ai.,MISC,,,de,1
+Die Liebe zu Dating-Apps,Die Liebe zu Dating-Apps,MISC,,,de,1
+Angriff auf EU-Parlament,Angriff auf EU-Parlament,MISC,,,de,1
+Goma,Goma,MISC,,,de,1
+Mars: Winter lässt Polkappen,Mars: Winter lässt Polkappen,MISC,,,de,1
+Flucht Richtung,Flucht Richtung,MISC,,,de,1
+M23-Rebellenchef,M23-Rebellenchef,MISC,,,de,1
+Taiwaner,Taiwaner,MISC,,,de,1
+RWE-Chef Markus Krebber: »Wir,RWE-Chef Markus Krebber: »Wir,MISC,,,de,1
+"Letzten Generation"": Warum das Gerede","Letzten Generation"": Warum das Gerede",MISC,,,de,1
+Stromnetz.,Stromnetz.,MISC,,,de,1
+Deutschland will,Deutschland will,MISC,,,de,1
+Po…,Po…,MISC,,,de,1
+Jahr bei der Klimaabgabe,Jahr bei der Klimaabgabe,MISC,,,de,1
+Patriot-Systeme,Patriot-Systeme,MISC,,,de,1
+Die Länder haben grünes Licht,Die Länder haben grünes Licht,MISC,,,de,1
+Europa.,Europa.,MISC,,,de,1
+Hungerkatastrophe,Hungerkatastrophe,MISC,,,de,1
+belarussische,belarussische,MISC,,,de,1
+"DER SPIEGEL
+</li><li…","DER SPIEGEL
+</li><li…",MISC,,,de,1
+Sowjetrussische Kommunisten,Sowjetrussische Kommunisten,MISC,,,de,1
+Gedenken an „Hungermord“,Gedenken an „Hungermord“,MISC,,,de,1
+Emsl…,Emsl…,MISC,,,de,1
+SPIEGEL-Informationen,SPIEGEL-Informationen,MISC,,,de,1
+Gebäudebestände.,Gebäudebestände.,MISC,,,de,1
+"Standard
+","Standard
+",MISC,,,de,1
+"Russlands Krieg: ""Bevölkerungszuwachs""","Russlands Krieg: ""Bevölkerungszuwachs""",MISC,,,de,1
+FOCUS onli…,FOCUS onli…,MISC,,,de,1
+Kein Gratis-Heizen!,Kein Gratis-Heizen!,MISC,,,de,1
+Triage,Triage,MISC,,,de,1
 Gesetzes gegen LGBTQ-Propaganda,Gesetzes gegen LGBTQ-Propaganda,MISC,,,de,1
+Gesetz zur… [+4724 chars],Gesetz zur… [+4724 chars],MISC,,,de,1
+Katars,Katars,MISC,,,de,1
+Ukraine-Krieg: Darum will Polen,Ukraine-Krieg: Darum will Polen,MISC,,,de,1
+katholische,katholische,MISC,,,de,1
+Angriff auf australische Krankenkasse.,Angriff auf australische Krankenkasse.,MISC,,,de,1
+Ent…,Ent…,MISC,,,de,1
+Medibank,Medibank,MISC,,,de,1
+Republikanische,Republikanische,MISC,,,de,1
+Richtigen?,Richtigen?,MISC,,,de,1
+Covid-19-Maßnahmen,Covid-19-Maßnahmen,MISC,,,de,1
+australische,australische,MISC,,,de,1
 "Cybererpressungen, sogenannten Ransomware-Angriffen.","Cybererpressungen, sogenannten Ransomware-Angriffen.",MISC,,,de,1
 Bev…,Bev…,MISC,,,de,1
-Kein Gratis-Heizen!,Kein Gratis-Heizen!,MISC,,,de,1
-Die Lage,Die Lage,MISC,,,de,1
-Liveticker: +++ 03:18 EU-Parlamentspräsidentin,Liveticker: +++ 03:18 EU-Parlamentspräsidentin,MISC,,,de,1
-Generatoren-Spenden,Generatoren-Spenden,MISC,,,de,1
-Liveticker: +++ 17:54 Satellitenaufnahmen,Liveticker: +++ 17:54 Satellitenaufnahmen,MISC,,,de,1
-Liveticker: +++ 02:21 Ukraine:,Liveticker: +++ 02:21 Ukraine:,MISC,,,de,1
-Liveticker: +++ 11:52 Morawiecki,Liveticker: +++ 11:52 Morawiecki,MISC,,,de,1
-Liveticker: +++ 05:52,Liveticker: +++ 05:52,MISC,,,de,1
-Liveticker: +++ 00:20,Liveticker: +++ 00:20,MISC,,,de,1
-Liveticker: +++ 16:44,Liveticker: +++ 16:44,MISC,,,de,1
-"Das Wichtigste in Kürze:
-- Selenskyj","Das Wichtigste in Kürze:
-- Selenskyj",MISC,,,de,1
-Die Menschen in der,Die Menschen in der,MISC,,,de,1
-"Stromnetzes  t-online""Mehr zum Thema","Stromnetzes  t-online""Mehr zum Thema",MISC,,,de,1
-Google News,Google News,MISC,,,de,1
-ZivilbevölkerungMit,ZivilbevölkerungMit,MISC,,,de,1
-Advents- und Weihnachtszeit,Advents- und Weihnachtszeit,MISC,,,de,1
-Angriff auf «Sixtinische Madonna»,Angriff auf «Sixtinische Madonna»,MISC,,,de,1
+Cyber-Krieg,Cyber-Krieg,MISC,,,de,1
 Russische Raketen-Angriffe,Russische Raketen-Angriffe,MISC,,,de,1
-Winters.,Winters.,MISC,,,de,1
-Liveticker: +++ 13:18 Funde,Liveticker: +++ 13:18 Funde,MISC,,,de,1
-ul><li>15:48,ul><li>15:48,MISC,,,de,1
-erholen</li><li>15:02 Uhr,erholen</li><li>15:02 Uhr,MISC,,,de,1
-"Letzten Generation""","Letzten Generation""",MISC,,,de,1
-Armut in,Armut in,MISC,,,de,1
-Patriot-Flugabwehr,Patriot-Flugabwehr,MISC,,,de,1
-Raketen-Abwehrsystem Patriot,Raketen-Abwehrsystem Patriot,MISC,,,de,1
-"Vormonat,…","Vormonat,…",MISC,,,de,1
-Konjunktur: Ifo-Index,Konjunktur: Ifo-Index,MISC,,,de,1
-Letzten Generation.,Letzten Generation.,MISC,,,de,1
-Mittwochnachmittag,Mittwochnachmittag,MISC,,,de,1
-Ukraine-Krieg +++,Ukraine-Krieg +++,MISC,,,de,1
 Attacke von Klimaaktivisten,Attacke von Klimaaktivisten,MISC,,,de,1
-britischer,britischer,MISC,,,de,1
-FOCUS onli…,FOCUS onli…,MISC,,,de,1
-Vorjahresverbrauch,Vorjahresverbrauch,MISC,,,de,1
-Schlacht [premium],Schlacht [premium],MISC,,,de,1
-Bundeswirtschaftsministerium.,Bundeswirtschaftsministerium.,MISC,,,de,1
-Rettung des taumelnde…,Rettung des taumelnde…,MISC,,,de,1
-Wagner-Chef,Wagner-Chef,MISC,,,de,1
+Mittwochnachmittag,Mittwochnachmittag,MISC,,,de,1
+Online-Videos,Online-Videos,MISC,,,de,1
+Letzten Generation.,Letzten Generation.,MISC,,,de,1
+Konjunktur: Ifo-Index,Konjunktur: Ifo-Index,MISC,,,de,1
+"Vormonat,…","Vormonat,…",MISC,,,de,1
+Moskaus Geheimdienstversagen,Moskaus Geheimdienstversagen,MISC,,,de,1
+Demonstrationen.,Demonstrationen.,MISC,,,de,1
+Amerikaner: Ersten Schätzungen,Amerikaner: Ersten Schätzungen,MISC,,,de,1
+Reportage: Wie die,Reportage: Wie die,MISC,,,de,1
+Donnerstag leicht am Arm v…,Donnerstag leicht am Arm v…,MISC,,,de,1
+Flucht vor Musk,Flucht vor Musk,MISC,,,de,1
+Donnerstag leicht am Arm v… Berlin,Donnerstag leicht am Arm v… Berlin,MISC,,,de,1
+Genozid,Genozid,MISC,,,de,1
+Chaosumlage 2,Chaosumlage 2,MISC,,,de,1
+Lindow/Mark,Lindow/Mark,MISC,,,de,1
+Der bestialische Angriff Russlands,Der bestialische Angriff Russlands,MISC,,,de,1
+"ALEXANDER NEMENOV/AFP, Agency People Image","ALEXANDER NEMENOV/AFP, Agency People Image",MISC,,,de,1
+Fünf Frauen und Männer,Fünf Frauen und Männer,MISC,,,de,1
+investierter,investierter,MISC,,,de,1
+"Letzten Generation""  n-tv","Letzten Generation""  n-tv",MISC,,,de,1
+Sächsische.de.,Sächsische.de.,MISC,,,de,1
+Klima-Demonstranten,Klima-Demonstranten,MISC,,,de,1
+Fmg Tuåoef- fjo Gftuqsfjt;,Fmg Tuåoef- fjo Gftuqsfjt;,MISC,,,de,1
+Xåimfo nýttfo…,Xåimfo nýttfo…,MISC,,,de,1
+Deutschland stell…,Deutschland stell…,MISC,,,de,1
+Reservisten +++ Macron,Reservisten +++ Macron,MISC,,,de,1
+Staa…,Staa…,MISC,,,de,1
+Mona…,Mona…,MISC,,,de,1
+Blickfeld.,Blickfeld.,MISC,,,de,1
+Liveticker: +++ 06:40,Liveticker: +++ 06:40,MISC,,,de,1
+LGBTQ-Rechte,LGBTQ-Rechte,MISC,,,de,1
+Auftrag von Russland,Auftrag von Russland,MISC,,,de,1
+Luftverteidigungssystem PatriotUnterstützung,Luftverteidigungssystem PatriotUnterstützung,MISC,,,de,1
+Nasa.,Nasa.,MISC,,,de,1
+Sas,Sas,MISC,,,de,1
+Liveticker: +++ 10:14 London,Liveticker: +++ 10:14 London,MISC,,,de,1
+Fachtagung des,Fachtagung des,MISC,,,de,1
+Liveticker: +++ 14:29 Baerbock,Liveticker: +++ 14:29 Baerbock,MISC,,,de,1
+Labern.,Labern.,MISC,,,de,1
+WM in Katar.,WM in Katar.,MISC,,,de,1
+LGBT in Russland,LGBT in Russland,MISC,,,de,1
 "Tag When browsing with ads:
 We collect personal data and also transmit it to third-party providers
  that help us improve and finance our digital content.","Tag When browsing with ads:
 We collect personal data and also transmit it to third-party providers
  that help us improve and finance our digital content.",MISC,,,de,1
-LGBT in Russland,LGBT in Russland,MISC,,,de,1
-WM in Katar.,WM in Katar.,MISC,,,de,1
-Fußball-WM,Fußball-WM,MISC,,,de,1
-Labern.,Labern.,MISC,,,de,1
-Fachtagung des,Fachtagung des,MISC,,,de,1
-Blickfeld.,Blickfeld.,MISC,,,de,1
-Sas,Sas,MISC,,,de,1
-Nasa.,Nasa.,MISC,,,de,1
-Luftverteidigungssystem PatriotUnterstützung,Luftverteidigungssystem PatriotUnterstützung,MISC,,,de,1
-LGBTQ-Rechte,LGBTQ-Rechte,MISC,,,de,1
+Liveticker: +++ 16:31,Liveticker: +++ 16:31,MISC,,,de,1
+Wagner-Chef,Wagner-Chef,MISC,,,de,1
+Rettung des taumelnde…,Rettung des taumelnde…,MISC,,,de,1
+Liveticker: +++ 09:53,Liveticker: +++ 09:53,MISC,,,de,1
 Ostkongo: Sofortiger Waffenstillstand,Ostkongo: Sofortiger Waffenstillstand,MISC,,,de,1
-NAT…,NAT…,MISC,,,de,1
-M23-Rebellen,M23-Rebellen,MISC,,,de,1
-Rebellengruppe M23,Rebellengruppe M23,MISC,,,de,1
-afrikanische,afrikanische,MISC,,,de,1
-Ostkongo gee…,Ostkongo gee…,MISC,,,de,1
-Zeit für e…,Zeit für e…,MISC,,,de,1
-Su-25,Su-25,MISC,,,de,1
-UkraineDas Foto,UkraineDas Foto,MISC,,,de,1
-Krieg von Russlands,Krieg von Russlands,MISC,,,de,1
-Superbomber B-21.,Superbomber B-21.,MISC,,,de,1
-Anti-LGBT-Gesetz,Anti-LGBT-Gesetz,MISC,,,de,1
-Gesetzes über die so... Russland,Gesetzes über die so... Russland,MISC,,,de,1
-russischen Überfalls auf die,russischen Überfalls auf die,MISC,,,de,1
-"Drohende Rezession,","Drohende Rezession,",MISC,,,de,1
-Kölner,Kölner,MISC,,,de,1
 "Letzten Generation"" mehrere Kunstwerke","Letzten Generation"" mehrere Kunstwerke",MISC,,,de,1
-NATO-Luftverteidigung.,NATO-Luftverteidigung.,MISC,,,de,1
-"Russlands Krieg: ""Bevölkerungszuwachs""","Russlands Krieg: ""Bevölkerungszuwachs""",MISC,,,de,1
-"Print-Magazin
-werbefrei &amp;","Print-Magazin
-werbefrei &amp;",MISC,,,de,1
-Gedenken an „Hungermord“,Gedenken an „Hungermord“,MISC,,,de,1
-Sowjetrussische Kommunisten,Sowjetrussische Kommunisten,MISC,,,de,1
-österreichischen,österreichischen,MISC,,,de,1
-Hungerkatastrophe,Hungerkatastrophe,MISC,,,de,1
-Europa.,Europa.,MISC,,,de,1
-Reservisten +++ Macron,Reservisten +++ Macron,MISC,,,de,1
-katholische,katholische,MISC,,,de,1
-Zwei Unbekannte,Zwei Unbekannte,MISC,,,de,1
-dmbttµ#bsujdmf``mpdbujpo#?Bm,dmbttµ#bsujdmf``mpdbujpo#?Bm,MISC,,,de,1
-LNG-Terminals.,LNG-Terminals.,MISC,,,de,1
-russische Invasion,russische Invasion,MISC,,,de,1
-etp keleketl,etp keleketl,MISC,,,de,1
-Schwerpunkt-Themen,Schwerpunkt-Themen,MISC,,,de,1
-"Kriegs: ""Unmöglich, so zu","Kriegs: ""Unmöglich, so zu",MISC,,,de,1
-Schlick-Drama.,Schlick-Drama.,MISC,,,de,1
-J…,J…,MISC,,,de,1
-WELT-Informationen,WELT-Informationen,MISC,,,de,1
+Krieg von Russlands,Krieg von Russlands,MISC,,,de,1
+"Drohende Rezession,","Drohende Rezession,",MISC,,,de,1
+russischen Überfalls auf die,russischen Überfalls auf die,MISC,,,de,1
+Tag gegen Gewalt an Frauen: Kunst,Tag gegen Gewalt an Frauen: Kunst,MISC,,,de,1
+Gesetzes über die so... Russland,Gesetzes über die so... Russland,MISC,,,de,1
+Anti-LGBT-Gesetz,Anti-LGBT-Gesetz,MISC,,,de,1
+KI,KI,MISC,,,de,1
+Superbomber B-21.,Superbomber B-21.,MISC,,,de,1
+UkraineDas Foto,UkraineDas Foto,MISC,,,de,1
+M23-Rebellen,M23-Rebellen,MISC,,,de,1
+Su-25,Su-25,MISC,,,de,1
+Zeit für e…,Zeit für e…,MISC,,,de,1
+Liveticker: +++ 09:36 Gouverneur:,Liveticker: +++ 09:36 Gouverneur:,MISC,,,de,1
+Ostkongo gee…,Ostkongo gee…,MISC,,,de,1
+afrikanische,afrikanische,MISC,,,de,1
+Rebellengruppe M23,Rebellengruppe M23,MISC,,,de,1
+Liveticker: +++ 03:20,Liveticker: +++ 03:20,MISC,,,de,1
+Bundeswirtschaftsministerium.,Bundeswirtschaftsministerium.,MISC,,,de,1
+Liveticker: +++ 01:57,Liveticker: +++ 01:57,MISC,,,de,1
+Die jüngsten Forderungen Russlands,Die jüngsten Forderungen Russlands,MISC,,,de,1
+Schlacht um Infrastruktur | WELT Newsstream  ,Schlacht um Infrastruktur | WELT Newsstream  ,MISC,,,de,1
 Flucht nach der Befreiung,Flucht nach der Befreiung,MISC,,,de,1
-Novemberwind,Novemberwind,MISC,,,de,1
-Der kalte Novemberwind,Der kalte Novemberwind,MISC,,,de,1
-EZB-Sitzung,EZB-Sitzung,MISC,,,de,1
-Zeit festsetzen…,Zeit festsetzen…,MISC,,,de,1
-Angriffe auf Stromnetz:,Angriffe auf Stromnetz:,MISC,,,de,1
-Finsternis.,Finsternis.,MISC,,,de,1
-Zufallsgewinnen.,Zufallsgewinnen.,MISC,,,de,1
-Robocop,Robocop,MISC,,,de,1
-Energiekrise: Die Kraft der Krise: Wie,Energiekrise: Die Kraft der Krise: Wie,MISC,,,de,1
-Flucht über den Ärmelkanal: Asylprobleme,Flucht über den Ärmelkanal: Asylprobleme,MISC,,,de,1
-Großbritannien.,Großbritannien.,MISC,,,de,1
-Gerettete Mi­gran­t:in­nen,Gerettete Mi­gran­t:in­nen,MISC,,,de,1
-Liveticker: +++ 13:57,Liveticker: +++ 13:57,MISC,,,de,1
-Liveticker: +++ 10:31 Munz: Stalin-Vergleich,Liveticker: +++ 10:31 Munz: Stalin-Vergleich,MISC,,,de,1
-Versto…,Versto…,MISC,,,de,1
-"Liveticker: +++ 18:07 ""Beispiellos""","Liveticker: +++ 18:07 ""Beispiellos""",MISC,,,de,1
-Liveblog: ++ IAEA,Liveblog: ++ IAEA,MISC,,,de,1
-Die Lecks,Die Lecks,MISC,,,de,1
-Explosionsorten in …,Explosionsorten in …,MISC,,,de,1
-Gas-Pipelines,Gas-Pipelines,MISC,,,de,1
-Nord-Stream-Gaspipelines,Nord-Stream-Gaspipelines,MISC,,,de,1
-Speicherbetreiber:,Speicherbetreiber:,MISC,,,de,1
-Fer…,Fer…,MISC,,,de,1
-Die Betreiber der,Die Betreiber der,MISC,,,de,1
-Teuer-Schock,Teuer-Schock,MISC,,,de,1
-Liveticker: +++ 15:15,Liveticker: +++ 15:15,MISC,,,de,1
-Russlands Ostseeflotte,Russlands Ostseeflotte,MISC,,,de,1
-russische Ostseeflotte,russische Ostseeflotte,MISC,,,de,1
-Baltischen Flotte,Baltischen Flotte,MISC,,,de,1
-Liveticker: +++ 14:40,Liveticker: +++ 14:40,MISC,,,de,1
-Einreise-Verbot,Einreise-Verbot,MISC,,,de,1
-Foto: DANIEL,Foto: DANIEL,MISC,,,de,1
-OSZE-Gipfel,OSZE-Gipfel,MISC,,,de,1
-Liveticker: +++ 05:21 Prekäre,Liveticker: +++ 05:21 Prekäre,MISC,,,de,1
-Liveticker: +++ 16:54,Liveticker: +++ 16:54,MISC,,,de,1
-Liveticker: +++ 21:52,Liveticker: +++ 21:52,MISC,,,de,1
-Die Preisbremsen für Strom und Gas,Die Preisbremsen für Strom und Gas,MISC,,,de,1
-estnische,estnische,MISC,,,de,1
-ERR,ERR,MISC,,,de,1
-Liveticker: +++ 00:08 Iran,Liveticker: +++ 00:08 Iran,MISC,,,de,1
-Apec,Apec,MISC,,,de,1
-thailändische,thailändische,MISC,,,de,1
-ostukrainischen,ostukrainischen,MISC,,,de,1
-Todesopfer des,Todesopfer des,MISC,,,de,1
-BBK)  Ralph Tiesler,BBK)  Ralph Tiesler,MISC,,,de,1
-Weltklimakonferenz: Ärmere Länder,Weltklimakonferenz: Ärmere Länder,MISC,,,de,1
-Schäuble.,Schäuble.,MISC,,,de,1
-Fridays for Future:,Fridays for Future:,MISC,,,de,1
-"Bergens Tidende""","Bergens Tidende""",MISC,,,de,1
-Das Wort,Das Wort,MISC,,,de,1
-Russland:,Russland:,MISC,,,de,1
-Ölembargo,Ölembargo,MISC,,,de,1
-Embargo pro Tag,Embargo pro Tag,MISC,,,de,1
-Gasspeicher-Füllstand knackt 100-Prozent-Marke.,Gasspeicher-Füllstand knackt 100-Prozent-Marke.,MISC,,,de,1
-Schuldneratlas: Weniger Überschuldung,Schuldneratlas: Weniger Überschuldung,MISC,,,de,1
-Rekordtief.,Rekordtief.,MISC,,,de,1
-… Bali,… Bali,MISC,,,de,1
-Demn…,Demn…,MISC,,,de,1
-OMV-Chef Stern,OMV-Chef Stern,MISC,,,de,1
-Süddeutsche Zeitung,Süddeutsche Zeitung,MISC,,,de,1
-OMV-Chef Alfred Stern.,OMV-Chef Alfred Stern.,MISC,,,de,1
-Entwarnung,Entwarnung,MISC,,,de,1
-Entwarnung bedeu…,Entwarnung bedeu…,MISC,,,de,1
-Erster LNG-Anleger,Erster LNG-Anleger,MISC,,,de,1
-Jahr zu Jahr,Jahr zu Jahr,MISC,,,de,1
-Aufstand.,Aufstand.,MISC,,,de,1
-Soforthilfe und Preisbremsen,Soforthilfe und Preisbremsen,MISC,,,de,1
-SAP for Utilities.,SAP for Utilities.,MISC,,,de,1
-Jahrestief,Jahrestief,MISC,,,de,1
-Statistisches Bundesamt: Mehr,Statistisches Bundesamt: Mehr,MISC,,,de,1
-ARD-Intervi…,ARD-Intervi…,MISC,,,de,1
-AKW-Abfall,AKW-Abfall,MISC,,,de,1
-Jahr 2022,Jahr 2022,MISC,,,de,1
-Spot-Preise k…,Spot-Preise k…,MISC,,,de,1
-COP-27-Klimakonferenz für bedenklich.,COP-27-Klimakonferenz für bedenklich.,MISC,,,de,1
-Argentinien.,Argentinien.,MISC,,,de,1
-Haltesignals,Haltesignals,MISC,,,de,1
-Brexit für die schlechte Situation der Wirtschaft,Brexit für die schlechte Situation der Wirtschaft,MISC,,,de,1
-Stromkrise,Stromkrise,MISC,,,de,1
-Tesla-Chef,Tesla-Chef,MISC,,,de,1
-Reis.,Reis.,MISC,,,de,1
-"G20-Konferenz auf Bali, den globalen Temperaturanstieg","G20-Konferenz auf Bali, den globalen Temperaturanstieg",MISC,,,de,1
-Münchner,Münchner,MISC,,,de,1
-Hokkaido,Hokkaido,MISC,,,de,1
-Liveticker: +++ 10:02 Ukraine: Massiver Beschuss,Liveticker: +++ 10:02 Ukraine: Massiver Beschuss,MISC,,,de,1
-Ukraine-Liveblog: ++ Kuleba,Ukraine-Liveblog: ++ Kuleba,MISC,,,de,1
-Verteidigungspläne.,Verteidigungspläne.,MISC,,,de,1
-Aserbaidscha…,Aserbaidscha…,MISC,,,de,1
-Weltmeisterschaft,Weltmeisterschaft,MISC,,,de,1
-Babys in den Arm,Babys in den Arm,MISC,,,de,1
-Schlimmster Winter,Schlimmster Winter,MISC,,,de,1
-Zweitem Weltkrieg“,Zweitem Weltkrieg“,MISC,,,de,1
-Russlands Invasion,Russlands Invasion,MISC,,,de,1
-Gasumlage.,Gasumlage.,MISC,,,de,1
-Dez…,Dez…,MISC,,,de,1
-me…,me…,MISC,,,de,1
-Terrorismus.,Terrorismus.,MISC,,,de,1
-"Kiew, den Höllenkämpfen","Kiew, den Höllenkämpfen",MISC,,,de,1
-Japans Hauptins…,Japans Hauptins…,MISC,,,de,1
-Zerstörte Stromversorgung,Zerstörte Stromversorgung,MISC,,,de,1
-Tages:,Tages:,MISC,,,de,1
-Notstand in der Ukraine.,Notstand in der Ukraine.,MISC,,,de,1
-Petersburger Dialogs,Petersburger Dialogs,MISC,,,de,1
-Liveticker: +++ 23:37,Liveticker: +++ 23:37,MISC,,,de,1
-Spezialoperation,Spezialoperation,MISC,,,de,1
-Liveticker: +++ 10:00 Ungarn,Liveticker: +++ 10:00 Ungarn,MISC,,,de,1
-Liveticker: +++ 17:10 Litauen,Liveticker: +++ 17:10 Litauen,MISC,,,de,1
-Liveticker: +++ 14:15,Liveticker: +++ 14:15,MISC,,,de,1
-Liveticker: +++ 06:24 Infrastruktur,Liveticker: +++ 06:24 Infrastruktur,MISC,,,de,1
-Liveticker: +++ 16:26 Lambrecht: Patriot-Raketensysteme,Liveticker: +++ 16:26 Lambrecht: Patriot-Raketensysteme,MISC,,,de,1
-Liveticker: +++ 18:23 Stromausfall:,Liveticker: +++ 18:23 Stromausfall:,MISC,,,de,1
-Liveticker: +++ 12:36 EU,Liveticker: +++ 12:36 EU,MISC,,,de,1
-Liveticker: +++ 00:58 Bericht:,Liveticker: +++ 00:58 Bericht:,MISC,,,de,1
-34 Jahre alter Russe,34 Jahre alter Russe,MISC,,,de,1
-Liveticker: +++ 15:34,Liveticker: +++ 15:34,MISC,,,de,1
-Liveticker: +++ 13:51,Liveticker: +++ 13:51,MISC,,,de,1
-Liveticker: +++ 10:24,Liveticker: +++ 10:24,MISC,,,de,1
-Wareneinfuhren,Wareneinfuhren,MISC,,,de,1
-Proteste auf Eis,Proteste auf Eis,MISC,,,de,1
-"Das Wichtigste im Überblick:
-<ul><li>Selenskyj","Das Wichtigste im Überblick:
-<ul><li>Selenskyj",MISC,,,de,1
-News: Fußball-WM,News: Fußball-WM,MISC,,,de,1
-"Katar, Fifa","Katar, Fifa",MISC,,,de,1
-Winter: Terminals,Winter: Terminals,MISC,,,de,1
-Terminal-Kosten,Terminal-Kosten,MISC,,,de,1
-Winter:,Winter:,MISC,,,de,1
-Mona…,Mona…,MISC,,,de,1
-Lieber Journalisten,Lieber Journalisten,MISC,,,de,1
-"Krieg, Coronafolgen","Krieg, Coronafolgen",MISC,,,de,1
-Tag am Schreibtisch,Tag am Schreibtisch,MISC,,,de,1
-Bürokratie u,Bürokratie u,MISC,,,de,1
-Podcast.,Podcast.,MISC,,,de,1
-Managing Director DACH,Managing Director DACH,MISC,,,de,1
-Freundschaft von Schröder,Freundschaft von Schröder,MISC,,,de,1
-Tag der Wiederholungswahl.,Tag der Wiederholungswahl.,MISC,,,de,1
-Klima-Protesten,Klima-Protesten,MISC,,,de,1
-Liveticker: +++ 07:25 London: Russland,Liveticker: +++ 07:25 London: Russland,MISC,,,de,1
-Liveticker: +++ 08:52,Liveticker: +++ 08:52,MISC,,,de,1
-Ukraine +++,Ukraine +++,MISC,,,de,1
-Sea King,Sea King,MISC,,,de,1
-Liveticker: +++ 06:53,Liveticker: +++ 06:53,MISC,,,de,1
-Russische Kriegsgefangene,Russische Kriegsgefangene,MISC,,,de,1
-"Kyiv Independent""","Kyiv Independent""",MISC,,,de,1
-Liveticker: +++ 06:25 Kiew: Russland,Liveticker: +++ 06:25 Kiew: Russland,MISC,,,de,1
-Iskander 829,Iskander 829,MISC,,,de,1
-Iskander …,Iskander …,MISC,,,de,1
-Liveticker: +++ 09:18 Bayern,Liveticker: +++ 09:18 Bayern,MISC,,,de,1
-Deutschland +++,Deutschland +++,MISC,,,de,1
-Satire-Video,Satire-Video,MISC,,,de,1
-Minenräumschiff,Minenräumschiff,MISC,,,de,1
-"Gaspreis-Bremse  BILD
-","Gaspreis-Bremse  BILD
-",MISC,,,de,1
-Liveticker: +++ 15:26 Erdogan,Liveticker: +++ 15:26 Erdogan,MISC,,,de,1
-LNG-Terminalschiff,LNG-Terminalschiff,MISC,,,de,1
-Gasunternehmens Uniper,Gasunternehmens Uniper,MISC,,,de,1
-LNG-Standorten,LNG-Standorten,MISC,,,de,1
-Nachkriegsjahren,Nachkriegsjahren,MISC,,,de,1
-Erdg…,Erdg…,MISC,,,de,1
-Pleitewelle,Pleitewelle,MISC,,,de,1
-Wetten,Wetten,MISC,,,de,1
-Foto:Â Taxi Japan/Getty Images,Foto:Â Taxi Japan/Getty Images,MISC,,,de,1
-Pro Tag,Pro Tag,MISC,,,de,1
-Atom- u…,Atom- u…,MISC,,,de,1
-"iPhone VPN, TikTok.","iPhone VPN, TikTok.",MISC,,,de,1
-Deutschlands Finanzaufseher,Deutschlands Finanzaufseher,MISC,,,de,1
-Deutscher Gasspeicher-Füllstand,Deutscher Gasspeicher-Füllstand,MISC,,,de,1
-Liveticker: +++ 04:33,Liveticker: +++ 04:33,MISC,,,de,1
-Die Nacht im Überblick.,Die Nacht im Überblick.,MISC,,,de,1
-Alternativmodell,Alternativmodell,MISC,,,de,1
-"News: Die Grünen, Atomkraft","News: Die Grünen, Atomkraft",MISC,,,de,1
-Irans Frauen,Irans Frauen,MISC,,,de,1
-"Nein danke!""","Nein danke!""",MISC,,,de,1
-Sitzheizungen,Sitzheizungen,MISC,,,de,1
-Videos,Videos,MISC,,,de,1
-Pullover: Die Welt,Pullover: Die Welt,MISC,,,de,1
-Zorn auf die Grünen:,Zorn auf die Grünen:,MISC,,,de,1
-Krieg gegen Russland,Krieg gegen Russland,MISC,,,de,1
-Warum Frost,Warum Frost,MISC,,,de,1
-FrontDer,FrontDer,MISC,,,de,1
-Appell an Habeck:,Appell an Habeck:,MISC,,,de,1
-Ironman,Ironman,MISC,,,de,1
-Xpress,Xpress,MISC,,,de,1
-La…,La…,MISC,,,de,1
-Popstar der…,Popstar der…,MISC,,,de,1
-Die …,Die …,MISC,,,de,1
-Am Freitag weichen die Grünen,Am Freitag weichen die Grünen,MISC,,,de,1
-"Ukraine-Krieg  BILD
-</li><li>Maschinenbaugipfel: Doppelpass  FAZ","Ukraine-Krieg  BILD
-</li><li>Maschinenbaugipfel: Doppelpass  FAZ",MISC,,,de,1
-Beschaffungspreis,Beschaffungspreis,MISC,,,de,1
-LieÃŸe,LieÃŸe,MISC,,,de,1
-Herr weâ€¦,Herr weâ€¦,MISC,,,de,1
-Einspeichern von Gas,Einspeichern von Gas,MISC,,,de,1
-Liveticker: +++ 10:17 Stromversorgung,Liveticker: +++ 10:17 Stromversorgung,MISC,,,de,1
-Liveticker: +++ 11:14 Kiewer,Liveticker: +++ 11:14 Kiewer,MISC,,,de,1
-Kurze Zeit,Kurze Zeit,MISC,,,de,1
-Die Angst um Leib und Leben…,Die Angst um Leib und Leben…,MISC,,,de,1
-Liveticker: +++ 11:33 Ukraine:,Liveticker: +++ 11:33 Ukraine:,MISC,,,de,1
-A…,A…,MISC,,,de,1
-Liveticker: +++ 10:37 Russland,Liveticker: +++ 10:37 Russland,MISC,,,de,1
-Die Stimme Berlins.,Die Stimme Berlins.,MISC,,,de,1
-"Die Stimme Berlins
-</li><li>","Die Stimme Berlins
+WELT-Informationen,WELT-Informationen,MISC,,,de,1
+Was heute Nacht,Was heute Nacht,MISC,,,de,1
+Militär-Gipfel,Militär-Gipfel,MISC,,,de,1
+Die Nacht im Überblick,Die Nacht im Überblick,MISC,,,de,1
+Schlick-Drama.,Schlick-Drama.,MISC,,,de,1
+"Die Nacht im Überblick  WEB.DE News
+</li><li>","Die Nacht im Überblick  WEB.DE News
 </li><li>",MISC,,,de,1
-Kalter Winter“:,Kalter Winter“:,MISC,,,de,1
-Energiekrise: Zwei Pullover und Kerzen - Schäuble,Energiekrise: Zwei Pullover und Kerzen - Schäuble,MISC,,,de,1
-"CORONA, INFLATION:","CORONA, INFLATION:",MISC,,,de,1
-Diesel-Preis,Diesel-Preis,MISC,,,de,1
-Dieselpreis in,Dieselpreis in,MISC,,,de,1
-NATO-Treffens,NATO-Treffens,MISC,,,de,1
-Liveticker: +++ 16:02 Kinder und Senioren,Liveticker: +++ 16:02 Kinder und Senioren,MISC,,,de,1
-Liveticker: +++ 18:03 EU-Staaten: Russische Reisepässe,Liveticker: +++ 18:03 EU-Staaten: Russische Reisepässe,MISC,,,de,1
-Rezession.,Rezession.,MISC,,,de,1
-Marâ€¦,Marâ€¦,MISC,,,de,1
-Sinochem,Sinochem,MISC,,,de,1
-diesem Jahr,diesem Jahr,MISC,,,de,1
-Kriegseintritt,Kriegseintritt,MISC,,,de,1
-BASF-Standort,BASF-Standort,MISC,,,de,1
-Liveticker: +++ 23:57,Liveticker: +++ 23:57,MISC,,,de,1
-"Das Wichtigste in Kürze:
-<ul><li>","Das Wichtigste in Kürze:
-<ul><li>",MISC,,,de,1
-"Deutschland
-</li><li>KRIEG","Deutschland
-</li><li>KRIEG",MISC,,,de,1
-Riad,Riad,MISC,,,de,1
-Ines auf…,Ines auf…,MISC,,,de,1
-Entlastungsmaßnahme  t-online,Entlastungsmaßnahme  t-online,MISC,,,de,1
-Russische Invasion: Putin,Russische Invasion: Putin,MISC,,,de,1
-Explosionsgefahr,Explosionsgefahr,MISC,,,de,1
-Euro,Euro,MISC,,,de,1
-Der Krieg Russlands,Der Krieg Russlands,MISC,,,de,1
-"Atomkraft: Keine Blackouts, niedrigere Preise?","Atomkraft: Keine Blackouts, niedrigere Preise?",MISC,,,de,1
-AKW NeckarwestheimEntscheidung,AKW NeckarwestheimEntscheidung,MISC,,,de,1
-Grundschul-Ländervergleich,Grundschul-Ländervergleich,MISC,,,de,1
-Freiwilligkeit,Freiwilligkeit,MISC,,,de,1
-AKW-Laufzeiten,AKW-Laufzeiten,MISC,0.0,0.0,de,1
-Super-Inflation,Super-Inflation,MISC,,,de,1
-Energie-Profite,Energie-Profite,MISC,,,de,1
-Die Ruhe im Land,Die Ruhe im Land,MISC,,,de,1
-Bundesrat am Zug,Bundesrat am Zug,MISC,,,de,1
-CO2-Kosten,CO2-Kosten,MISC,,,de,1
-CO2-Preises,CO2-Preises,MISC,,,de,1
-Sanifair: Die WC-Preisbremse,Sanifair: Die WC-Preisbremse,MISC,,,de,1
-Liveticker: +++ 21:55 Ex-General Kather:,Liveticker: +++ 21:55 Ex-General Kather:,MISC,,,de,1
-Wertbon-System.,Wertbon-System.,MISC,,,de,1
-Krieg zwischen,Krieg zwischen,MISC,,,de,1
-Unselige,Unselige,MISC,,,de,1
-Ukrainekrieg:,Ukrainekrieg:,MISC,,,de,1
-Modische Statements …,Modische Statements …,MISC,,,de,1
-Deutschland,Deutschland,MISC,-0.0036363636363636364,0.0,de,1
-Krieg in der Ukraine.,Krieg in der Ukraine.,MISC,,,de,1
-Nicht-Gaskunden.,Nicht-Gaskunden.,MISC,,,de,1
-rot-grün-rote Senat,rot-grün-rote Senat,MISC,,,de,1
-"Ampel ohne ""Vertrauensproblem""","Ampel ohne ""Vertrauensproblem""",MISC,,,de,1
-Zwei Tage nach der Ansage,Zwei Tage nach der Ansage,MISC,,,de,1
-Britisches Kabinett umgebildet:,Britisches Kabinett umgebildet:,MISC,,,de,1
-Unterhaus.,Unterhaus.,MISC,,,de,1
-Ukraine-Krieg: Energiekrise,Ukraine-Krieg: Energiekrise,MISC,,,de,1
-Liveticker: +++ 19:45 Habeck: Haben gute Chance,Liveticker: +++ 19:45 Habeck: Haben gute Chance,MISC,,,de,1
-Liveticker: +++ 21:34,Liveticker: +++ 21:34,MISC,,,de,1
-CO₂-Neutralität: Zwei,CO₂-Neutralität: Zwei,MISC,,,de,1
-Atomkraftwerk-Machtwort des,Atomkraftwerk-Machtwort des,MISC,,,de,1
-Netto-Null-Emissionen,Netto-Null-Emissionen,MISC,,,de,1
-Ein Jahr wie dieses,Ein Jahr wie dieses,MISC,,,de,1
-süddeutscher,süddeutscher,MISC,,,de,1
-Tories,Tories,MISC,,,de,1
-Gaspreisdeckel: Wer zur Hölle,Gaspreisdeckel: Wer zur Hölle,MISC,,,de,1
-Terminkontrakt TTF,Terminkontrakt TTF,MISC,,,de,1
-Wetter: Wie,Wetter: Wie,MISC,,,de,1
-Ampel-Streit,Ampel-Streit,MISC,,,de,1
-Kamikaze-Drohnenangriff,Kamikaze-Drohnenangriff,MISC,,,de,1
-Der Moment des Einschlages,Der Moment des Einschlages,MISC,,,de,1
-Streit um die Atomkraft,Streit um die Atomkraft,MISC,,,de,1
-AKW-Machtwort,AKW-Machtwort,MISC,,,de,1
-Bitterfeld-Wolfe…,Bitterfeld-Wolfe…,MISC,,,de,1
-Nordstream-Pipeline,Nordstream-Pipeline,MISC,,,de,1
-Liveticker: +++ 10:01 Dänemark:,Liveticker: +++ 10:01 Dänemark:,MISC,,,de,1
-Estnisches,Estnisches,MISC,,,de,1
-dänische,dänische,MISC,,,de,1
-dänischen,dänischen,MISC,,,de,1
-Ende Sep…,Ende Sep…,MISC,,,de,1
-Britische,Britische,MISC,,,de,1
-Atomkraft:,Atomkraft:,MISC,,,de,1
-Marder,Marder,MISC,,,de,1
-Ostsee-Pipelines.,Ostsee-Pipelines.,MISC,,,de,1
-dänischer,dänischer,MISC,,,de,1
-Ã¤rmere,Ã¤rmere,MISC,,,de,1
-HeiÃŸ,HeiÃŸ,MISC,,,de,1
-Französische,Französische,MISC,,,de,1
-LNG-Frachter,LNG-Frachter,MISC,,,de,1
-europäischer,europäischer,MISC,,,de,1
-Liveticker: +++ 14:42,Liveticker: +++ 14:42,MISC,,,de,1
-Kälte & Stromausfall:,Kälte & Stromausfall:,MISC,,,de,1
-Wie Frostbeulen,Wie Frostbeulen,MISC,,,de,1
-Nachhaltigkeit: Rezession,Nachhaltigkeit: Rezession,MISC,,,de,1
-Krieg mit Russland,Krieg mit Russland,MISC,,,de,1
-Gaspipeline-Saboteuren,Gaspipeline-Saboteuren,MISC,,,de,1
-Widersprüche,Widersprüche,MISC,,,de,1
-Absturz,Absturz,MISC,,,de,1
-Vermutete Sabotage: Oslo,Vermutete Sabotage: Oslo,MISC,,,de,1
-Erdgasmarkt.,Erdgasmarkt.,MISC,,,de,1
-Deutschland gerettet!,Deutschland gerettet!,MISC,,,de,1
-Ostsee-Pipelines,Ostsee-Pipelines,MISC,,,de,1
-ARD-Mittwochstalk maisch…,ARD-Mittwochstalk maisch…,MISC,,,de,1
-Preis von Gas,Preis von Gas,MISC,,,de,1
-Hohe Energiepreise: Deutsche Stahlwerke,Hohe Energiepreise: Deutsche Stahlwerke,MISC,,,de,1
-fÃ¼hrenden,fÃ¼hrenden,MISC,,,de,1
-Wirtschaftsinstitute,Wirtschaftsinstitute,MISC,,,de,1
-nÃ¤chste Jahr,nÃ¤chste Jahr,MISC,,,de,1
-Wirtschaftsminister Habeck,Wirtschaftsminister Habeck,MISC,,,de,1
-Alarm,Alarm,MISC,,,de,1
-An einen Zufall zu glauben,An einen Zufall zu glauben,MISC,,,de,1
-Whisky-Rausch,Whisky-Rausch,MISC,,,de,1
-Finanzministe…,Finanzministe…,MISC,,,de,1
-ManometerFällt,ManometerFällt,MISC,,,de,1
-Inflation.,Inflation.,MISC,,,de,1
-Gasimporte.,Gasimporte.,MISC,,,de,1
-EU-Energieminister,EU-Energieminister,MISC,,,de,1
-"Ukrainekrieg, Klimawandel…","Ukrainekrieg, Klimawandel…",MISC,,,de,1
-Gastransit,Gastransit,MISC,0.0,0.0,de,1
-Diesel.,Diesel.,MISC,,,de,1
-Mexikos Armee,Mexikos Armee,MISC,,,de,1
-US-Börsenaufsichtsbehörde SEC,US-Börsenaufsichtsbehörde SEC,MISC,,,de,1
-EU-Kommission.,EU-Kommission.,MISC,,,de,1
-Himars bereitst…,Himars bereitst…,MISC,,,de,1
-Livestream,Livestream,MISC,,,de,1
-Wohnungskonzern Kündigungen,Wohnungskonzern Kündigungen,MISC,,,de,1
-Macht das Sinn?,Macht das Sinn?,MISC,,,de,1
-| Zivilisatorisch?,| Zivilisatorisch?,MISC,,,de,1
-Das kostet!,Das kostet!,MISC,,,de,1
-Das Podcast-Radio.,Das Podcast-Radio.,MISC,,,de-DE,1
-EuropeDecoded,EuropeDecoded,MISC,,,de,1
-Deutsche über Inflation: „Ich traue mich,Deutsche über Inflation: „Ich traue mich,MISC,,,de,1
-LNG-Offensive,LNG-Offensive,MISC,,,de,1
-katarisches,katarisches,MISC,,,de,1
-kolumbianische,kolumbianische,MISC,,,de,1
-Mega-Wärmepumpen,Mega-Wärmepumpen,MISC,,,de,1
-Wärmpumpen,Wärmpumpen,MISC,,,de,1
-RT DE.,RT DE.,MISC,,,de,1
-Deutschen.,Deutschen.,MISC,,,de,1
-Hause?,Hause?,MISC,,,de-DE,1
-"Deutschland, der EU-Prügelknabe?","Deutschland, der EU-Prügelknabe?",MISC,,,de,1
-Gas-Not,Gas-Not,MISC,,,de,1
-Atomstrom,Atomstrom,MISC,,,de,1
-Ende Jahr vom Netz,Ende Jahr vom Netz,MISC,,,de,1
-Corona-Krise,Corona-Krise,MISC,0.0,0.0,de,1
-brandenburgischen,brandenburgischen,MISC,,,de,1
-Vorbildcharakter.,Vorbildcharakter.,MISC,,,de,1
-Der Krieg,Der Krieg,MISC,,,de-DE,1
-oberbayerische,oberbayerische,MISC,,,de,1
-SPIEGEL-Spitzengespräch,SPIEGEL-Spitzengespräch,MISC,,,de,1
-Ampelregierung,Ampelregierung,MISC,0.0,0.0,de,1
-Gaskrise: Wie,Gaskrise: Wie,MISC,,,de,1
-SPIEGEL-Informationen der Preiseffekt,SPIEGEL-Informationen der Preiseffekt,MISC,,,de,1
-1000 Jahre lang,1000 Jahre lang,MISC,,,de,1
-Youtube,Youtube,MISC,,,de,1
-Ukraine-Konflikt,Ukraine-Konflikt,MISC,,,de,1
-nup uuu peO,nup uuu peO,MISC,,,de,1
-Gasumlage:,Gasumlage:,MISC,,,de,1
-Ein Kommentar.,Ein Kommentar.,MISC,,,de,1
-deutsch-niederländische,deutsch-niederländische,MISC,,,de,1
-EU-Einheitsladekabel,EU-Einheitsladekabel,MISC,,,de,1
-Krieg Moskaus,Krieg Moskaus,MISC,,,de,1
-Liveticker: +++ 12:24 Hofreiter,Liveticker: +++ 12:24 Hofreiter,MISC,,,de,1
-J.R.…,J.R.…,MISC,,,de,1
-AfD-Demonstration,AfD-Demonstration,MISC,,,de,1
-Unser Land,Unser Land,MISC,,,de,1
-Ampel-Regierung,Ampel-Regierung,MISC,,,de,1
-Demonstrierenden,Demonstrierenden,MISC,,,de,1
-CC BY-SA 4.0,CC BY-SA 4.0,MISC,,,de,1
-"Wikimedia Commons
-Ermittlungen","Wikimedia Commons
-Ermittlungen",MISC,,,de,1
-Liveticker: +++ 22:05 Selenskyj:,Liveticker: +++ 22:05 Selenskyj:,MISC,,,de,1
-Liveticker: +++ 14:56 Kaliber 155:,Liveticker: +++ 14:56 Kaliber 155:,MISC,,,de,1
-Zuzana,Zuzana,MISC,,,de,1
-Liveticker: +++ 19:20 AKW Saporischschja,Liveticker: +++ 19:20 AKW Saporischschja,MISC,,,de,1
-Liveticker: +++ 17:42 Memorial-Mitgründerin Scherbakowa,Liveticker: +++ 17:42 Memorial-Mitgründerin Scherbakowa,MISC,,,de,1
-Goldenes Buch der Stadt Leipzig,Goldenes Buch der Stadt Leipzig,MISC,,,de,1
-Goldene Buch der Stadt Leipzig,Goldene Buch der Stadt Leipzig,MISC,,,de,1
-Liveticker: +++ 01:52 Scholz,Liveticker: +++ 01:52 Scholz,MISC,,,de,1
-Christoph HeinDer,Christoph HeinDer,MISC,,,de,1
-Atomdrohungen +++,Atomdrohungen +++,MISC,,,de,1
-no…,no…,MISC,,,de,1
-Ticker ++,Ticker ++,MISC,,,de,1
-Energiepreiskrise: Preis,Energiepreiskrise: Preis,MISC,,,de,1
-Nichts anderes,Nichts anderes,MISC,,,de,1
-Nachhaltige Geldanlage:,Nachhaltige Geldanlage:,MISC,,,de,1
-Nord-Stream-Lecks:,Nord-Stream-Lecks:,MISC,,,de,1
-Aufklärungsmission  ,Aufklärungsmission  ,MISC,,,de,1
-Bundesanwaltschaft ermittelt  ,Bundesanwaltschaft ermittelt  ,MISC,,,de,1
-Karlsruhe,Karlsruhe,MISC,,,de,1
-F…,F…,MISC,,,de,1
-"Uhr
-","Uhr
-",MISC,,,de,1
-Tag nach der Wahl in,Tag nach der Wahl in,MISC,,,de,1
-Demonstration: Erneut Tausende Menschen bei Protesten,Demonstration: Erneut Tausende Menschen bei Protesten,MISC,,,de,1
-Wasserstoff-Netz,Wasserstoff-Netz,MISC,,,de,1
-Kriegsausbruch,Kriegsausbruch,MISC,,,de,1
-Leopard 2,Leopard 2,MISC,,,de,1
-Kiew?,Kiew?,MISC,0.0,0.0,de,1
-Inspektion auf Grünes,Inspektion auf Grünes,MISC,,,de,1
-Bep ettelpluap htlual pelnklaeu…,Bep ettelpluap htlual pelnklaeu…,MISC,,,de,1
-Mariupol.,Mariupol.,MISC,,,de,1
-Streit bei Bund-Länder-Runde,Streit bei Bund-Länder-Runde,MISC,,,de,1
-Bund-Länder-Beratungen,Bund-Länder-Beratungen,MISC,,,de,1
-Energiekrise: Wie Bioenergiedörfer,Energiekrise: Wie Bioenergiedörfer,MISC,,,de,1
-Ventil-Problematik,Ventil-Problematik,MISC,,,de,1
-Gasnetz,Gasnetz,MISC,,,de,1
-"Gaspreis, Deutschland","Gaspreis, Deutschland",MISC,,,de,1
-Liveticker: +++ 08:55 Lambsdorff:,Liveticker: +++ 08:55 Lambsdorff:,MISC,,,de,1
-Fast-Track,Fast-Track,MISC,,,de,1
-U…,U…,MISC,,,de,1
-Är…,Är…,MISC,,,de,1
-Offshore-Windkraft,Offshore-Windkraft,MISC,,,de,1
-Energie-Engpässe,Energie-Engpässe,MISC,,,de,1
-Angriffskriegs Russlands,Angriffskriegs Russlands,MISC,,,de,1
-| Telepolis.,| Telepolis.,MISC,,,de,1
-vier Jahre gelegen,vier Jahre gelegen,MISC,,,de,1
-Gas über die,Gas über die,MISC,,,de,1
-Der europäische Gaspreis,Der europäische Gaspreis,MISC,,,de,1
-Ukraine-Krieg: Humanitäre Hilfe: Angst,Ukraine-Krieg: Humanitäre Hilfe: Angst,MISC,,,de,1
-Corona-Jahr,Corona-Jahr,MISC,,,de,1
-Ukrainekrieges,Ukrainekrieges,MISC,,,de,1
-Gi…,Gi…,MISC,,,de,1
-Lieferketten-Lottos.,Lieferketten-Lottos.,MISC,,,de,1
-"Pandemie, Krieg","Pandemie, Krieg",MISC,,,de,1
-Deckel.,Deckel.,MISC,,,de,1
-Treffen derEU-Chef:innen,Treffen derEU-Chef:innen,MISC,,,de,1
-Landtagswahl in Niedersachsen:,Landtagswahl in Niedersachsen:,MISC,,,de,1
-Risiko.<strong> </strong>,Risiko.<strong> </strong>,MISC,,,de,1
-Verdacht auf Preisabsprachen: Wettbewerbshüter filzen Pelletshändler.,Verdacht auf Preisabsprachen: Wettbewerbshüter filzen Pelletshändler.,MISC,,,de,1
-Aldi Nord,Aldi Nord,MISC,,,de,1
-Drohnenangriff.,Drohnenangriff.,MISC,,,de,1
-Liveticker: +++ 19:31 Kiew,Liveticker: +++ 19:31 Kiew,MISC,,,de,1
-All…,All…,MISC,,,de,1
-Apple Podcasts,Apple Podcasts,MISC,,,de,1
-RSS-Feed.,RSS-Feed.,MISC,,,de,1
-"Ukraine-Krieg, Ampelregierung","Ukraine-Krieg, Ampelregierung",MISC,,,de,1
-Twitter-Hetzer?,Twitter-Hetzer?,MISC,,,de,1
-Kampftruppen-Brigade,Kampftruppen-Brigade,MISC,,,de,1
-US-Partnerschaft be…,US-Partnerschaft be…,MISC,,,de,1
-Warum Heizölkunden,Warum Heizölkunden,MISC,,,de,1
-Schlechte Alternative zu Gas,Schlechte Alternative zu Gas,MISC,,,de,1
-Krieg in der Ukraine:,Krieg in der Ukraine:,MISC,,,de,1
-Mein guter Rat“: Energie,Mein guter Rat“: Energie,MISC,,,de,1
-Not,Not,MISC,,,de,1
-Schwarzmeerflotte.,Schwarzmeerflotte.,MISC,,,de,1
-Ukrainekrieg: Schiff,Ukrainekrieg: Schiff,MISC,,,de,1
-nO,nO,MISC,,,de,1
-Liveticker: +++ 11:18 Kreml-Sprecher: Putin,Liveticker: +++ 11:18 Kreml-Sprecher: Putin,MISC,,,de,1
-"Rossiya-1, dass Russlands","Rossiya-1, dass Russlands",MISC,,,de,1
-Frieden in der Ukraine…,Frieden in der Ukraine…,MISC,,,de,1
-Liveticker: +++ 06:54,Liveticker: +++ 06:54,MISC,,,de,1
-Angriff auf die Schwarzmeerflotte,Angriff auf die Schwarzmeerflotte,MISC,,,de,1
-Liveticker: +++ 10:17,Liveticker: +++ 10:17,MISC,,,de,1
-Liveticker: +++ 10:50 Lawrow:,Liveticker: +++ 10:50 Lawrow:,MISC,,,de,1
-Polen +++,Polen +++,MISC,,,de,1
-polnischen,polnischen,MISC,,,de,1
-Liveticker: +++ 21:35 Özdemir:,Liveticker: +++ 21:35 Özdemir:,MISC,,,de,1
-Klimabilanzen der Tech-Riesen,Klimabilanzen der Tech-Riesen,MISC,,,de,1
-Beyond the obvious,Beyond the obvious,MISC,,,de,1
-Ringtauschs.,Ringtauschs.,MISC,,,de,1
-Anschläge,Anschläge,MISC,,,de,1
-IEA.,IEA.,MISC,,,de,1
-Ve…,Ve…,MISC,,,de,1
-Minensuch-Teams,Minensuch-Teams,MISC,,,de,1
-Russland-Ukraine-Krieg: EU-Kommunikationsexperte,Russland-Ukraine-Krieg: EU-Kommunikationsexperte,MISC,,,de,1
-Liveticker: +++ 18:44,Liveticker: +++ 18:44,MISC,,,de,1
-Explosionen,Explosionen,MISC,,,de,1
-Russlands Einmarsch,Russlands Einmarsch,MISC,,,de,1
-"EZB-Zinsentscheidung, Mercedes","EZB-Zinsentscheidung, Mercedes",MISC,,,de,1
-russischen Angriffskrieg.,russischen Angriffskrieg.,MISC,,,de,1
-Politi…,Politi…,MISC,,,de,1
-DIW.,DIW.,MISC,,,de,1
-Jumbo-Zinserhöhung,Jumbo-Zinserhöhung,MISC,,,de,1
-Kalkül: Wenn die Inflationserwartungen,Kalkül: Wenn die Inflationserwartungen,MISC,,,de,1
-Inflationsausgleichsprämie,Inflationsausgleichsprämie,MISC,,,de,1
-Energiekrise: Keine Decken für,Energiekrise: Keine Decken für,MISC,,,de,1
-Dritte Weltkrieg,Dritte Weltkrieg,MISC,,,de,1
-Russland-Sanktionen,Russland-Sanktionen,MISC,,,de,1
-SPIEGEL-Journalistin,SPIEGEL-Journalistin,MISC,,,de,1
-Waffenlieferungen,Waffenlieferungen,MISC,,,de,1
-Zwölftel-Formel.,Zwölftel-Formel.,MISC,,,de,1
-Talk,Talk,MISC,,,de,1
-Alarm: Putins neue Terror-Strateg…,Alarm: Putins neue Terror-Strateg…,MISC,,,de,1
-Goldrausch,Goldrausch,MISC,,,de,1
-iPhones,iPhones,MISC,,,de,1
-iPhone,iPhone,MISC,,,de,1
-Strategie,Strategie,MISC,,,de,1
-Bep vel ple elple,Bep vel ple elple,MISC,,,de,1
-September2022,September2022,MISC,,,de,1
-En…,En…,MISC,,,de,1
-sozialen Frieden,sozialen Frieden,MISC,,,de,1
-Statistisches Bundesamt: Deutsche Wirtschaft,Statistisches Bundesamt: Deutsche Wirtschaft,MISC,,,de,1
-Montags-Demos.,Montags-Demos.,MISC,,,de,1
-Energieversorgern.,Energieversorgern.,MISC,,,de,1
-Einberufungsstellen,Einberufungsstellen,MISC,,,de,1
-"Ägypten, nächstes Jahr","Ägypten, nächstes Jahr",MISC,,,de,1
-Weltkonferenz,Weltkonferenz,MISC,,,de,1
-"Glasgow,","Glasgow,",MISC,,,de,1
-Rundgang auf der Baustelle:,Rundgang auf der Baustelle:,MISC,,,de,1
-Die Winterzeit,Die Winterzeit,MISC,,,de,1
-Strompreisbremse.,Strompreisbremse.,MISC,,,de,1
-Liveticker: +++ 14:42 Nord-Stream-Explosionen:,Liveticker: +++ 14:42 Nord-Stream-Explosionen:,MISC,,,de,1
-Lissek.,Lissek.,MISC,,,de,1
-Erdgas-Förderung.,Erdgas-Förderung.,MISC,,,de,1
-Erdgas-Bedarfs,Erdgas-Bedarfs,MISC,,,de,1
-Cor…,Cor…,MISC,,,de,1
-hessischen,hessischen,MISC,,,de,1
+Kommentare wie Ich,Kommentare wie Ich,MISC,,,de,1
+Novemberwind,Novemberwind,MISC,,,de,1
+Belarus: Lukaschenko,Belarus: Lukaschenko,MISC,,,de,1
+"Kriegs: ""Unmöglich, so zu","Kriegs: ""Unmöglich, so zu",MISC,,,de,1
+Schwerpunkt-Themen,Schwerpunkt-Themen,MISC,,,de,1
+Belarus-Armee,Belarus-Armee,MISC,,,de,1
+LNG-Terminals.,LNG-Terminals.,MISC,,,de,1
+dmbttµ#bsujdmf``mpdbujpo#?Bm,dmbttµ#bsujdmf``mpdbujpo#?Bm,MISC,,,de,1
+Zwei Unbekannte,Zwei Unbekannte,MISC,,,de,1
+Schweizer,Schweizer,MISC,,,de,1
+Der kalte Novemberwind,Der kalte Novemberwind,MISC,,,de,1
+NAT…,NAT…,MISC,,,de,1
+Flucht über den Ärmelkanal: Asylprobleme,Flucht über den Ärmelkanal: Asylprobleme,MISC,,,de,1
+NATO-Luftverteidigung.,NATO-Luftverteidigung.,MISC,,,de,1
+Liveticker: +++ 15:53,Liveticker: +++ 15:53,MISC,,,de,1
+Liveticker: +++ 11:51,Liveticker: +++ 11:51,MISC,,,de,1
+Liveticker: +++ 13:34,Liveticker: +++ 13:34,MISC,,,de,1
+Gerettete Mi­gran­t:in­nen,Gerettete Mi­gran­t:in­nen,MISC,,,de,1
+Anti-Grüne,Anti-Grüne,MISC,,,de,1
+Großbritannien.,Großbritannien.,MISC,0.0,0.0,de,1
+J…,J…,MISC,,,de,1
+EZB-Sitzung,EZB-Sitzung,MISC,,,de,1
+Energiekrise: Die Kraft der Krise: Wie,Energiekrise: Die Kraft der Krise: Wie,MISC,,,de,1
+Widerstandsgeist seiner Landsleute.,Widerstandsgeist seiner Landsleute.,MISC,,,de,1
+Robocop,Robocop,MISC,,,de,1
+Zufallsgewinnen.,Zufallsgewinnen.,MISC,,,de,1
+Finsternis.,Finsternis.,MISC,,,de,1
+Angriffe auf Stromnetz:,Angriffe auf Stromnetz:,MISC,,,de,1
+Zeit festsetzen…,Zeit festsetzen…,MISC,,,de,1
+"Vollzeit-Stellen füllen"".","Vollzeit-Stellen füllen"".",MISC,,,de,1
 "Nacht When browsing with ads:
 We collect personal data and also transmit it to third-party providers
  that help us improve and finance our digital content.","Nacht When browsing with ads:
 We collect personal data and also transmit it to third-party providers
  that help us improve and finance our digital content.",MISC,,,de,1
-MPK,MPK,MISC,,,de,1
-Klima-Protesten.,Klima-Protesten.,MISC,,,de,1
-Doppelwumms:,Doppelwumms:,MISC,,,de,1
-ZEIT für Klima,ZEIT für Klima,MISC,,,de,1
-BASF-Fabrik,BASF-Fabrik,MISC,,,de,1
-Dezember-Soforthilfe,Dezember-Soforthilfe,MISC,,,de,1
-Aussto…,Aussto…,MISC,,,de,1
-UN-Klimakonferenz,UN-Klimakonferenz,MISC,,,de,1
-"Die hohen Energiepreise, die allgemeine Inflation und der Krieg in der Ukraine","Die hohen Energiepreise, die allgemeine Inflation und der Krieg in der Ukraine",MISC,,,de,1
-Angriff auf den Mann,Angriff auf den Mann,MISC,,,de,1
-Hallo Las Vegas!,Hallo Las Vegas!,MISC,,,de,1
-Entlastungsmaßnahmen.,Entlastungsmaßnahmen.,MISC,,,de,1
-Die Entlastungen bei Gas- und Strompreisen,Die Entlastungen bei Gas- und Strompreisen,MISC,,,de,1
-Entlastungs-Finanzpaket.,Entlastungs-Finanzpaket.,MISC,,,de,1
-Treffen von Bund,Treffen von Bund,MISC,,,de,1
-Mittwochabend nac…,Mittwochabend nac…,MISC,,,de,1
-Strom- und Gaspreisbremse:,Strom- und Gaspreisbremse:,MISC,,,de,1
-Länder-Ministerpräsidentenkonf…,Länder-Ministerpräsidentenkonf…,MISC,,,de,1
-"DER SPIEGEL
-</li><li","DER SPIEGEL
-</li><li",MISC,,,de,1
-Wumms“-Politik der Ampel,Wumms“-Politik der Ampel,MISC,,,de,1
-Gaspreisbremse:,Gaspreisbremse:,MISC,0.0,0.5,de,1
-"Sachsen, Sachsen-Anh…","Sachsen, Sachsen-Anh…",MISC,,,de,1
-Ukrainische Getreidefrachter,Ukrainische Getreidefrachter,MISC,,,de,1
-Tourismus: Nebensaison,Tourismus: Nebensaison,MISC,,,de,1
-CoV-Lockdowns,CoV-Lockdowns,MISC,,,de,1
-Boni-Verzicht,Boni-Verzicht,MISC,,,de,1
-Krise?,Krise?,MISC,,,de,1
-KabinettÂ Â ,KabinettÂ Â ,MISC,,,de,1
-Fracking-Einstieg,Fracking-Einstieg,MISC,,,de,1
-VorstoÃŸ,VorstoÃŸ,MISC,,,de,1
-"News: Luiz Inácio Lula da Silva, Reformationstag,","News: Luiz Inácio Lula da Silva, Reformationstag,",MISC,,,de,1
-Reformationstag,Reformationstag,MISC,,,de,1
-Der heurige Oktober,Der heurige Oktober,MISC,,,de,1
-Aktion von Klima-Demonstranten:,Aktion von Klima-Demonstranten:,MISC,,,de,1
-Ansturm beim Kaminbauer:,Ansturm beim Kaminbauer:,MISC,,,de,1
-Gaskrise: Warum,Gaskrise: Warum,MISC,,,de,1
-steigenâ€¦,steigenâ€¦,MISC,,,de,1
-Brasilien:,Brasilien:,MISC,,,de,1
-Inflation in Eurozone,Inflation in Eurozone,MISC,,,de,1
-Nichts verbrennt dreckiger,Nichts verbrennt dreckiger,MISC,,,de,1
-Heftige Preissteigerungen,Heftige Preissteigerungen,MISC,,,de,1
-Die Preise für Gas und Strom,Die Preise für Gas und Strom,MISC,,,de,1
-Attacken auf Kunstwerke:,Attacken auf Kunstwerke:,MISC,,,de,1
-Rekord-Füllstände.,Rekord-Füllstände.,MISC,,,de,1
-Pool-Subvention.,Pool-Subvention.,MISC,,,de,1
-CO2,CO2,MISC,,,de,1
-CO2-Konzentration,CO2-Konzentration,MISC,,,de,1
-Energie-Entlastung,Energie-Entlastung,MISC,,,de,1
-Pellets-Hilfen,Pellets-Hilfen,MISC,,,de,1
-Gaskommission.,Gaskommission.,MISC,,,de,1
-Gefahr durch Holzöfen:,Gefahr durch Holzöfen:,MISC,,,de,1
-Herbststeuerschätzung.,Herbststeuerschätzung.,MISC,,,de,1
-MV:,MV:,MISC,,,de,1
-Un…,Un…,MISC,,,de,1
-Tag für Tag,Tag für Tag,MISC,,,de,1
-Maksym,Maksym,MISC,,,de,1
-Aldi Nord will…,Aldi Nord will…,MISC,,,de,1
-"NACHRICHTEN
-</li><li>„Zweite Verteidigungslinie“ der Russen","NACHRICHTEN
-</li><li>„Zweite Verteidigungslinie“ der Russen",MISC,,,de,1
-Liveticker: +++ 20:42 Selenskyj:,Liveticker: +++ 20:42 Selenskyj:,MISC,,,de,1
-Liveticker: +++ 07:46 Spezialkräfte,Liveticker: +++ 07:46 Spezialkräfte,MISC,,,de,1
-Liveticker: +++ 13:17 Gouverneur,Liveticker: +++ 13:17 Gouverneur,MISC,,,de,1
-Telegram.,Telegram.,MISC,,,de,1
-Liveticker: +++ 14:49,Liveticker: +++ 14:49,MISC,,,de,1
-Russische Armee,Russische Armee,MISC,,,de,1
-Flugzeugbenzin,Flugzeugbenzin,MISC,,,de,1
-Liveticker: +++ 15:27 Kretschmer,Liveticker: +++ 15:27 Kretschmer,MISC,,,de,1
-Liveticker: +++ 06:09,Liveticker: +++ 06:09,MISC,,,de,1
-Liveticker: +++ Generalstaatsanwaltschaft,Liveticker: +++ Generalstaatsanwaltschaft,MISC,,,de,1
-Kyi…,Kyi…,MISC,,,de,1
-Liveticker: +++ 21:44 Medienbericht: Iranische Drohnenausbilder,Liveticker: +++ 21:44 Medienbericht: Iranische Drohnenausbilder,MISC,,,de,1
-Liveticker: +++ 16:41,Liveticker: +++ 16:41,MISC,,,de,1
-arabischen,arabischen,MISC,,,de,1
-"Russia Today""","Russia Today""",MISC,,,de,1
-Liveticker: +++ 15:55,Liveticker: +++ 15:55,MISC,,,de,1
-Zeit der engen Gürtel.,Zeit der engen Gürtel.,MISC,,,de,1
-Russischer Kampfjet,Russischer Kampfjet,MISC,,,de,1
-Gaspreisumlage.,Gaspreisumlage.,MISC,,,de,1
-Bü…,Bü…,MISC,,,de,1
-Corona,Corona,MISC,0.0,0.0,de,1
-Ost-Ausschuss,Ost-Ausschuss,MISC,,,de,1
-Ukraine-Krieg: Drohnen aus,Ukraine-Krieg: Drohnen aus,MISC,,,de,1
-Liveticker: +++ 12:44,Liveticker: +++ 12:44,MISC,,,de,1
-iranisches,iranisches,MISC,,,de,1
-P…,P…,MISC,,,de,1
-C…,C…,MISC,,,de,1
-Ifo-Geschäftsklima,Ifo-Geschäftsklima,MISC,,,de,1
-Europäischer,Europäischer,MISC,,,de,1
-Russland?,Russland?,MISC,,,de,1
-Me…,Me…,MISC,,,de,1
-Feleot etp elpekvluatleke,Feleot etp elpekvluatleke,MISC,,,de,1
-"Liveticker: +++ 03:08 ""Schmutzige Bombe""","Liveticker: +++ 03:08 ""Schmutzige Bombe""",MISC,,,de,1
-Liveticker: +++ 11:54,Liveticker: +++ 11:54,MISC,,,de,1
-Das verblüffende Gas-Wunder,Das verblüffende Gas-Wunder,MISC,,,de,1
+Potenzielle Nachfolge,Potenzielle Nachfolge,MISC,,,de,1
+Liveticker: +++ 13:51,Liveticker: +++ 13:51,MISC,,,de,1
+Liveticker: +++ 09:18 Bayern,Liveticker: +++ 09:18 Bayern,MISC,,,de,1
+Last-Minute-Entscheidungen,Last-Minute-Entscheidungen,MISC,,,de,1
+Liveticker: +++ 00:39,Liveticker: +++ 00:39,MISC,,,de,1
+Sea King,Sea King,MISC,,,de,1
+Ukraine +++,Ukraine +++,MISC,,,de,1
+Liveticker: +++ 08:52,Liveticker: +++ 08:52,MISC,,,de,1
+Schiefergas-Förderung,Schiefergas-Förderung,MISC,,,de,1
+Pragmatisch auftreten…,Pragmatisch auftreten…,MISC,,,de,1
+Wareneinfuhren,Wareneinfuhren,MISC,,,de,1
+Liveticker: +++ 07:25 London: Russland,Liveticker: +++ 07:25 London: Russland,MISC,,,de,1
+"Kyiv Independent""","Kyiv Independent""",MISC,,,de,1
+Kriegseinsatz.,Kriegseinsatz.,MISC,,,de,1
+Russische Kriegsgefangene,Russische Kriegsgefangene,MISC,,,de,1
+Liveticker: +++ 06:53,Liveticker: +++ 06:53,MISC,,,de,1
+Liveticker: +++ 10:24,Liveticker: +++ 10:24,MISC,,,de,1
+Mars II,Mars II,MISC,,,de,1
+Deutschland +++,Deutschland +++,MISC,,,de,1
+Liveticker: +++ 06:25 Kiew: Russland,Liveticker: +++ 06:25 Kiew: Russland,MISC,,,de,1
+"Wolodymyr, …","Wolodymyr, …",MISC,,,de,1
+etp keleketl,etp keleketl,MISC,,,de,1
+Energiespar-Winter.,Energiespar-Winter.,MISC,,,de,1
+Pressestimmen,Pressestimmen,MISC,,,de,1
+Gas-Deal,Gas-Deal,MISC,,,de,1
+Deutsche Pressestimmen,Deutsche Pressestimmen,MISC,,,de,1
+Gesamtspeicherstand,Gesamtspeicherstand,MISC,,,de,1
+Die Nachfrage nach Wärmepumpen boomt.,Die Nachfrage nach Wärmepumpen boomt.,MISC,,,de,1
+Russland +++ Scholz,Russland +++ Scholz,MISC,,,de,1
+Ein halbes Jahr,Ein halbes Jahr,MISC,,,de,1
+Iskander 829,Iskander 829,MISC,,,de,1
+Schlimmster Winter,Schlimmster Winter,MISC,,,de,1
+Babys in den Arm,Babys in den Arm,MISC,,,de,1
+Aserbaidscha…,Aserbaidscha…,MISC,,,de,1
+Verteidigungspläne.,Verteidigungspläne.,MISC,,,de,1
+Ukraine-Liveblog: ++ Kuleba,Ukraine-Liveblog: ++ Kuleba,MISC,,,de,1
+Liveticker: +++ 15:34,Liveticker: +++ 15:34,MISC,,,de,1
+Iskander …,Iskander …,MISC,,,de,1
+Liveticker: +++ 10:02 Ukraine: Massiver Beschuss,Liveticker: +++ 10:02 Ukraine: Massiver Beschuss,MISC,,,de,1
+Novembe…,Novembe…,MISC,,,de,1
+Raketen-Abwehrsystem Patriot,Raketen-Abwehrsystem Patriot,MISC,,,de,1
+Klebe-Blockaden,Klebe-Blockaden,MISC,0.0,0.0,de,1
+No…,No…,MISC,,,de,1
+False Flag“-Angriff,False Flag“-Angriff,MISC,,,de,1
+Belvona,Belvona,MISC,,,de,1
+Immobilien-Konzern,Immobilien-Konzern,MISC,,,de,1
+Podcast.,Podcast.,MISC,,,de,1
+Kölner,Kölner,MISC,,,de,1
+Das perfekte Weihnachtsmarkt-Outfit.,Das perfekte Weihnachtsmarkt-Outfit.,MISC,,,de,1
+Luft-Angriff,Luft-Angriff,MISC,,,de,1
+Last Minute: 1 Woche & Preis ✔,Last Minute: 1 Woche & Preis ✔,MISC,,,de,1
+Weihnachtsmarkt-Outfit,Weihnachtsmarkt-Outfit,MISC,,,de,1
+engl.,engl.,MISC,,,de,1
+Tag am Schreibtisch,Tag am Schreibtisch,MISC,,,de,1
+"Krieg, Coronafolgen","Krieg, Coronafolgen",MISC,,,de,1
+Vormonat.,Vormonat.,MISC,,,de,1
+Lieber Journalisten,Lieber Journalisten,MISC,,,de,1
+Nachts w…,Nachts w…,MISC,,,de,1
+UNTER 500€!,UNTER 500€!,MISC,,,de,1
+syrischen,syrischen,MISC,,,de,1
+Bundesheer,Bundesheer,MISC,,,de,1
+Tag der Wiederholungswahl.,Tag der Wiederholungswahl.,MISC,,,de,1
+Klima-Protesten,Klima-Protesten,MISC,,,de,1
+Der Mann von der,Der Mann von der,MISC,,,de,1
+Links-Not,Links-Not,MISC,,,de,1
+Krypto-Krimi,Krypto-Krimi,MISC,0.0,0.0,de,1
+Getty Images,Getty Images,MISC,,,de,1
+Im Winter bei offenem Fenster zu schlafen,Im Winter bei offenem Fenster zu schlafen,MISC,,,de,1
+Dein Browser,Dein Browser,MISC,,,de,1
+Freundschaft von Schröder,Freundschaft von Schröder,MISC,,,de,1
+Angriffskrieg auf die Ukraine,Angriffskrieg auf die Ukraine,MISC,,,de,1
+Managing Director DACH,Managing Director DACH,MISC,,,de,1
+T-Shirt,T-Shirt,MISC,,,de,1
+Briefbombe explodiert,Briefbombe explodiert,MISC,,,de,1
+Ahoi Piraten!,Ahoi Piraten!,MISC,,,de,1
+Transfer & Zug,Transfer & Zug,MISC,,,de,1
+Ukraine-Botschaft.,Ukraine-Botschaft.,MISC,,,de,1
+Brief öffn…,Brief öffn…,MISC,,,de,1
+Schneeschippen vor zerstörte…,Schneeschippen vor zerstörte…,MISC,,,de,1
+Abstiegsängste:,Abstiegsängste:,MISC,,,de,1
+Zweitem Weltkrieg“,Zweitem Weltkrieg“,MISC,,,de,1
+Liveticker: +++ 10:31 Munz: Stalin-Vergleich,Liveticker: +++ 10:31 Munz: Stalin-Vergleich,MISC,,,de,1
+Die Menschen in der,Die Menschen in der,MISC,,,de,1
+Konferenz zur Biowaffenkonvention:,Konferenz zur Biowaffenkonvention:,MISC,,,de,1
+"Das Wichtigste in Kürze:
+- Selenskyj","Das Wichtigste in Kürze:
+- Selenskyj",MISC,,,de,1
+Liveticker: +++ 11:52 Morawiecki,Liveticker: +++ 11:52 Morawiecki,MISC,,,de,1
+Handelsministeriums,Handelsministeriums,MISC,,,de,1
+Liveticker: +++ 10:00 Ungarn,Liveticker: +++ 10:00 Ungarn,MISC,,,de,1
+Liveticker: +++ 00:20,Liveticker: +++ 00:20,MISC,,,de,1
+Liveticker: +++ 16:26 Lambrecht: Patriot-Raketensysteme,Liveticker: +++ 16:26 Lambrecht: Patriot-Raketensysteme,MISC,,,de,1
+Getreide-Export +++,Getreide-Export +++,MISC,,,de,1
+Liveticker: +++ 18:23 Stromausfall:,Liveticker: +++ 18:23 Stromausfall:,MISC,,,de,1
+Versto…,Versto…,MISC,,,de,1
+"Bergens Tidende""","Bergens Tidende""",MISC,,,de,1
+34 Jahre alter Russe,34 Jahre alter Russe,MISC,,,de,1
+Liveticker: +++ 00:58 Bericht:,Liveticker: +++ 00:58 Bericht:,MISC,,,de,1
+Liveticker: +++ 16:44,Liveticker: +++ 16:44,MISC,,,de,1
+Liveticker: +++ 02:21 Ukraine:,Liveticker: +++ 02:21 Ukraine:,MISC,,,de,1
+Getreide-Ausfuhren,Getreide-Ausfuhren,MISC,,,de,1
+"Stromnetzes  t-online""Mehr zum Thema","Stromnetzes  t-online""Mehr zum Thema",MISC,,,de,1
+Russlands Invasion,Russlands Invasion,MISC,,,de,1
+Winters.,Winters.,MISC,,,de,1
+Patriot-Flugabwehr,Patriot-Flugabwehr,MISC,,,de,1
+Armut in,Armut in,MISC,,,de,1
+"Letzten Generation""","Letzten Generation""",MISC,,,de,1
+nordkoreanischen,nordkoreanischen,MISC,,,de,1
+erholen</li><li>15:02 Uhr,erholen</li><li>15:02 Uhr,MISC,,,de,1
+ul><li>15:48,ul><li>15:48,MISC,,,de,1
+Liveticker: +++ 13:18 Funde,Liveticker: +++ 13:18 Funde,MISC,,,de,1
+Wetter: Nächste Woche,Wetter: Nächste Woche,MISC,,,de,1
+Google News,Google News,MISC,,,de,1
+Angriff auf «Sixtinische Madonna»,Angriff auf «Sixtinische Madonna»,MISC,,,de,1
+Die Hanseaten,Die Hanseaten,MISC,,,de,1
+Wochenmitte,Wochenmitte,MISC,,,de,1
+Advents- und Weihnachtszeit,Advents- und Weihnachtszeit,MISC,,,de,1
+Liveticker: +++ 02:06,Liveticker: +++ 02:06,MISC,,,de,1
+Butter.,Butter.,MISC,,,de,1
+ZivilbevölkerungMit,ZivilbevölkerungMit,MISC,,,de,1
+KOMMENTAR,KOMMENTAR,MISC,,,de,1
+Liveticker: +++ 17:10 Litauen,Liveticker: +++ 17:10 Litauen,MISC,,,de,1
+Allgäu-Urlaub,Allgäu-Urlaub,MISC,,,de,1
+IMAGO,IMAGO,MISC,,,de,1
+Japans Hauptins…,Japans Hauptins…,MISC,,,de,1
+Hokkaido,Hokkaido,MISC,,,de,1
+Deutscher Pianistenpreis,Deutscher Pianistenpreis,MISC,,,de,1
+"Kiew, den Höllenkämpfen","Kiew, den Höllenkämpfen",MISC,,,de,1
+Terrorismus.,Terrorismus.,MISC,,,de,1
+Internationalen Deutschen Pianistenpreis,Internationalen Deutschen Pianistenpreis,MISC,,,de,1
+Bundeshaushalt 2023,Bundeshaushalt 2023,MISC,,,de,1
+Illegale Handy-Durchsuchungen:,Illegale Handy-Durchsuchungen:,MISC,,,de,1
+Liveticker: +++ 13:57,Liveticker: +++ 13:57,MISC,,,de,1
+Treffen in Bukarest,Treffen in Bukarest,MISC,,,de,1
+Rohstoffbörse,Rohstoffbörse,MISC,,,de,1
+Generation Mitte,Generation Mitte,MISC,,,de,1
+me…,me…,MISC,,,de,1
+Holodomor,Holodomor,MISC,,,de,1
+Dez…,Dez…,MISC,,,de,1
+Gasumlage.,Gasumlage.,MISC,,,de,1
+Moskaus Armee,Moskaus Armee,MISC,,,de,1
+Tages:,Tages:,MISC,,,de,1
+Notstand in der Ukraine.,Notstand in der Ukraine.,MISC,,,de,1
+Systemen.,Systemen.,MISC,,,de,1
+Frühstück & Dinner,Frühstück & Dinner,MISC,,,de,1
+Liveticker: +++ 12:36 EU,Liveticker: +++ 12:36 EU,MISC,,,de,1
+Liveticker: +++ 05:52,Liveticker: +++ 05:52,MISC,,,de,1
+Generatoren-Spenden,Generatoren-Spenden,MISC,,,de,1
+Liveticker: +++ 03:18 EU-Parlamentspräsidentin,Liveticker: +++ 03:18 EU-Parlamentspräsidentin,MISC,,,de,1
+Liveticker: +++ 06:24 Infrastruktur,Liveticker: +++ 06:24 Infrastruktur,MISC,,,de,1
+Lust aufs Allgäu?,Lust aufs Allgäu?,MISC,,,de,1
+Liveticker: +++ 14:15,Liveticker: +++ 14:15,MISC,,,de,1
+Liveticker: +++ 17:54 Satellitenaufnahmen,Liveticker: +++ 17:54 Satellitenaufnahmen,MISC,,,de,1
+Spezialoperation,Spezialoperation,MISC,,,de,1
+Best Western Plus …,Best Western Plus …,MISC,,,de,1
+Die besten Dyson-Angebote,Die besten Dyson-Angebote,MISC,,,de,1
+Liveticker: +++ 23:37,Liveticker: +++ 23:37,MISC,,,de,1
+Petersburger Dialogs,Petersburger Dialogs,MISC,,,de,1
+Der Autozulieferer,Der Autozulieferer,MISC,,,de,1
+Ukraine-Krieg: Russlands Truppenrückzug,Ukraine-Krieg: Russlands Truppenrückzug,MISC,,,de,1
+Shell,Shell,MISC,,,de,1
+Das Licht in uns« Bewältigungsstrategien.,Das Licht in uns« Bewältigungsstrategien.,MISC,,,de,1
+CO2-Kosten,CO2-Kosten,MISC,,,de,1
+Die Ruhe im Land,Die Ruhe im Land,MISC,,,de,1
+Energie-Profite,Energie-Profite,MISC,,,de,1
+Super-Inflation,Super-Inflation,MISC,,,de,1
+AKW-Laufzeiten,AKW-Laufzeiten,MISC,0.0,0.0,de,1
+Freiwilligkeit,Freiwilligkeit,MISC,,,de,1
+Grundschul-Ländervergleich,Grundschul-Ländervergleich,MISC,,,de,1
+AKW NeckarwestheimEntscheidung,AKW NeckarwestheimEntscheidung,MISC,,,de,1
+"Atomkraft: Keine Blackouts, niedrigere Preise?","Atomkraft: Keine Blackouts, niedrigere Preise?",MISC,,,de,1
+Der Krieg Russlands,Der Krieg Russlands,MISC,,,de,1
+Euro,Euro,MISC,,,de,1
+Explosionsgefahr,Explosionsgefahr,MISC,,,de,1
+Liveticker: +++ 21:55 Ex-General Kather:,Liveticker: +++ 21:55 Ex-General Kather:,MISC,,,de,1
+Estnisches,Estnisches,MISC,,,de,1
+Liveticker: +++ 14:42,Liveticker: +++ 14:42,MISC,,,de,1
+Liveticker: +++ 19:45 Habeck: Haben gute Chance,Liveticker: +++ 19:45 Habeck: Haben gute Chance,MISC,,,de,1
+Liveticker: +++ 21:34,Liveticker: +++ 21:34,MISC,,,de,1
+europäischer,europäischer,MISC,,,de,1
+LNG-Frachter,LNG-Frachter,MISC,,,de,1
+Französische,Französische,MISC,,,de,1
+Bundesrat am Zug,Bundesrat am Zug,MISC,,,de,1
+CO2-Preises,CO2-Preises,MISC,,,de,1
 Frieden in der Ukraine,Frieden in der Ukraine,MISC,,,de,1
+Russische Invasion: Putin,Russische Invasion: Putin,MISC,,,de,1
+Aldi Nord will…,Aldi Nord will…,MISC,,,de,1
+Aldi Nord,Aldi Nord,MISC,,,de,1
+Verdacht auf Preisabsprachen: Wettbewerbshüter filzen Pelletshändler.,Verdacht auf Preisabsprachen: Wettbewerbshüter filzen Pelletshändler.,MISC,,,de,1
+Risiko.<strong> </strong>,Risiko.<strong> </strong>,MISC,,,de,1
+Ukraine-Krieg: Energiekrise,Ukraine-Krieg: Energiekrise,MISC,,,de,1
+Unterhaus.,Unterhaus.,MISC,,,de,1
+Britisches Kabinett umgebildet:,Britisches Kabinett umgebildet:,MISC,,,de,1
+Zwei Tage nach der Ansage,Zwei Tage nach der Ansage,MISC,,,de,1
+"Ampel ohne ""Vertrauensproblem""","Ampel ohne ""Vertrauensproblem""",MISC,,,de,1
+rot-grün-rote Senat,rot-grün-rote Senat,MISC,,,de,1
+Nicht-Gaskunden.,Nicht-Gaskunden.,MISC,,,de,1
+Krieg in der Ukraine.,Krieg in der Ukraine.,MISC,,,de,1
+Deutschland,Deutschland,MISC,-0.00303951367781155,0.0,de,1
+Modische Statements …,Modische Statements …,MISC,,,de,1
+Ukrainekrieg:,Ukrainekrieg:,MISC,,,de,1
+Unselige,Unselige,MISC,,,de,1
+Krieg zwischen,Krieg zwischen,MISC,,,de,1
+Wertbon-System.,Wertbon-System.,MISC,,,de,1
+Sanifair: Die WC-Preisbremse,Sanifair: Die WC-Preisbremse,MISC,,,de,1
+HeiÃŸ,HeiÃŸ,MISC,,,de,1
+Ã¤rmere,Ã¤rmere,MISC,,,de,1
+dänischer,dänischer,MISC,,,de,1
+Ostsee-Pipelines.,Ostsee-Pipelines.,MISC,,,de,1
+CO₂-Neutralität: Zwei,CO₂-Neutralität: Zwei,MISC,,,de,1
+Ines auf…,Ines auf…,MISC,,,de,1
+Am Freitag weichen die Grünen,Am Freitag weichen die Grünen,MISC,,,de,1
+Riad,Riad,MISC,,,de,1
+La…,La…,MISC,,,de,1
+Xpress,Xpress,MISC,,,de,1
+Ironman,Ironman,MISC,,,de,1
+Appell an Habeck:,Appell an Habeck:,MISC,,,de,1
+FrontDer,FrontDer,MISC,,,de,1
+Warum Frost,Warum Frost,MISC,,,de,1
+Zorn auf die Grünen:,Zorn auf die Grünen:,MISC,,,de,1
+Pullover: Die Welt,Pullover: Die Welt,MISC,,,de,1
+Sitzheizungen,Sitzheizungen,MISC,,,de,1
+"Nein danke!""","Nein danke!""",MISC,,,de,1
+Irans Frauen,Irans Frauen,MISC,,,de,1
+"News: Die Grünen, Atomkraft","News: Die Grünen, Atomkraft",MISC,,,de,1
+Die Nacht im Überblick.,Die Nacht im Überblick.,MISC,,,de,1
+Liveticker: +++ 04:33,Liveticker: +++ 04:33,MISC,,,de,1
+Liveticker: +++ 15:26 Erdogan,Liveticker: +++ 15:26 Erdogan,MISC,,,de,1
+Netto-Null-Emissionen,Netto-Null-Emissionen,MISC,,,de,1
+Ein Jahr wie dieses,Ein Jahr wie dieses,MISC,,,de,1
+süddeutscher,süddeutscher,MISC,,,de,1
+Nordstream-Pipeline,Nordstream-Pipeline,MISC,,,de,1
+Marder,Marder,MISC,,,de,1
+Atomkraft:,Atomkraft:,MISC,,,de,1
+Britische,Britische,MISC,,,de,1
+Ende Sep…,Ende Sep…,MISC,,,de,1
+dänischen,dänischen,MISC,,,de,1
+dänische,dänische,MISC,,,de,1
+Liveticker: +++ 10:01 Dänemark:,Liveticker: +++ 10:01 Dänemark:,MISC,,,de,1
+Atomkraftwerk-Machtwort des,Atomkraftwerk-Machtwort des,MISC,,,de,1
+Bitterfeld-Wolfe…,Bitterfeld-Wolfe…,MISC,,,de,1
+Tories,Tories,MISC,,,de,1
+AKW-Machtwort,AKW-Machtwort,MISC,,,de,1
+Streit um die Atomkraft,Streit um die Atomkraft,MISC,,,de,1
+Der Moment des Einschlages,Der Moment des Einschlages,MISC,,,de,1
+Kamikaze-Drohnenangriff,Kamikaze-Drohnenangriff,MISC,,,de,1
+Ampel-Streit,Ampel-Streit,MISC,,,de,1
+Wetter: Wie,Wetter: Wie,MISC,,,de,1
+Terminkontrakt TTF,Terminkontrakt TTF,MISC,,,de,1
+Gaspreisdeckel: Wer zur Hölle,Gaspreisdeckel: Wer zur Hölle,MISC,,,de,1
+Das verblüffende Gas-Wunder,Das verblüffende Gas-Wunder,MISC,,,de,1
 tschechischen Ratspräsidentschaft,tschechischen Ratspräsidentschaft,MISC,,,de,1
-"Ukraine-Krieg, Bundesregierung","Ukraine-Krieg, Bundesregierung",MISC,,,de,1
-Auf der Suche nach der verlorenen Zeit«,Auf der Suche nach der verlorenen Zeit«,MISC,,,de,1
-Energiekrise: Wichtige Erdgas-Pipeline,Energiekrise: Wichtige Erdgas-Pipeline,MISC,,,de,1
-Le Maire:,Le Maire:,MISC,,,de,1
-deutsch-französischen Freundschaft?,deutsch-französischen Freundschaft?,MISC,,,de,1
-Europa z…,Europa z…,MISC,,,de,1
-Kriegstag,Kriegstag,MISC,,,de,1
-Liveticker: +++ 00:32 Ukraine:,Liveticker: +++ 00:32 Ukraine:,MISC,,,de,1
-Rückendeckung erhiel…,Rückendeckung erhiel…,MISC,,,de,1
-Fridays for Future,Fridays for Future,MISC,,,de,1
-"Liveticker: +++ 09:05 ""Vier Stunden Stromausfall","Liveticker: +++ 09:05 ""Vier Stunden Stromausfall",MISC,,,de,1
-Liveticker: +++ 08:23,Liveticker: +++ 08:23,MISC,,,de,1
-plek,plek,MISC,,,de,1
-Liveticker: +++ 09:26,Liveticker: +++ 09:26,MISC,,,de,1
-Ukrainische Raketenartillerie,Ukrainische Raketenartillerie,MISC,,,de,1
-Liveticker: +++ 08:49,Liveticker: +++ 08:49,MISC,,,de,1
-Liveticker: +++ 12:25,Liveticker: +++ 12:25,MISC,,,de,1
-Gaskrise: Warum Frauen,Gaskrise: Warum Frauen,MISC,,,de,1
-Weihnachtsbäume,Weihnachtsbäume,MISC,,,de,1
-Deutsche schwach,Deutsche schwach,MISC,,,de,1
-Angriff auf ukrainische Energienetze: »Dies,Angriff auf ukrainische Energienetze: »Dies,MISC,,,de,1
-Fauler Kompromiss made,Fauler Kompromiss made,MISC,,,de,1
-Energiepreisbremsen.,Energiepreisbremsen.,MISC,,,de,1
-Schwelle zur Rezession“,Schwelle zur Rezession“,MISC,,,de,1
-Gas-Krise: Wie ich,Gas-Krise: Wie ich,MISC,,,de,1
-Die Frage,Die Frage,MISC,,,de,1
-Die Zeit,Die Zeit,MISC,,,de,1
-dem Krieg,dem Krieg,MISC,,,de,1
-Krieg  n-tv NACHRICHTEN,Krieg  n-tv NACHRICHTEN,MISC,,,de,1
+Pela- nup Iettekll.,Pela- nup Iettekll.,MISC,,,de,1
+Liveticker: +++ 18:24,Liveticker: +++ 18:24,MISC,,,de,1
+Liveticker: +++ 22:11 Bellingcat,Liveticker: +++ 22:11 Bellingcat,MISC,,,de,1
+Frankreich.,Frankreich.,MISC,0.0,0.0,de,1
 "Krieg  WELT
 ","Krieg  WELT
 ",MISC,,,de,1
-"Porsche
-Wenig","Porsche
-Wenig",MISC,,,de,1
-Milliarden-Verlust.,Milliarden-Verlust.,MISC,,,de,1
-Der deutsche Leitindex,Der deutsche Leitindex,MISC,,,de,1
-Russland-Deals.,Russland-Deals.,MISC,,,de,1
-Russlands Energieverknappung,Russlands Energieverknappung,MISC,,,de,1
-Privathaush…,Privathaush…,MISC,,,de,1
-Heizkompetenz Made in Germany,Heizkompetenz Made in Germany,MISC,,,de,1
-Heizkompetenz Heizkompetenz Made,Heizkompetenz Heizkompetenz Made,MISC,,,de,1
-Atomwaffen-Gebärden,Atomwaffen-Gebärden,MISC,,,de,1
-Frankreich:,Frankreich:,MISC,,,de,1
-"Homeoffice boomte,","Homeoffice boomte,",MISC,,,de,1
-Furcht vor US-Klima-Subventionen: USA,Furcht vor US-Klima-Subventionen: USA,MISC,,,de,1
-US-Gesetz,US-Gesetz,MISC,,,de,1
-Kohlestrom.,Kohlestrom.,MISC,,,de,1
+Krieg  n-tv NACHRICHTEN,Krieg  n-tv NACHRICHTEN,MISC,,,de,1
+dem Krieg,dem Krieg,MISC,,,de,1
+Europäischer,Europäischer,MISC,,,de,1
+Ifo-Geschäftsklima,Ifo-Geschäftsklima,MISC,,,de,1
+C…,C…,MISC,,,de,1
+P…,P…,MISC,,,de,1
+iranisches,iranisches,MISC,,,de,1
+Liveticker: +++ 12:44,Liveticker: +++ 12:44,MISC,,,de,1
+Ukraine-Krieg: Drohnen aus,Ukraine-Krieg: Drohnen aus,MISC,,,de,1
+Ost-Ausschuss,Ost-Ausschuss,MISC,,,de,1
+Corona,Corona,MISC,0.0,0.0,de,1
+Bü…,Bü…,MISC,,,de,1
+Gaspreisumlage.,Gaspreisumlage.,MISC,,,de,1
+Russischer Kampfjet,Russischer Kampfjet,MISC,,,de,1
+Zeit der engen Gürtel.,Zeit der engen Gürtel.,MISC,,,de,1
+"Russia Today""","Russia Today""",MISC,,,de,1
+Recherchenetzwerk Bellingcat,Recherchenetzwerk Bellingcat,MISC,,,de,1
+Ein solch…,Ein solch…,MISC,,,de,1
+"Ukraine-Krieg, Bundesregierung","Ukraine-Krieg, Bundesregierung",MISC,,,de,1
+Liveticker: +++ 21:04 USA,Liveticker: +++ 21:04 USA,MISC,,,de,1
+Finanzbedarfs üb…,Finanzbedarfs üb…,MISC,,,de,1
+Bundesumweltministeriums,Bundesumweltministeriums,MISC,,,de,1
+Die Gasspeicher sind voll,Die Gasspeicher sind voll,MISC,,,de,1
+Ukrainisches Tagebuch,Ukrainisches Tagebuch,MISC,,,de,1
+VBUI,VBUI,MISC,,,de,1
+NiedersachsenDer,NiedersachsenDer,MISC,,,de,1
+Ifo-Umfrage: Energiepreise,Ifo-Umfrage: Energiepreise,MISC,,,de,1
+Vor-Corona-Niveau.,Vor-Corona-Niveau.,MISC,,,de,1
+Panzerhaubitzen.,Panzerhaubitzen.,MISC,,,de,1
+Demonstrationen: Erneut,Demonstrationen: Erneut,MISC,,,de,1
+russische Invasion der Ukraine,russische Invasion der Ukraine,MISC,,,de,1
+Feindbild USA“,Feindbild USA“,MISC,,,de,1
+lO BeeeOpel,lO BeeeOpel,MISC,,,de,1
+Die Energieminister der EU-Länder,Die Energieminister der EU-Länder,MISC,,,de,1
+Ostdeutschland sch…,Ostdeutschland sch…,MISC,,,de,1
+Kubakrise,Kubakrise,MISC,,,de,1
+Demonstrationen: Erneut Tausende bei Protesten,Demonstrationen: Erneut Tausende bei Protesten,MISC,,,de,1
+Vertrag mit dem,Vertrag mit dem,MISC,,,de,1
+Scholz-Sprecher Hebestreit verwe…,Scholz-Sprecher Hebestreit verwe…,MISC,,,de,1
+"NACHRICHTEN
+</li><li>„Zweite Verteidigungslinie“ der Russen","NACHRICHTEN
+</li><li>„Zweite Verteidigungslinie“ der Russen",MISC,,,de,1
+arabischen,arabischen,MISC,,,de,1
+Liveticker: +++ 15:27 Kretschmer,Liveticker: +++ 15:27 Kretschmer,MISC,,,de,1
+Liveticker: +++ 21:44 Medienbericht: Iranische Drohnenausbilder,Liveticker: +++ 21:44 Medienbericht: Iranische Drohnenausbilder,MISC,,,de,1
+Deutsche schwach,Deutsche schwach,MISC,,,de,1
+Weihnachtsbäume,Weihnachtsbäume,MISC,,,de,1
+Gaskrise: Warum Frauen,Gaskrise: Warum Frauen,MISC,,,de,1
+Liveticker: +++ 11:54,Liveticker: +++ 11:54,MISC,,,de,1
+"Liveticker: +++ 09:05 ""Vier Stunden Stromausfall","Liveticker: +++ 09:05 ""Vier Stunden Stromausfall",MISC,,,de,1
+Liveticker: +++ 08:23,Liveticker: +++ 08:23,MISC,,,de,1
+Ukrainische Raketenartillerie,Ukrainische Raketenartillerie,MISC,,,de,1
+Liveticker: +++ 09:26,Liveticker: +++ 09:26,MISC,,,de,1
+Liveticker: +++ 12:25,Liveticker: +++ 12:25,MISC,,,de,1
+Liveticker: +++ 08:49,Liveticker: +++ 08:49,MISC,,,de,1
+Fridays for Future,Fridays for Future,MISC,,,de,1
+Rückendeckung erhiel…,Rückendeckung erhiel…,MISC,,,de,1
+Liveticker: +++ 00:32 Ukraine:,Liveticker: +++ 00:32 Ukraine:,MISC,,,de,1
+Kriegstag,Kriegstag,MISC,,,de,1
+Europa z…,Europa z…,MISC,,,de,1
+deutsch-französischen Freundschaft?,deutsch-französischen Freundschaft?,MISC,,,de,1
+Le Maire:,Le Maire:,MISC,,,de,1
+Energiekrise: Wichtige Erdgas-Pipeline,Energiekrise: Wichtige Erdgas-Pipeline,MISC,,,de,1
+Auf der Suche nach der verlorenen Zeit«,Auf der Suche nach der verlorenen Zeit«,MISC,,,de,1
+Angriff auf ukrainische Energienetze: »Dies,Angriff auf ukrainische Energienetze: »Dies,MISC,,,de,1
+Fauler Kompromiss made,Fauler Kompromiss made,MISC,,,de,1
+Energiepreisbremsen.,Energiepreisbremsen.,MISC,,,de,1
+Flugzeugbenzin,Flugzeugbenzin,MISC,,,de,1
+Me…,Me…,MISC,,,de,1
+Liveticker: +++ 15:55,Liveticker: +++ 15:55,MISC,,,de,1
+Kyi…,Kyi…,MISC,,,de,1
+Liveticker: +++ Generalstaatsanwaltschaft,Liveticker: +++ Generalstaatsanwaltschaft,MISC,,,de,1
+Liveticker: +++ 07:46 Spezialkräfte,Liveticker: +++ 07:46 Spezialkräfte,MISC,,,de,1
+Liveticker: +++ 16:41,Liveticker: +++ 16:41,MISC,,,de,1
+Liveticker: +++ 20:42 Selenskyj:,Liveticker: +++ 20:42 Selenskyj:,MISC,,,de,1
+Liveticker: +++ 06:09,Liveticker: +++ 06:09,MISC,,,de,1
+Russische Armee,Russische Armee,MISC,,,de,1
+Schwelle zur Rezession“,Schwelle zur Rezession“,MISC,,,de,1
+Liveticker: +++ 14:49,Liveticker: +++ 14:49,MISC,,,de,1
+Telegram.,Telegram.,MISC,,,de,1
+Liveticker: +++ 13:17 Gouverneur,Liveticker: +++ 13:17 Gouverneur,MISC,,,de,1
+Feleot etp elpekvluatleke,Feleot etp elpekvluatleke,MISC,,,de,1
+plek,plek,MISC,,,de,1
+Die Zeit,Die Zeit,MISC,,,de,1
+Die Frage,Die Frage,MISC,,,de,1
+Gas-Krise: Wie ich,Gas-Krise: Wie ich,MISC,,,de,1
+Deutscher Gasspeicher-Füllstand,Deutscher Gasspeicher-Füllstand,MISC,,,de,1
+Deutschlands Finanzaufseher,Deutschlands Finanzaufseher,MISC,,,de,1
+"iPhone VPN, TikTok.","iPhone VPN, TikTok.",MISC,,,de,1
+EU-Einheitsladekabel,EU-Einheitsladekabel,MISC,,,de,1
+Livestream,Livestream,MISC,,,de,1
+Himars bereitst…,Himars bereitst…,MISC,,,de,1
+EU-Kommission.,EU-Kommission.,MISC,,,de,1
+US-Börsenaufsichtsbehörde SEC,US-Börsenaufsichtsbehörde SEC,MISC,,,de,1
+Mexikos Armee,Mexikos Armee,MISC,,,de,1
+Diesel.,Diesel.,MISC,,,de,1
+Gastransit,Gastransit,MISC,0.0,0.0,de,1
+"Ukrainekrieg, Klimawandel…","Ukrainekrieg, Klimawandel…",MISC,,,de,1
+EU-Energieminister,EU-Energieminister,MISC,,,de,1
+Gasimporte.,Gasimporte.,MISC,,,de,1
+Inflation.,Inflation.,MISC,,,de,1
+ManometerFällt,ManometerFällt,MISC,,,de,1
+Finanzministe…,Finanzministe…,MISC,,,de,1
+Whisky-Rausch,Whisky-Rausch,MISC,,,de,1
+Alarm,Alarm,MISC,,,de,1
+Krieg mit Russland,Krieg mit Russland,MISC,,,de,1
+Wirtschaftsminister Habeck,Wirtschaftsminister Habeck,MISC,,,de,1
+nÃ¤chste Jahr,nÃ¤chste Jahr,MISC,,,de,1
+Wirtschaftsinstitute,Wirtschaftsinstitute,MISC,,,de,1
+deutsch-niederländische,deutsch-niederländische,MISC,,,de,1
+Krieg Moskaus,Krieg Moskaus,MISC,,,de,1
+Atom- u…,Atom- u…,MISC,,,de,1
+Christoph HeinDer,Christoph HeinDer,MISC,,,de,1
+Gas über die,Gas über die,MISC,,,de,1
+vier Jahre gelegen,vier Jahre gelegen,MISC,,,de,1
+| Telepolis.,| Telepolis.,MISC,,,de,1
+Angriffskriegs Russlands,Angriffskriegs Russlands,MISC,,,de,1
+Energie-Engpässe,Energie-Engpässe,MISC,,,de,1
+Offshore-Windkraft,Offshore-Windkraft,MISC,,,de,1
+Är…,Är…,MISC,,,de,1
+U…,U…,MISC,,,de,1
+Fast-Track,Fast-Track,MISC,,,de,1
+Liveticker: +++ 08:55 Lambsdorff:,Liveticker: +++ 08:55 Lambsdorff:,MISC,,,de,1
+"Gaspreis, Deutschland","Gaspreis, Deutschland",MISC,,,de,1
+Gasnetz,Gasnetz,MISC,,,de,1
+Ventil-Problematik,Ventil-Problematik,MISC,,,de,1
+Energiekrise: Wie Bioenergiedörfer,Energiekrise: Wie Bioenergiedörfer,MISC,,,de,1
+Bund-Länder-Beratungen,Bund-Länder-Beratungen,MISC,,,de,1
+Streit bei Bund-Länder-Runde,Streit bei Bund-Länder-Runde,MISC,,,de,1
+Mariupol.,Mariupol.,MISC,,,de,1
+Bep ettelpluap htlual pelnklaeu…,Bep ettelpluap htlual pelnklaeu…,MISC,,,de,1
+Inspektion auf Grünes,Inspektion auf Grünes,MISC,,,de,1
+fÃ¼hrenden,fÃ¼hrenden,MISC,,,de,1
+Hohe Energiepreise: Deutsche Stahlwerke,Hohe Energiepreise: Deutsche Stahlwerke,MISC,,,de,1
+Preis von Gas,Preis von Gas,MISC,,,de,1
+ARD-Mittwochstalk maisch…,ARD-Mittwochstalk maisch…,MISC,,,de,1
+Der Krieg,Der Krieg,MISC,,,de-DE,1
+Vorbildcharakter.,Vorbildcharakter.,MISC,,,de,1
+brandenburgischen,brandenburgischen,MISC,,,de,1
+Ende Jahr vom Netz,Ende Jahr vom Netz,MISC,,,de,1
+Das kostet!,Das kostet!,MISC,,,de,1
+Atomstrom,Atomstrom,MISC,,,de,1
+Gas-Not,Gas-Not,MISC,,,de,1
+"Deutschland, der EU-Prügelknabe?","Deutschland, der EU-Prügelknabe?",MISC,,,de,1
+Hause?,Hause?,MISC,,,de-DE,1
+Deutschen.,Deutschen.,MISC,,,de,1
+RT DE.,RT DE.,MISC,,,de,1
+Wärmpumpen,Wärmpumpen,MISC,,,de,1
+Mega-Wärmepumpen,Mega-Wärmepumpen,MISC,,,de,1
+kolumbianische,kolumbianische,MISC,,,de,1
+katarisches,katarisches,MISC,,,de,1
+LNG-Offensive,LNG-Offensive,MISC,,,de,1
+Deutsche über Inflation: „Ich traue mich,Deutsche über Inflation: „Ich traue mich,MISC,,,de,1
+EuropeDecoded,EuropeDecoded,MISC,,,de,1
+Das Podcast-Radio.,Das Podcast-Radio.,MISC,,,de-DE,1
+oberbayerische,oberbayerische,MISC,,,de,1
+SPIEGEL-Spitzengespräch,SPIEGEL-Spitzengespräch,MISC,,,de,1
+Ampelregierung,Ampelregierung,MISC,0.0,0.0,de,1
+An einen Zufall zu glauben,An einen Zufall zu glauben,MISC,,,de,1
+Ostsee-Pipelines,Ostsee-Pipelines,MISC,,,de,1
+Deutschland gerettet!,Deutschland gerettet!,MISC,,,de,1
+Erdgasmarkt.,Erdgasmarkt.,MISC,,,de,1
+Vermutete Sabotage: Oslo,Vermutete Sabotage: Oslo,MISC,,,de,1
+Absturz,Absturz,MISC,,,de,1
+Widersprüche,Widersprüche,MISC,,,de,1
+Gaspipeline-Saboteuren,Gaspipeline-Saboteuren,MISC,,,de,1
+Wohnungskonzern Kündigungen,Wohnungskonzern Kündigungen,MISC,,,de,1
+Macht das Sinn?,Macht das Sinn?,MISC,,,de,1
+Gaskrise: Wie,Gaskrise: Wie,MISC,,,de,1
+Corona-Krise,Corona-Krise,MISC,0.0,0.0,de,1
+Ein Kommentar.,Ein Kommentar.,MISC,,,de,1
+Gasumlage:,Gasumlage:,MISC,,,de,1
+nup uuu peO,nup uuu peO,MISC,,,de,1
+Ukraine-Konflikt,Ukraine-Konflikt,MISC,,,de,1
+Youtube,Youtube,MISC,,,de,1
+1000 Jahre lang,1000 Jahre lang,MISC,,,de,1
+SPIEGEL-Informationen der Preiseffekt,SPIEGEL-Informationen der Preiseffekt,MISC,,,de,1
+Der europäische Gaspreis,Der europäische Gaspreis,MISC,,,de,1
+Ukraine-Krieg: Humanitäre Hilfe: Angst,Ukraine-Krieg: Humanitäre Hilfe: Angst,MISC,,,de,1
+Corona-Jahr,Corona-Jahr,MISC,,,de,1
+Kälte & Stromausfall:,Kälte & Stromausfall:,MISC,,,de,1
+NATO-Treffens,NATO-Treffens,MISC,,,de,1
+Liveticker: +++ 18:03 EU-Staaten: Russische Reisepässe,Liveticker: +++ 18:03 EU-Staaten: Russische Reisepässe,MISC,,,de,1
+Dieselpreis in,Dieselpreis in,MISC,,,de,1
+Diesel-Preis,Diesel-Preis,MISC,,,de,1
+Energiekrise: Zwei Pullover und Kerzen - Schäuble,Energiekrise: Zwei Pullover und Kerzen - Schäuble,MISC,,,de,1
+"Ukraine-Krieg  BILD
+</li><li>Maschinenbaugipfel: Doppelpass  FAZ","Ukraine-Krieg  BILD
+</li><li>Maschinenbaugipfel: Doppelpass  FAZ",MISC,,,de,1
+Kalter Winter“:,Kalter Winter“:,MISC,,,de,1
+"Die Stimme Berlins
+</li><li>","Die Stimme Berlins
+</li><li>",MISC,,,de,1
+Die Stimme Berlins.,Die Stimme Berlins.,MISC,,,de,1
+Die Angst um Leib und Leben…,Die Angst um Leib und Leben…,MISC,,,de,1
+Kurze Zeit,Kurze Zeit,MISC,,,de,1
+Liveticker: +++ 11:14 Kiewer,Liveticker: +++ 11:14 Kiewer,MISC,,,de,1
+A…,A…,MISC,,,de,1
+Liveticker: +++ 11:33 Ukraine:,Liveticker: +++ 11:33 Ukraine:,MISC,,,de,1
+Liveticker: +++ 10:37 Russland,Liveticker: +++ 10:37 Russland,MISC,,,de,1
+Liveticker: +++ 10:17 Stromversorgung,Liveticker: +++ 10:17 Stromversorgung,MISC,,,de,1
+Einspeichern von Gas,Einspeichern von Gas,MISC,,,de,1
+Herr weâ€¦,Herr weâ€¦,MISC,,,de,1
+LieÃŸe,LieÃŸe,MISC,,,de,1
+Liveticker: +++ 16:02 Kinder und Senioren,Liveticker: +++ 16:02 Kinder und Senioren,MISC,,,de,1
+Rezession.,Rezession.,MISC,,,de,1
+Marâ€¦,Marâ€¦,MISC,,,de,1
+LNG-Terminalschiff,LNG-Terminalschiff,MISC,,,de,1
+Pro Tag,Pro Tag,MISC,,,de,1
+Foto:Â Taxi Japan/Getty Images,Foto:Â Taxi Japan/Getty Images,MISC,,,de,1
+Wetten,Wetten,MISC,,,de,1
+Pleitewelle,Pleitewelle,MISC,,,de,1
+Erdg…,Erdg…,MISC,,,de,1
+Nachkriegsjahren,Nachkriegsjahren,MISC,,,de,1
+LNG-Standorten,LNG-Standorten,MISC,,,de,1
+Gasunternehmens Uniper,Gasunternehmens Uniper,MISC,,,de,1
+Popstar der…,Popstar der…,MISC,,,de,1
+Sinochem,Sinochem,MISC,,,de,1
+Alternativmodell,Alternativmodell,MISC,,,de,1
+Die …,Die …,MISC,,,de,1
+"CORONA, INFLATION:","CORONA, INFLATION:",MISC,,,de,1
+"Deutschland
+</li><li>KRIEG","Deutschland
+</li><li>KRIEG",MISC,,,de,1
+"Das Wichtigste in Kürze:
+<ul><li>","Das Wichtigste in Kürze:
+<ul><li>",MISC,,,de,1
+Liveticker: +++ 23:57,Liveticker: +++ 23:57,MISC,,,de,1
+BASF-Standort,BASF-Standort,MISC,,,de,1
+Kriegseintritt,Kriegseintritt,MISC,,,de,1
+Beschaffungspreis,Beschaffungspreis,MISC,,,de,1
+Wie Frostbeulen,Wie Frostbeulen,MISC,,,de,1
+Ukrainekrieges,Ukrainekrieges,MISC,,,de,1
+Nachhaltigkeit: Rezession,Nachhaltigkeit: Rezession,MISC,,,de,1
+Zuzana,Zuzana,MISC,,,de,1
+Liveticker: +++ 14:56 Kaliber 155:,Liveticker: +++ 14:56 Kaliber 155:,MISC,,,de,1
+"Wikimedia Commons
+Ermittlungen","Wikimedia Commons
+Ermittlungen",MISC,,,de,1
+CC BY-SA 4.0,CC BY-SA 4.0,MISC,,,de,1
+Demonstrierenden,Demonstrierenden,MISC,,,de,1
+Ampel-Regierung,Ampel-Regierung,MISC,,,de,1
+Unser Land,Unser Land,MISC,,,de,1
+AfD-Demonstration,AfD-Demonstration,MISC,,,de,1
+J.R.…,J.R.…,MISC,,,de,1
+Wasserstoff-Netz,Wasserstoff-Netz,MISC,,,de,1
+Kriegsausbruch,Kriegsausbruch,MISC,,,de,1
+Leopard 2,Leopard 2,MISC,,,de,1
+Kiew?,Kiew?,MISC,0.0,0.0,de,1
+Landtagswahl in Niedersachsen:,Landtagswahl in Niedersachsen:,MISC,,,de,1
+Treffen derEU-Chef:innen,Treffen derEU-Chef:innen,MISC,,,de,1
+Deckel.,Deckel.,MISC,,,de,1
+"Pandemie, Krieg","Pandemie, Krieg",MISC,,,de,1
+Lieferketten-Lottos.,Lieferketten-Lottos.,MISC,,,de,1
+Gi…,Gi…,MISC,,,de,1
+Liveticker: +++ 12:24 Hofreiter,Liveticker: +++ 12:24 Hofreiter,MISC,,,de,1
+Liveticker: +++ 22:05 Selenskyj:,Liveticker: +++ 22:05 Selenskyj:,MISC,,,de,1
+Liveticker: +++ 17:42 Memorial-Mitgründerin Scherbakowa,Liveticker: +++ 17:42 Memorial-Mitgründerin Scherbakowa,MISC,,,de,1
+Nord-Stream-Lecks:,Nord-Stream-Lecks:,MISC,,,de,1
+| Zivilisatorisch?,| Zivilisatorisch?,MISC,,,de,1
+Demonstration: Erneut Tausende Menschen bei Protesten,Demonstration: Erneut Tausende Menschen bei Protesten,MISC,,,de,1
+Tag nach der Wahl in,Tag nach der Wahl in,MISC,,,de,1
+"Uhr
+","Uhr
+",MISC,,,de,1
+F…,F…,MISC,,,de,1
+Karlsruhe,Karlsruhe,MISC,,,de,1
+Bundesanwaltschaft ermittelt  ,Bundesanwaltschaft ermittelt  ,MISC,,,de,1
+Aufklärungsmission  ,Aufklärungsmission  ,MISC,,,de,1
+Nachhaltige Geldanlage:,Nachhaltige Geldanlage:,MISC,,,de,1
+Goldenes Buch der Stadt Leipzig,Goldenes Buch der Stadt Leipzig,MISC,,,de,1
+Nichts anderes,Nichts anderes,MISC,,,de,1
+Energiepreiskrise: Preis,Energiepreiskrise: Preis,MISC,,,de,1
+Ticker ++,Ticker ++,MISC,,,de,1
+no…,no…,MISC,,,de,1
+Atomdrohungen +++,Atomdrohungen +++,MISC,,,de,1
+Liveticker: +++ 01:52 Scholz,Liveticker: +++ 01:52 Scholz,MISC,,,de,1
+Liveticker: +++ 19:20 AKW Saporischschja,Liveticker: +++ 19:20 AKW Saporischschja,MISC,,,de,1
+Goldene Buch der Stadt Leipzig,Goldene Buch der Stadt Leipzig,MISC,,,de,1
+Entwarnung für Verbraucher,Entwarnung für Verbraucher,MISC,,,de,1
+ZeekpeO,ZeekpeO,MISC,,,de,1
+Deutscher Wetterdienst: Meteorologen,Deutscher Wetterdienst: Meteorologen,MISC,,,de,1
+Russland-Politik: War,Russland-Politik: War,MISC,,,de,1
+"Marsch für die Freiheit""","Marsch für die Freiheit""",MISC,,,de,1
+"Marsch für die Freiheit"" für","Marsch für die Freiheit"" für",MISC,,,de,1
+"Print-Magazin
+werbefrei &amp;","Print-Magazin
+werbefrei &amp;",MISC,,,de,1
+Bundesregierug,Bundesregierug,MISC,,,de,1
+russischen Luftwaffe,russischen Luftwaffe,MISC,,,de,1
+russische Krieg,russische Krieg,MISC,,,de,1
+sowjetischen,sowjetischen,MISC,,,de,1
+Die Beifahrerin des Ersthelfers,Die Beifahrerin des Ersthelfers,MISC,,,de,1
+Ersthelfers.,Ersthelfers.,MISC,,,de,1
+Klimawende.,Klimawende.,MISC,,,de,1
+Nachhaltiges Nachtleben,Nachhaltiges Nachtleben,MISC,,,de,1
+Grüner Widerstand gegen Fracking?,Grüner Widerstand gegen Fracking?,MISC,,,de,1
+Angriffskrieges,Angriffskrieges,MISC,,,de,1
+Liveticker: +++ 23:03,Liveticker: +++ 23:03,MISC,,,de,1
+spanischen,spanischen,MISC,,,de,1
+Klima-Stiftung,Klima-Stiftung,MISC,,,de,1
+Iran we…,Iran we…,MISC,,,de,1
+G7-Außenminister,G7-Außenminister,MISC,,,de,1
+Pendelmigration: Die doppelte Flucht,Pendelmigration: Die doppelte Flucht,MISC,,,de,1
+Letzten Generation»,Letzten Generation»,MISC,,,de,1
+Schlacht in diesem Jahr,Schlacht in diesem Jahr,MISC,,,de,1
+Klima-Kleber.,Klima-Kleber.,MISC,,,de,1
+CSU-Landesgruppe,CSU-Landesgruppe,MISC,,,de,1
+Das Ziel,Das Ziel,MISC,,,de,1
+Cherson.,Cherson.,MISC,-0.3333333333333333,0.0,de,1
+Herbstanfang,Herbstanfang,MISC,,,de,1
+Traf internationale Ex…,Traf internationale Ex…,MISC,,,de,1
+COP26,COP26,MISC,,,de,1
+UN-Konferenz,UN-Konferenz,MISC,,,de,1
+Baerboc…,Baerboc…,MISC,,,de,1
+COP27-Konferenz,COP27-Konferenz,MISC,,,de,1
+Klimakonferenz COP27,Klimakonferenz COP27,MISC,,,de,1
+Cop27,Cop27,MISC,,,de,1
+Xi,Xi,MISC,,,de,1
+Extreme Wetterereignisse,Extreme Wetterereignisse,MISC,,,de,1
+Atomwaffen-Einsatz.,Atomwaffen-Einsatz.,MISC,,,de,1
+Ukraine-Krieg: Rolf Mützenich,Ukraine-Krieg: Rolf Mützenich,MISC,,,de,1
+Klimakonferenz,Klimakonferenz,MISC,,,,1
+"COP27: ""Menschheit","COP27: ""Menschheit",MISC,,,de,1
+COP27: «Menschheit,COP27: «Menschheit,MISC,,,de,1
+Terrorliste.,Terrorliste.,MISC,,,de,1
+Bundestag,Bundestag,MISC,,,de,1
+Steckdose.,Steckdose.,MISC,,,de,1
+Kl…,Kl…,MISC,,,de,1
+Blicklicht,Blicklicht,MISC,,,de,1
+Cybermobbing.,Cybermobbing.,MISC,,,de,1
+Getreidedeal.,Getreidedeal.,MISC,,,de,1
+ein Jahr,ein Jahr,MISC,,,de,1
+Lira,Lira,MISC,,,de,1
+Russische Erpressung,Russische Erpressung,MISC,,,de,1
+Laufzeit-Diskussionen.,Laufzeit-Diskussionen.,MISC,,,de,1
+Liveblog: ++ Sicherheitsrat,Liveblog: ++ Sicherheitsrat,MISC,,,de,1
+Explosio…,Explosio…,MISC,,,de,1
+Liveticker: +++ 11:01,Liveticker: +++ 11:01,MISC,,,de,1
+Ukraine-Krieges,Ukraine-Krieges,MISC,0.35,0.0,de,1
+Super Verteidigung,Super Verteidigung,MISC,,,de,1
+Super Gepard,Super Gepard,MISC,,,de,1
+Satire-Video,Satire-Video,MISC,,,de,1
+Die Preisbremsen für Strom und Gas,Die Preisbremsen für Strom und Gas,MISC,,,de,1
+"Gaspreis-Bremse  BILD
+","Gaspreis-Bremse  BILD
+",MISC,,,de,1
+Entlastungsmaßnahme  t-online,Entlastungsmaßnahme  t-online,MISC,,,de,1
+Gaspreisbremse:,Gaspreisbremse:,MISC,0.0,0.5,de,1
+Wumms“-Politik der Ampel,Wumms“-Politik der Ampel,MISC,,,de,1
+"DER SPIEGEL
+</li><li","DER SPIEGEL
+</li><li",MISC,,,de,1
+Länder-Ministerpräsidentenkonf…,Länder-Ministerpräsidentenkonf…,MISC,,,de,1
+"Schwarzmeer-Häfen
+9.05 Uhr:","Schwarzmeer-Häfen
+9.05 Uhr:",MISC,,,de,1
+Gasspeicherung.,Gasspeicherung.,MISC,,,de,1
+"Ukraine,","Ukraine,",MISC,,,de,1
+Gaspreisbremse klappt,Gaspreisbremse klappt,MISC,,,de,1
+Drachenlord: Der YouTuber,Drachenlord: Der YouTuber,MISC,,,de,1
+Google Ne…,Google Ne…,MISC,,,de,1
+"russischen Bombenkrieg  zdf.de
+</li><li>""Mehr","russischen Bombenkrieg  zdf.de
+</li><li>""Mehr",MISC,,,de,1
+"Krieges  DER SPIEGEL
+</li><li>Zerstörung mit deutscher Hilfe?","Krieges  DER SPIEGEL
+</li><li>Zerstörung mit deutscher Hilfe?",MISC,,,de,1
+nordrhein-westfälische,nordrhein-westfälische,MISC,,,de,1
+China-Investitionen:,China-Investitionen:,MISC,,,de,1
+Dro…,Dro…,MISC,,,de,1
+russische Überfall auf die,russische Überfall auf die,MISC,,,de,1
+Russische Soldaten,Russische Soldaten,MISC,,,de,1
+Musks Tweet,Musks Tweet,MISC,,,de,1
+Deportationen,Deportationen,MISC,,,de,1
+Selenskyj,Selenskyj,MISC,0.0,0.07692307692307693,de,1
+Treffen der G7-Außenminister,Treffen der G7-Außenminister,MISC,,,de,1
+"NACHRICHTEN
+</li><li>Strom-","NACHRICHTEN
+</li><li>Strom-",MISC,,,de,1
+Job-Kahlschlag,Job-Kahlschlag,MISC,,,de,1
+Japans Regierung,Japans Regierung,MISC,,,de,1
+Neues Landesprogramm,Neues Landesprogramm,MISC,,,de,1
+Krieg gegen Russland.,Krieg gegen Russland.,MISC,,,de,1
+Klima-Kleber Berlin,Klima-Kleber Berlin,MISC,,,de,1
+EKD-Synode,EKD-Synode,MISC,,,de,1
+"Deutschland, die","Deutschland, die",MISC,,,de,1
+CO2-Preis.,CO2-Preis.,MISC,,,de,1
+CO₂-Preis,CO₂-Preis,MISC,,,de,1
+Bosch Professional Akku,Bosch Professional Akku,MISC,,,de,1
+12V,12V,MISC,,,de,1
+Bosch Akku 18V,Bosch Akku 18V,MISC,,,de,1
+Täter un…,Täter un…,MISC,,,de,1
+Ampel will,Ampel will,MISC,,,de,1
+"Bel elue tokll teuapeOel, pel eupele","Bel elue tokll teuapeOel, pel eupele",MISC,,,de,1
+Fltpeaelp Zettel: Ble Blelpe,Fltpeaelp Zettel: Ble Blelpe,MISC,,,de,1
+Energiesparanreize,Energiesparanreize,MISC,,,de,1
+Ifo-Institut,Ifo-Institut,MISC,,,de,1
+Energie-Krise.,Energie-Krise.,MISC,,,de,1
+CO₂-Preis.,CO₂-Preis.,MISC,,,de,1
+Baustelle für Gaspipeline,Baustelle für Gaspipeline,MISC,,,de,1
+SixtDer,SixtDer,MISC,,,de,1
+Autovermieter: Mietwagenboom,Autovermieter: Mietwagenboom,MISC,,,de,1
+Gasver…,Gasver…,MISC,,,de,1
+News im Üb…,News im Üb…,MISC,,,de,1
+Der Bürgermeister,Der Bürgermeister,MISC,,,de,1
+Midterms 2022,Midterms 2022,MISC,,,de,1
+Proteste auf Konferenz,Proteste auf Konferenz,MISC,,,de,1
+CC0,CC0,MISC,,,de,1
+Kramer le…,Kramer le…,MISC,,,de,1
+"netzpolitik.org
+","netzpolitik.org
+",MISC,,,de,1
+Mega-Blackout,Mega-Blackout,MISC,,,de,1
+Das Berliner Gasnetz,Das Berliner Gasnetz,MISC,,,de,1
+Betriebslizenz,Betriebslizenz,MISC,,,de,1
+Konzessionsvertrages,Konzessionsvertrages,MISC,,,de,1
+Gasnetz.,Gasnetz.,MISC,,,de,1
+Gäste.,Gäste.,MISC,,,de,1
+Fest,Fest,MISC,,,de,1
+Elite-Einheiten,Elite-Einheiten,MISC,,,de,1
+Liveticker: +++ 11:15 Munz:,Liveticker: +++ 11:15 Munz:,MISC,,,de,1
+NATO-Erweiterung,NATO-Erweiterung,MISC,,,de,1
+Liveticker: +++ 12:23 Baerbock,Liveticker: +++ 12:23 Baerbock,MISC,,,de,1
+Liveticker: +++ 14:28,Liveticker: +++ 14:28,MISC,,,de,1
+Bis morgen,Bis morgen,MISC,,,de,1
+Liveticker: +++ 15:05 Ukrainer,Liveticker: +++ 15:05 Ukrainer,MISC,,,de,1
+Energie-Krise: Soll ich jetzt mein Haus,Energie-Krise: Soll ich jetzt mein Haus,MISC,,,de,1
+Klimagasen,Klimagasen,MISC,,,de,1
+Paludifarming,Paludifarming,MISC,,,de,1
+Bürokratenhölle.,Bürokratenhölle.,MISC,,,de,1
+Ampel.,Ampel.,MISC,,,de,1
+RAF.,RAF.,MISC,,,de,1
+nächsten Jahr,nächsten Jahr,MISC,,,de,1
+russischen Invasion in der Ukraine,russischen Invasion in der Ukraine,MISC,,,de,1
+Gaspreis-Explosion.,Gaspreis-Explosion.,MISC,,,de,1
+Ampel und Union,Ampel und Union,MISC,,,de,1
+"Psychischer Stress/Angst
+","Psychischer Stress/Angst
+",MISC,,,de,1
+Zitternde Hände:,Zitternde Hände:,MISC,,,de,1
+US-Wahlen der vergangenen Jahre.,US-Wahlen der vergangenen Jahre.,MISC,,,de,1
+Russische Trolle,Russische Trolle,MISC,,,de,1
+US-Wahlen,US-Wahlen,MISC,,,de,1
+tschechischer,tschechischer,MISC,,,de,1
+Atomkraftgegnern,Atomkraftgegnern,MISC,,,de,1
+Energiepreis-Wahnsinn.,Energiepreis-Wahnsinn.,MISC,,,de,1
+Guterres: „Sind auf dem Highway,Guterres: „Sind auf dem Highway,MISC,,,de,1
+Konferenz in Ägypten,Konferenz in Ägypten,MISC,,,de,1
+"Krieg, Energiekrise und Inflation","Krieg, Energiekrise und Inflation",MISC,,,de,1
+COP27: Was,COP27: Was,MISC,,,de,1
+Conference of the,Conference of the,MISC,,,de,1
+ersten Konferenz,ersten Konferenz,MISC,,,de,1
+Weltrettung.,Weltrettung.,MISC,,,de,1
+UN-Weltklimakonferenz in Ägypten,UN-Weltklimakonferenz in Ägypten,MISC,,,de,1
+bayerischen,bayerischen,MISC,,,de,1
+Klima-Aktivisten.,Klima-Aktivisten.,MISC,,,de,1
+Hartz-IV-Nachfolger,Hartz-IV-Nachfolger,MISC,,,de,1
+Gas-Import,Gas-Import,MISC,,,de,1
+"Ägypten, Chaos","Ägypten, Chaos",MISC,,,de,1
+französischem,französischem,MISC,,,de,1
+Gas-Notlage,Gas-Notlage,MISC,,,de,1
+Klimakonferenz COP 27,Klimakonferenz COP 27,MISC,,,de,1
+Ukraine-Krieg: Hohe Verluste,Ukraine-Krieg: Hohe Verluste,MISC,,,de,1
+EinfamilienhäusernDer,EinfamilienhäusernDer,MISC,,,de,1
+Neues Preissystem.,Neues Preissystem.,MISC,,,de,1
+China: Chef,China: Chef,MISC,,,de,1
+"DeutschlandFoto: Dirk Sukow,","DeutschlandFoto: Dirk Sukow,",MISC,,,de,1
+So heizt Deutschland.,So heizt Deutschland.,MISC,,,de,1
+Energie-Soli,Energie-Soli,MISC,,,de,1
+"Nachrichten kompakt
+","Nachrichten kompakt
+",MISC,,,de,1
+Russlands brutalen Krieg,Russlands brutalen Krieg,MISC,,,de,1
+China: Handelsmesse streicht Eröffnungsvideo,China: Handelsmesse streicht Eröffnungsvideo,MISC,,,de,1
+ISW“-Analyse,ISW“-Analyse,MISC,,,de,1
+Sterneköche in der Krise.,Sterneköche in der Krise.,MISC,,,de,1
+News im Überblick…,News im Überblick…,MISC,,,de,1
+Schweiz.,Schweiz.,MISC,,,de,1
+"Repräsentantenhaus, Kevin McCarthy,","Repräsentantenhaus, Kevin McCarthy,",MISC,,,de,1
+Klima-Versprechen,Klima-Versprechen,MISC,,,de,1
+Strom- und Gaspreisbremse:,Strom- und Gaspreisbremse:,MISC,,,de,1
+Mittwochabend nac…,Mittwochabend nac…,MISC,,,de,1
+Treffen von Bund,Treffen von Bund,MISC,,,de,1
+Statistisches Bundesamt: Deutsche Wirtschaft,Statistisches Bundesamt: Deutsche Wirtschaft,MISC,,,de,1
+September2022,September2022,MISC,,,de,1
+Kreml-Truppen,Kreml-Truppen,MISC,,,de,1
+Bep vel ple elple,Bep vel ple elple,MISC,,,de,1
+Strategie,Strategie,MISC,,,de,1
+iPhone,iPhone,MISC,,,de,1
+iPhones,iPhones,MISC,,,de,1
+Goldrausch,Goldrausch,MISC,,,de,1
+Alarm: Putins neue Terror-Strateg…,Alarm: Putins neue Terror-Strateg…,MISC,,,de,1
+Talk,Talk,MISC,,,de,1
+Waffenlieferungen,Waffenlieferungen,MISC,,,de,1
+Russland-Ukraine-Krieg: EU-Kommunikationsexperte,Russland-Ukraine-Krieg: EU-Kommunikationsexperte,MISC,,,de,1
+Migration.,Migration.,MISC,,,de,1
+SPIEGEL-Journalistin,SPIEGEL-Journalistin,MISC,,,de,1
+Russland-Sanktionen,Russland-Sanktionen,MISC,,,de,1
+Dritte Weltkrieg,Dritte Weltkrieg,MISC,,,de,1
+Energiekrise: Keine Decken für,Energiekrise: Keine Decken für,MISC,,,de,1
+Susanna Zdrzalek.</em,Susanna Zdrzalek.</em,MISC,,,de,1
+Inflationsausgleichsprämie,Inflationsausgleichsprämie,MISC,,,de,1
+Kalkül: Wenn die Inflationserwartungen,Kalkül: Wenn die Inflationserwartungen,MISC,,,de,1
+sozialen Frieden,sozialen Frieden,MISC,,,de,1
+Russlands Luftwaffe,Russlands Luftwaffe,MISC,,,de,1
+Entlastungs-Finanzpaket.,Entlastungs-Finanzpaket.,MISC,,,de,1
+Montags-Demos.,Montags-Demos.,MISC,,,de,1
+Not,Not,MISC,,,de,1
+Mein guter Rat“: Energie,Mein guter Rat“: Energie,MISC,,,de,1
+Mutmaßlicher Todesschütze,Mutmaßlicher Todesschütze,MISC,,,de,1
+Schlechte Alternative zu Gas,Schlechte Alternative zu Gas,MISC,,,de,1
+Warum Heizölkunden,Warum Heizölkunden,MISC,,,de,1
+US-Partnerschaft be…,US-Partnerschaft be…,MISC,,,de,1
+Kampftruppen-Brigade,Kampftruppen-Brigade,MISC,,,de,1
+Twitter-Hetzer?,Twitter-Hetzer?,MISC,,,de,1
+"Ukraine-Krieg, Ampelregierung","Ukraine-Krieg, Ampelregierung",MISC,,,de,1
+RSS-Feed.,RSS-Feed.,MISC,,,de,1
+Apple Podcasts,Apple Podcasts,MISC,,,de,1
+All…,All…,MISC,,,de,1
+Liveticker: +++ 19:31 Kiew,Liveticker: +++ 19:31 Kiew,MISC,,,de,1
+IEA.,IEA.,MISC,,,de,1
+nO,nO,MISC,,,de,1
+Ve…,Ve…,MISC,,,de,1
+Zwölftel-Formel.,Zwölftel-Formel.,MISC,,,de,1
+Einberufungsstellen,Einberufungsstellen,MISC,,,de,1
+Energieversorgern.,Energieversorgern.,MISC,,,de,1
+Jumbo-Zinserhöhung,Jumbo-Zinserhöhung,MISC,,,de,1
+DIW.,DIW.,MISC,,,de,1
+Politi…,Politi…,MISC,,,de,1
+russischen Angriffskrieg.,russischen Angriffskrieg.,MISC,,,de,1
 IAA Mobility Open Space,IAA Mobility Open Space,MISC,,,de,1
-"Formel-1-Motoren,","Formel-1-Motoren,",MISC,,,de,1
-Frankreich.,Frankreich.,MISC,0.0,0.0,de,1
-Hohe Gaspreis…,Hohe Gaspreis…,MISC,,,de,1
-Chemieriese,Chemieriese,MISC,,,de,1
-Russland-Ukraine-Krieg,Russland-Ukraine-Krieg,MISC,,,de,1
-Drohung.,Drohung.,MISC,,,de,1
-Tarifstreit in Metallindustrie,Tarifstreit in Metallindustrie,MISC,,,de,1
-Tarifgespräche.,Tarifgespräche.,MISC,,,de,1
-Liveticker: +++ 10:25 Ukraines,Liveticker: +++ 10:25 Ukraines,MISC,,,de,1
-Norwegisches,Norwegisches,MISC,,,de,1
-E…,E…,MISC,,,de,1
-Ukrainische,Ukrainische,MISC,,,de,1
-Liveticker: +++ 15:57,Liveticker: +++ 15:57,MISC,,,de,1
-Liveticker: +++ 20:15 Putin,Liveticker: +++ 20:15 Putin,MISC,,,de,1
-NATO-Mitglieder+++.,NATO-Mitglieder+++.,MISC,,,de,1
-NATO-Mitglieder,NATO-Mitglieder,MISC,,,de,1
+Kohlestrom.,Kohlestrom.,MISC,,,de,1
+US-Gesetz,US-Gesetz,MISC,,,de,1
+Furcht vor US-Klima-Subventionen: USA,Furcht vor US-Klima-Subventionen: USA,MISC,,,de,1
+"Homeoffice boomte,","Homeoffice boomte,",MISC,,,de,1
+Frankreich:,Frankreich:,MISC,,,de,1
+Atomwaffen-Gebärden,Atomwaffen-Gebärden,MISC,,,de,1
+Heizkompetenz Heizkompetenz Made,Heizkompetenz Heizkompetenz Made,MISC,,,de,1
+Heizkompetenz Made in Germany,Heizkompetenz Made in Germany,MISC,,,de,1
+Privathaush…,Privathaush…,MISC,,,de,1
+Russlands Energieverknappung,Russlands Energieverknappung,MISC,,,de,1
+Russland-Deals.,Russland-Deals.,MISC,,,de,1
+Der deutsche Leitindex,Der deutsche Leitindex,MISC,,,de,1
+Milliarden-Verlust.,Milliarden-Verlust.,MISC,,,de,1
 Ext…,Ext…,MISC,,,de,1
+Biowaffen-Laboren.,Biowaffen-Laboren.,MISC,,,de,1
 Berlin Marshallplan,Berlin Marshallplan,MISC,,,de,1
 Russland-Ukraine-Krieg: G7,Russland-Ukraine-Krieg: G7,MISC,,,de,1
 "Deutschland, …","Deutschland, …",MISC,,,de,1
-Liveticker: +++ 21:04 USA,Liveticker: +++ 21:04 USA,MISC,,,de,1
-Liveticker: +++ 18:24,Liveticker: +++ 18:24,MISC,,,de,1
-Ein solch…,Ein solch…,MISC,,,de,1
-Liveticker: +++ 22:11 Bellingcat,Liveticker: +++ 22:11 Bellingcat,MISC,,,de,1
-Recherchenetzwerk Bellingcat,Recherchenetzwerk Bellingcat,MISC,,,de,1
-Scholz-Sprecher Hebestreit verwe…,Scholz-Sprecher Hebestreit verwe…,MISC,,,de,1
-Vertrag mit dem,Vertrag mit dem,MISC,,,de,1
-Polen.,Polen.,MISC,0.0,0.0,de,1
-amerikanische,amerikanische,MISC,,,de,1
-Demonstrationen: Erneut Tausende bei Protesten,Demonstrationen: Erneut Tausende bei Protesten,MISC,,,de,1
-Kubakrise,Kubakrise,MISC,,,de,1
-Ostdeutschland sch…,Ostdeutschland sch…,MISC,,,de,1
-Die Energieminister der EU-Länder,Die Energieminister der EU-Länder,MISC,,,de,1
-lO BeeeOpel,lO BeeeOpel,MISC,,,de,1
-Feindbild USA“,Feindbild USA“,MISC,,,de,1
-russische Invasion der Ukraine,russische Invasion der Ukraine,MISC,,,de,1
-Demonstrationen: Erneut,Demonstrationen: Erneut,MISC,,,de,1
-Panzerhaubitzen.,Panzerhaubitzen.,MISC,,,de,1
-Vor-Corona-Niveau.,Vor-Corona-Niveau.,MISC,,,de,1
-Ifo-Umfrage: Energiepreise,Ifo-Umfrage: Energiepreise,MISC,,,de,1
-NiedersachsenDer,NiedersachsenDer,MISC,,,de,1
-VBUI,VBUI,MISC,,,de,1
-Die Gasspeicher sind voll,Die Gasspeicher sind voll,MISC,,,de,1
-Bundesumweltministeriums,Bundesumweltministeriums,MISC,,,de,1
-Finanzbedarfs üb…,Finanzbedarfs üb…,MISC,,,de,1
-Entwarnung für Verbraucher,Entwarnung für Verbraucher,MISC,,,de,1
-Pela- nup Iettekll.,Pela- nup Iettekll.,MISC,,,de,1
-ZeekpeO,ZeekpeO,MISC,,,de,1
-"Deutschland, die","Deutschland, die",MISC,,,de,1
-Vor einem Jahr,Vor einem Jahr,MISC,,,de,1
+"Porsche
+Wenig","Porsche
+Wenig",MISC,,,de,1
+"Formel-1-Motoren,","Formel-1-Motoren,",MISC,,,de,1
+Hohe Gaspreis…,Hohe Gaspreis…,MISC,,,de,1
+Liveticker: +++ 18:44,Liveticker: +++ 18:44,MISC,,,de,1
+"EZB-Zinsentscheidung, Mercedes","EZB-Zinsentscheidung, Mercedes",MISC,,,de,1
+Russlands Einmarsch,Russlands Einmarsch,MISC,,,de,1
+Explosionen,Explosionen,MISC,,,de,1
+Liveticker: +++ 10:25 Ukraines,Liveticker: +++ 10:25 Ukraines,MISC,,,de,1
+"Liveticker: +++ 03:08 ""Schmutzige Bombe""","Liveticker: +++ 03:08 ""Schmutzige Bombe""",MISC,,,de,1
+Liveticker: +++ 15:57,Liveticker: +++ 15:57,MISC,,,de,1
+E…,E…,MISC,,,de,1
+Norwegisches,Norwegisches,MISC,,,de,1
+Liveticker: +++ 20:15 Putin,Liveticker: +++ 20:15 Putin,MISC,,,de,1
+Chemieriese,Chemieriese,MISC,,,de,1
+NATO-Mitglieder,NATO-Mitglieder,MISC,,,de,1
+NATO-Mitglieder+++.,NATO-Mitglieder+++.,MISC,,,de,1
+Tag für Tag,Tag für Tag,MISC,,,de,1
+Minensuch-Teams,Minensuch-Teams,MISC,,,de,1
+Maksym,Maksym,MISC,,,de,1
+Tarifgespräche.,Tarifgespräche.,MISC,,,de,1
+Tarifstreit in Metallindustrie,Tarifstreit in Metallindustrie,MISC,,,de,1
+Drohung.,Drohung.,MISC,,,de,1
+Schwarzmeerflotte.,Schwarzmeerflotte.,MISC,,,de,1
+Drohnenangriff.,Drohnenangriff.,MISC,,,de,1
+Ukrainekrieg: Schiff,Ukrainekrieg: Schiff,MISC,,,de,1
+Pool-Subvention.,Pool-Subvention.,MISC,,,de,1
+Flucht vor der Polizei,Flucht vor der Polizei,MISC,,,de,1
+Lissek.,Lissek.,MISC,,,de,1
+Liveticker: +++ 14:42 Nord-Stream-Explosionen:,Liveticker: +++ 14:42 Nord-Stream-Explosionen:,MISC,,,de,1
+Strompreisbremse.,Strompreisbremse.,MISC,,,de,1
+Die Winterzeit,Die Winterzeit,MISC,,,de,1
+"Sachsen, Sachsen-Anh…","Sachsen, Sachsen-Anh…",MISC,,,de,1
+Mykolajiw +++ IAEA,Mykolajiw +++ IAEA,MISC,,,de,1
+Ukrainische Getreidefrachter,Ukrainische Getreidefrachter,MISC,,,de,1
+Tourismus: Nebensaison,Tourismus: Nebensaison,MISC,,,de,1
+CoV-Lockdowns,CoV-Lockdowns,MISC,,,de,1
+Un…,Un…,MISC,,,de,1
+Kaukasus: Kaum Fortschritte,Kaukasus: Kaum Fortschritte,MISC,,,de,1
+MV:,MV:,MISC,,,de,1
+Herbststeuerschätzung.,Herbststeuerschätzung.,MISC,,,de,1
+Gefahr durch Holzöfen:,Gefahr durch Holzöfen:,MISC,,,de,1
+Gaskommission.,Gaskommission.,MISC,,,de,1
+Pellets-Hilfen,Pellets-Hilfen,MISC,,,de,1
+Energie-Entlastung,Energie-Entlastung,MISC,,,de,1
+CO2-Konzentration,CO2-Konzentration,MISC,,,de,1
+Erdgas-Förderung.,Erdgas-Förderung.,MISC,,,de,1
+Erdgas-Bedarfs,Erdgas-Bedarfs,MISC,,,de,1
+Cor…,Cor…,MISC,,,de,1
+Dezember-Soforthilfe,Dezember-Soforthilfe,MISC,,,de,1
+"Flucht nach Bayern: ""Ich","Flucht nach Bayern: ""Ich",MISC,,,de,1
+Die Entlastungen bei Gas- und Strompreisen,Die Entlastungen bei Gas- und Strompreisen,MISC,,,de,1
+Entlastungsmaßnahmen.,Entlastungsmaßnahmen.,MISC,,,de,1
+Sechs ne…,Sechs ne…,MISC,,,de,1
+Hallo Las Vegas!,Hallo Las Vegas!,MISC,,,de,1
+Angriff auf den Mann,Angriff auf den Mann,MISC,,,de,1
+"Die hohen Energiepreise, die allgemeine Inflation und der Krieg in der Ukraine","Die hohen Energiepreise, die allgemeine Inflation und der Krieg in der Ukraine",MISC,,,de,1
+UN-Klimakonferenz,UN-Klimakonferenz,MISC,,,de,1
+Rundgang auf der Baustelle:,Rundgang auf der Baustelle:,MISC,,,de,1
+hessischen,hessischen,MISC,,,de,1
+BASF-Fabrik,BASF-Fabrik,MISC,,,de,1
+Blackout,Blackout,MISC,,,de,1
+ZEIT für Klima,ZEIT für Klima,MISC,,,de,1
+Doppelwumms:,Doppelwumms:,MISC,,,de,1
+Klima-Protesten.,Klima-Protesten.,MISC,,,de,1
+Kabinett in Paris,Kabinett in Paris,MISC,,,de,1
+MPK,MPK,MISC,,,de,1
+"Nacht When browsing with ads:
+We collect personal data and also transmit it to third-party providers
+ that help us improve and finance our digital content.","Nacht When browsing with ads:
+We collect personal data and also transmit it to third-party providers
+ that help us improve and finance our digital content.",MISC,,,de,1
+CO2,CO2,MISC,,,de,1
+Rekord-Füllstände.,Rekord-Füllstände.,MISC,,,de,1
+Minenräumschiff,Minenräumschiff,MISC,,,de,1
+Attacken auf Kunstwerke:,Attacken auf Kunstwerke:,MISC,,,de,1
+Aussto…,Aussto…,MISC,,,de,1
+"Glasgow,","Glasgow,",MISC,,,de,1
+Weltkonferenz,Weltkonferenz,MISC,,,de,1
+"Ägypten, nächstes Jahr","Ägypten, nächstes Jahr",MISC,,,de,1
+Anschläge,Anschläge,MISC,,,de,1
+Sobtschak-Botschaft,Sobtschak-Botschaft,MISC,,,de,1
+Ringtauschs.,Ringtauschs.,MISC,,,de,1
+Beyond the obvious,Beyond the obvious,MISC,,,de,1
+Klimabilanzen der Tech-Riesen,Klimabilanzen der Tech-Riesen,MISC,,,de,1
+Liveticker: +++ 06:54,Liveticker: +++ 06:54,MISC,,,de,1
+Frieden in der Ukraine…,Frieden in der Ukraine…,MISC,,,de,1
+"Rossiya-1, dass Russlands","Rossiya-1, dass Russlands",MISC,,,de,1
+Liveticker: +++ 11:18 Kreml-Sprecher: Putin,Liveticker: +++ 11:18 Kreml-Sprecher: Putin,MISC,,,de,1
+Polen +++,Polen +++,MISC,-1.0,0.0,de,1
+Liveticker: +++ 10:50 Lawrow:,Liveticker: +++ 10:50 Lawrow:,MISC,,,de,1
+Liveticker: +++ 21:35 Özdemir:,Liveticker: +++ 21:35 Özdemir:,MISC,,,de,1
+Liveticker: +++ 10:17,Liveticker: +++ 10:17,MISC,,,de,1
+Verletz…,Verletz…,MISC,,,de,1
+McDonald's,McDonald's,MISC,,,de,1
+Boni-Verzicht,Boni-Verzicht,MISC,,,de,1
+Krise?,Krise?,MISC,,,de,1
+KabinettÂ Â ,KabinettÂ Â ,MISC,,,de,1
+"Front
+Ukraine-Liveblog
+London:","Front
+Ukraine-Liveblog
+London:",MISC,,,de,1
+Die Preise für Gas und Strom,Die Preise für Gas und Strom,MISC,,,de,1
+Heftige Preissteigerungen,Heftige Preissteigerungen,MISC,,,de,1
+Nichts verbrennt dreckiger,Nichts verbrennt dreckiger,MISC,,,de,1
+Inflation in Eurozone,Inflation in Eurozone,MISC,,,de,1
+Brasilien:,Brasilien:,MISC,,,de,1
+steigenâ€¦,steigenâ€¦,MISC,,,de,1
+Gaskrise: Warum,Gaskrise: Warum,MISC,,,de,1
+"Front
+","Front
+",MISC,,,de,1
+Ansturm beim Kaminbauer:,Ansturm beim Kaminbauer:,MISC,,,de,1
+Fracking-Einstieg,Fracking-Einstieg,MISC,,,de,1
+Aktion von Klima-Demonstranten:,Aktion von Klima-Demonstranten:,MISC,,,de,1
+"Foxconn, Arbeit","Foxconn, Arbeit",MISC,,,de,1
+iPhone-Produktion,iPhone-Produktion,MISC,,,de,1
+Flucht aus Fabrik: iPhone-Produktion,Flucht aus Fabrik: iPhone-Produktion,MISC,,,de,1
+Der heurige Oktober,Der heurige Oktober,MISC,,,de,1
+Reformationstag,Reformationstag,MISC,,,de,1
+"News: Luiz Inácio Lula da Silva, Reformationstag,","News: Luiz Inácio Lula da Silva, Reformationstag,",MISC,,,de,1
+VorstoÃŸ,VorstoÃŸ,MISC,,,de,1
+Sipri-Institut.,Sipri-Institut.,MISC,,,de,1
