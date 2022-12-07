@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klima',de,Krise,#181818,#181818,4,0.8186365372524431
 'Angriff',de,Krieg,#18e818,#18e818,3,0.7698189815977273
-'Kälte',de,Winter,#1818e8,#1818e8,3,0.7684485132841474
 'Finanz',de,Krise,#181818,#181818,3,0.7637199550034091
+'Kälte',de,Winter,#1818e8,#1818e8,3,0.7626922608369798
 'Atomkraft',de,Energie,#e81818,#e81818,3,0.7376613787562287
 'Preis',de,Energie,#e81818,#e81818,3,0.728937318328409
 'Waffen',de,Krieg,#18e818,#18e818,3,0.7187768351308246
