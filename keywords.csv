@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Angriff',de,Krieg,#18e818,#18e818,3,0.4682450058948195
+'Angriff',de,Krieg,#18e818,#18e818,3,0.4757640227378693
 'Inflation',de,Krise,#181818,#181818,3,0.397040484217191
 'Klima',de,Krise,#181818,#181818,3,0.390896424449859
 'Russland',de,Energie,#e81818,#e81818,3,0.3898910500081379
@@ -14,6 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#1818e8,#1818e8,3,0.3148666587450824
 'Finanz',de,Krise,#181818,#181818,3,0.296912392930879
 'heizen',de,Winter,#1818e8,#1818e8,3,0.2009928076371596
-'Heizen',de,Winter,#1818e8,#1818e8,3,0.18418555072266662
+'Heizen',de,Winter,#1818e8,#1818e8,3,0.1841855507226666
 'frieren',de,Winter,#1818e8,#1818e8,3,0.1578937625238599
 'Frieren',de,Winter,#1818e8,#1818e8,3,0.1338230698083627
