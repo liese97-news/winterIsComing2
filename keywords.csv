@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Angriff',de,Krieg,#18e818,#18e818,3,0.3877861303977455
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.3836523346598806
 'Klima',de,Krise,#181818,#181818,3,0.3808929960087632
-'Russland',de,Energie,#e81818,#e81818,3,0.3654776898465996
+'Russland',de,Energie,#e81818,#e81818,1,0.36547768984659956
 'Atomkraft',de,Energie,#e81818,#e81818,3,0.3517394325393482
 'Krise',de,Energie,#e81818,#e81818,3,0.3312385748168551
 'Finanz',de,Krise,#181818,#181818,3,0.3274968546491717
