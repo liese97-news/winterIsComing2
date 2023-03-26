@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klima',de,Krise,#181818,#181818,3,0.3808929960087632
 'Krise',de,Energie,#e81818,#e81818,3,0.3729174849579632
 'Russland',de,Energie,#e81818,#e81818,1,0.3654776898465995
-'Finanz',de,Krise,#181818,#181818,3,0.3515103996336141
 'Atomkraft',de,Energie,#e81818,#e81818,3,0.3448414185675368
 'Preis',de,Energie,#e81818,#e81818,3,0.3401530448150954
+'Finanz',de,Krise,#181818,#181818,3,0.34010346105220834
 'Waffen',de,Krieg,#18e818,#18e818,3,0.3204794570175724
 'Heizen',de,Winter,#1818e8,#1818e8,3,0.3030598472207081
 'Flucht',de,Krise,#181818,#181818,3,0.302952414561054
