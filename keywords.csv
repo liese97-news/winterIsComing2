@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#181818,#181818,3,0.3166541554396211
 'Preis',de,Energie,#e81818,#e81818,3,0.3161061950379973
 'Russland',de,Energie,#e81818,#e81818,3,0.3146080440375496
-'Finanz',de,Krise,#181818,#181818,3,0.3093848093732949
 'Angriff',de,Krieg,#18e818,#18e818,3,0.307438940254544
 'Krise',de,Energie,#e81818,#e81818,3,0.3040940069685668
+'Finanz',de,Krise,#181818,#181818,3,0.29065893569457335
 'Kälte',de,Winter,#1818e8,#1818e8,3,0.2501876846724848
 'Heizen',de,Winter,#1818e8,#1818e8,3,0.2276161075242852
 'heizen',de,Winter,#1818e8,#1818e8,3,0.2260781318998428
