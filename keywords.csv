@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waffen',de,Krieg,#18e818,#18e818,3,0.3087469723740527
 'Angriff',de,Krieg,#18e818,#18e818,3,0.307438940254544
 'Krise',de,Energie,#e81818,#e81818,3,0.3040940069685668
+'Heizen',de,Winter,#1818e8,#1818e8,3,0.28749103079993243
 'Finanz',de,Krise,#181818,#181818,3,0.2701964885222054
-'Heizen',de,Winter,#1818e8,#1818e8,3,0.2575238554865515
 'Kälte',de,Winter,#1818e8,#1818e8,3,0.2501876846724848
 'heizen',de,Winter,#1818e8,#1818e8,3,0.2260781318998428
 'Frieren',de,Winter,#1818e8,#1818e8,3,0.0576623890801853
