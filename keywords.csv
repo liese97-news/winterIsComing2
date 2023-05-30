@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland',de,Energie,#e81818,#e81818,3,0.3132317078402624
 'Waffen',de,Krieg,#18e818,#18e818,3,0.3083356724270356
 'Atomkraft',de,Energie,#e81818,#e81818,3,0.3020779715982825
+'heizen',de,Winter,#1818e8,#1818e8,3,0.261249913043733
 'Preis',de,Energie,#e81818,#e81818,3,0.2553757649583372
 'Heizen',de,Winter,#1818e8,#1818e8,3,0.2544691701837867
-'heizen',de,Winter,#1818e8,#1818e8,3,0.2373479688215041
-'Kälte',de,Winter,#1818e8,#1818e8,3,0.23128790053950657
+'Kälte',de,Winter,#1818e8,#1818e8,3,0.2312879005395065
 'Frieren',de,Winter,#1818e8,#1818e8,3,0.0883134150562433
 'frieren',de,Winter,#1818e8,#1818e8,3,0.0548995142528941
