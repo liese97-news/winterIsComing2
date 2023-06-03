@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Finanz',de,Krise,#181818,#181818,3,0.3219481930114278
 'Russland',de,Energie,#e81818,#e81818,3,0.3132317078402624
 'Gas',de,Winter,#1818e8,#1818e8,3,0.3119414525770727
+'heizen',de,Winter,#1818e8,#1818e8,3,0.30009602447070977
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2988962383811621
-'heizen',de,Winter,#1818e8,#1818e8,3,0.2777002004468243
 'Atomkraft',de,Energie,#e81818,#e81818,3,0.2708093749494492
 'Preis',de,Energie,#e81818,#e81818,3,0.2553757649583372
 'Heizen',de,Winter,#1818e8,#1818e8,3,0.2544691701837867
