@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland',de,Energie,#e81818,#e81818,3,0.2461215360646151
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.2416623813733849
 'Flucht',de,Krise,#181818,#181818,3,0.239742262439062
+'Krise',de,Energie,#e81818,#e81818,3,0.23931106344234399
 'Gas',de,Winter,#1818e8,#1818e8,3,0.2352415169586865
-'Krise',de,Energie,#e81818,#e81818,3,0.2329028906808325
-'Waffen',de,Krieg,#18e818,#18e818,3,0.22814286480648038
+'Waffen',de,Krieg,#18e818,#18e818,3,0.2281428648064803
 'Angriff',de,Krieg,#18e818,#18e818,3,0.224726216473306
 'Preis',de,Energie,#e81818,#e81818,3,0.2151108018010604
 'heizen',de,Winter,#1818e8,#1818e8,3,0.2018763494926426
