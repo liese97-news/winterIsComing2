@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klima',de,Krise,#181818,#181818,3,0.2555764431149526
 'Wladimir Putin',de,Krieg,#18e818,#18e818,3,0.2295865831076236
 'Flucht',de,Krise,#181818,#181818,3,0.2268611950726616
+'Inflation',de,Krise,#181818,#181818,3,0.22567832387729775
 'Kälte',de,Winter,#1818e8,#1818e8,3,0.2237464510082108
 'Finanz',de,Krise,#181818,#181818,3,0.2225105596549811
-'Inflation',de,Krise,#181818,#181818,3,0.2168663500160722
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.2099792206113602
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2024423037884786
 'Gas',de,Winter,#1818e8,#1818e8,3,0.1998389694344691
@@ -14,6 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krise',de,Energie,#e81818,#e81818,3,0.1859847297007298
 'Atomkraft',de,Energie,#e81818,#e81818,3,0.1853991613954476
 'heizen',de,Winter,#1818e8,#1818e8,3,0.1582730058776236
-'Heizen',de,Winter,#1818e8,#1818e8,3,0.15549654420704415
+'Heizen',de,Winter,#1818e8,#1818e8,3,0.1554965442070441
 'frieren',de,Winter,#1818e8,#1818e8,3,0.1143518206378573
 'Frieren',de,Winter,#1818e8,#1818e8,3,0.1083064985250152
