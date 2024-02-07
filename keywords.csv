@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preis',de,Energie,#e81818,#e81818,3,0.1919525938185761
 'Krise',de,Energie,#e81818,#e81818,3,0.1859847297007298
 'Atomkraft',de,Energie,#e81818,#e81818,3,0.1807228153679486
+'Heizen',de,Winter,#1818e8,#1818e8,3,0.16439996484871477
 'heizen',de,Winter,#1818e8,#1818e8,3,0.1582730058776236
-'Heizen',de,Winter,#1818e8,#1818e8,3,0.1554965442070441
 'frieren',de,Winter,#1818e8,#1818e8,3,0.1143518206378573
 'Frieren',de,Winter,#1818e8,#1818e8,3,0.1015581082917174
