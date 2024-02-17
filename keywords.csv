@@ -10,9 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Angriff',de,Krieg,#18e818,#18e818,3,0.2005524999549836
 'Russland',de,Energie,#e81818,#e81818,3,0.1953377931404997
 'Preis',de,Energie,#e81818,#e81818,3,0.1818899183821533
-'Flucht',de,Krise,#181818,#181818,3,0.1816060702965916
 'Krise',de,Energie,#e81818,#e81818,3,0.1812543284274385
 'Atomkraft',de,Energie,#e81818,#e81818,3,0.1807228153679486
+'Flucht',de,Krise,#181818,#181818,3,0.17751551793392104
 'heizen',de,Winter,#1818e8,#1818e8,3,0.123519462246583
 'frieren',de,Winter,#1818e8,#1818e8,3,0.1055667035264967
 'Heizen',de,Winter,#1818e8,#1818e8,3,0.1043997678666615
