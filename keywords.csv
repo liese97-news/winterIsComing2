@@ -7,11 +7,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2024423037884786
 'Gas',de,Winter,#1818e8,#1818e8,3,0.202106821292026
 'Inflation',de,Krise,#181818,#181818,3,0.2013500498411576
+'Atomkraft',de,Energie,#e81818,#e81818,3,0.19947550897184724
 'Russland',de,Energie,#e81818,#e81818,3,0.1953377931404997
 'Preis',de,Energie,#e81818,#e81818,3,0.1818899183821533
-'Angriff',de,Krieg,#18e818,#18e818,3,0.18147609124020286
+'Angriff',de,Krieg,#18e818,#18e818,3,0.1814760912402028
 'Krise',de,Energie,#e81818,#e81818,3,0.1812543284274385
-'Atomkraft',de,Energie,#e81818,#e81818,3,0.1807228153679486
 'Flucht',de,Krise,#181818,#181818,3,0.177515517933921
 'heizen',de,Winter,#1818e8,#1818e8,3,0.1599462829095955
 'Heizen',de,Winter,#1818e8,#1818e8,3,0.1043997678666615
