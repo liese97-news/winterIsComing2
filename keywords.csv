@@ -7,10 +7,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#1818e8,#1818e8,3,0.2197305025198327
 'Krise',de,Energie,#e81818,#e81818,3,0.218850116437546
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2179750728720539
+'Preis',de,Energie,#e81818,#e81818,3,0.21582143142189433
 'Angriff',de,Krieg,#18e818,#18e818,3,0.2151327919326151
 'Finanz',de,Krise,#181818,#181818,3,0.2113379277372358
 'Atomkraft',de,Energie,#e81818,#e81818,3,0.205250474479667
-'Preis',de,Energie,#e81818,#e81818,3,0.1944516246674693
 'Inflation',de,Krise,#181818,#181818,3,0.1908142251465999
 'Flucht',de,Krise,#181818,#181818,3,0.1776777166845306
 'Heizen',de,Winter,#1818e8,#1818e8,3,0.1331812207863741
