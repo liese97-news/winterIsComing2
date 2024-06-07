@@ -9,11 +9,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland',de,Energie,#e81818,#e81818,3,0.2686009795982886
 'Finanz',de,Krise,#181818,#181818,3,0.2607246276951916
 'Kälte',de,Winter,#1818e8,#1818e8,3,0.2578281059975497
-'Atomkraft',de,Energie,#e81818,#e81818,3,0.2478262416282348
+'Atomkraft',de,Energie,#e81818,#e81818,3,0.24951789609828529
 'Flucht',de,Krise,#181818,#181818,3,0.2006848318292879
 'Preis',de,Energie,#e81818,#e81818,3,0.1953248554663615
 'Gas',de,Winter,#1818e8,#1818e8,3,0.1913024089226237
-'Heizen',de,Winter,#1818e8,#1818e8,3,0.16039335975077257
+'Heizen',de,Winter,#1818e8,#1818e8,3,0.1603933597507725
 'heizen',de,Winter,#1818e8,#1818e8,3,0.1034164426830697
 'frieren',de,Winter,#1818e8,#1818e8,1,0.0379038308939538
 'Frieren',de,Winter,#1818e8,#1818e8,2,0.0314578442780238
