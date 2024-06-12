@@ -5,11 +5,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Angriff',de,Krieg,#18e818,#18e818,3,0.2835912975977764
 'Inflation',de,Krise,#181818,#181818,3,0.2778474187496977
 'Russland',de,Energie,#e81818,#e81818,3,0.2686009795982886
-'Krise',de,Energie,#e81818,#e81818,3,0.26548931847439317
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.265242300035904
 'Kälte',de,Winter,#1818e8,#1818e8,3,0.2578281059975497
 'Atomkraft',de,Energie,#e81818,#e81818,3,0.2488597435017242
 'Finanz',de,Krise,#181818,#181818,3,0.2402063321772765
+'Krise',de,Energie,#e81818,#e81818,3,0.23973385979414322
 'Preis',de,Energie,#e81818,#e81818,3,0.228919527483537
 'Gas',de,Winter,#1818e8,#1818e8,3,0.208483883493321
 'Flucht',de,Krise,#181818,#181818,3,0.1937305152367129
