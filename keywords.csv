@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Finanz',de,Krise,#181818,#181818,3,0.2402063321772765
 'Krise',de,Energie,#e81818,#e81818,3,0.2397338597941432
 'Preis',de,Energie,#e81818,#e81818,3,0.228919527483537
-'Gas',de,Winter,#1818e8,#1818e8,3,0.208483883493321
+'Gas',de,Winter,#1818e8,#1818e8,3,0.20945253824205012
 'Flucht',de,Krise,#181818,#181818,3,0.1937305152367129
-'Heizen',de,Winter,#1818e8,#1818e8,3,0.12088859805414419
+'Heizen',de,Winter,#1818e8,#1818e8,3,0.1208885980541441
 'heizen',de,Winter,#1818e8,#1818e8,3,0.0974025808260637
 'frieren',de,Winter,#1818e8,#1818e8,2,0.0612641740063699
 'Frieren',de,Winter,#1818e8,#1818e8,2,0.0364895426363202
