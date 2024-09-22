@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waffen',de,Krieg,#18e818,#18e818,3,0.3461017818322642
 'Angriff',de,Krieg,#18e818,#18e818,3,0.2967147585191355
 'Russland',de,Energie,#e81818,#e81818,3,0.2826726217382662
+'Gas',de,Winter,#1818e8,#1818e8,3,0.2665202388480217
 'Krise',de,Energie,#e81818,#e81818,3,0.2612944583422996
 'Klima',de,Krise,#181818,#181818,3,0.2551625425463876
-'Gas',de,Winter,#1818e8,#1818e8,3,0.254232298109972
 'Flucht',de,Krise,#181818,#181818,3,0.2512376381597738
 'Inflation',de,Krise,#181818,#181818,3,0.2499463277810815
 'Atomkraft',de,Energie,#e81818,#e81818,3,0.201010754413669
