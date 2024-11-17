@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Waffen',de,Krieg,#18e818,#18e818,3,0.35172240284902795
+'Waffen',de,Krieg,#18e818,#18e818,3,0.3517224028490279
 'Inflation',de,Krise,#181818,#181818,3,0.3312162162785074
 'Krise',de,Energie,#e81818,#e81818,3,0.3145513777774416
 'Atomkraft',de,Energie,#e81818,#e81818,3,0.30946883856774
@@ -16,4 +16,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heizen',de,Winter,#1818e8,#1818e8,3,0.1669922452908103
 'Heizen',de,Winter,#1818e8,#1818e8,3,0.1510367287773972
 'frieren',de,Winter,#1818e8,#1818e8,3,0.0481841807179779
-'Frieren',de,Winter,#1818e8,#1818e8,3,0.038152220656783
+'Frieren',de,Winter,#1818e8,#1818e8,3,0.03273040755826555
