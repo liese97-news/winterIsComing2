@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland',de,Energie,#e81818,#e81818,3,0.443122170077229
 'Angriff',de,Krieg,#18e818,#18e818,3,0.3348251650447397
-'Klima',de,Krise,#181818,#181818,3,0.3081524784547603
 'Wladimir Putin',de,Krieg,#18e818,#18e818,3,0.2957919990628057
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.2909783617323158
 'Inflation',de,Krise,#181818,#181818,3,0.2804920641621332
@@ -9,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2800952634456692
 'Atomkraft',de,Energie,#e81818,#e81818,3,0.2785294654228646
 'Gas',de,Winter,#1818e8,#1818e8,3,0.2783282894625424
+'Klima',de,Krise,#181818,#181818,3,0.27598572577745534
 'Preis',de,Energie,#e81818,#e81818,3,0.2582771352135829
 'Flucht',de,Krise,#181818,#181818,3,0.2433269019727821
 'Kälte',de,Winter,#1818e8,#1818e8,3,0.2341716088610553
