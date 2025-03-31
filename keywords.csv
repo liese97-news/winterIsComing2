@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gas',de,Winter,#1818e8,#1818e8,3,0.3760271856360719
 'Atomkraft',de,Energie,#e81818,#e81818,3,0.3433859976281186
+'Gas',de,Winter,#1818e8,#1818e8,3,0.32913815233611565
 'Wladimir Putin',de,Krieg,#18e818,#18e818,3,0.320792121951837
 'Klima',de,Krise,#181818,#181818,3,0.3127476549589023
 'Krise',de,Energie,#e81818,#e81818,3,0.2959071357904446
@@ -14,6 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Finanz',de,Krise,#181818,#181818,3,0.2230038592803676
 'Preis',de,Energie,#e81818,#e81818,3,0.2185554069033217
 'Heizen',de,Winter,#1818e8,#1818e8,3,0.1640398146988425
-'heizen',de,Winter,#1818e8,#1818e8,3,0.11012902478336858
+'heizen',de,Winter,#1818e8,#1818e8,3,0.1101290247833685
 'Frieren',de,Winter,#1818e8,#1818e8,3,0.049590077124201
 'frieren',de,Winter,#1818e8,#1818e8,2,0.0382453280814881
