@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wladimir Putin',de,Krieg,#18e818,#18e818,3,0.5672510890762181
 'Atomkraft',de,Energie,#e81818,#e81818,3,0.3082172531638228
-'Waffen',de,Krieg,#18e818,#18e818,3,0.30051284316609783
+'Waffen',de,Krieg,#18e818,#18e818,3,0.3005128431660978
 'Krise',de,Energie,#e81818,#e81818,3,0.2927952641313234
 'Inflation',de,Krise,#181818,#181818,3,0.2878731877388193
 'Angriff',de,Krieg,#18e818,#18e818,3,0.2845488136406953
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland',de,Energie,#e81818,#e81818,3,0.2272536533521782
 'Finanz',de,Krise,#181818,#181818,3,0.2230038592803676
 'Kälte',de,Winter,#1818e8,#1818e8,3,0.2132930229987134
-'Heizen',de,Winter,#1818e8,#1818e8,3,0.1385004712916944
+'Heizen',de,Winter,#1818e8,#1818e8,3,0.1272239001433948
 'heizen',de,Winter,#1818e8,#1818e8,3,0.1101290247833685
 'Frieren',de,Winter,#1818e8,#1818e8,2,0.0362798679722351
 'frieren',de,Winter,#1818e8,#1818e8,2,0.029020804038875
