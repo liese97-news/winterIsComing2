@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flucht',de,Krise,#181818,#181818,3,0.2470276344720371
 'Finanz',de,Krise,#181818,#181818,3,0.2426035660685537
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2379290055632022
-'Preis',de,Energie,#e81818,#e81818,3,0.234580422772736
 'Gas',de,Winter,#1818e8,#1818e8,3,0.2338400534369651
 'Klima',de,Krise,#181818,#181818,3,0.2334055980861326
+'Preis',de,Energie,#e81818,#e81818,3,0.22263179753864376
 'Kälte',de,Winter,#1818e8,#1818e8,3,0.2053140456620249
 'Atomkraft',de,Energie,#e81818,#e81818,3,0.1890638914520266
 'heizen',de,Winter,#1818e8,#1818e8,3,0.1293505929861034
