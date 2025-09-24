@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Angriff',de,Krieg,#18e818,#18e818,3,0.2141072073201982
 'Flucht',de,Krise,#181818,#181818,3,0.2076017453469688
 'Gas',de,Winter,#1818e8,#1818e8,3,0.2061933186535013
+'Waffen',de,Krieg,#18e818,#18e818,3,0.20430215021278156
 'Atomkraft',de,Energie,#e81818,#e81818,3,0.2031564432432545
-'Waffen',de,Krieg,#18e818,#18e818,3,0.2023997034588874
 'Preis',de,Energie,#e81818,#e81818,3,0.2019543847965488
 'Klima',de,Krise,#181818,#181818,3,0.1953429462233077
 'Kälte',de,Winter,#1818e8,#1818e8,3,0.1902209340166735
