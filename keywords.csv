@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wladimir Putin',de,Krieg,#18e818,#18e818,3,0.23052456688149187
+'Wladimir Putin',de,Krieg,#18e818,#18e818,3,0.2305245668814918
 'Waffen',de,Krieg,#18e818,#18e818,3,0.221944808323282
+'Angriff',de,Krieg,#18e818,#18e818,3,0.2155438672976756
 'Russland',de,Energie,#e81818,#e81818,3,0.2064628490168415
-'Angriff',de,Krieg,#18e818,#18e818,3,0.2049122599223991
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.2036295294520315
 'Kälte',de,Winter,#1818e8,#1818e8,3,0.1905939523031523
 'Gas',de,Winter,#1818e8,#1818e8,3,0.1887993593914746
