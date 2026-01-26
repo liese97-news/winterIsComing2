@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Winter,#1818e8,#1818e8,3,0.2213189300686455
 'heizen',de,Winter,#1818e8,#1818e8,3,0.2099443899364699
 'Atomkraft',de,Energie,#e81818,#e81818,3,0.2080490748646426
+'Klima',de,Krise,#181818,#181818,3,0.19484891840350604
 'Inflation',de,Krise,#181818,#181818,3,0.1936454406069283
-'Klima',de,Krise,#181818,#181818,3,0.1913094189773868
 'Flucht',de,Krise,#181818,#181818,3,0.1873904247267935
 'Preis',de,Energie,#e81818,#e81818,3,0.1828692233460976
 'Angriff',de,Krieg,#18e818,#18e818,3,0.1796374122731799
