@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Erdöl',de,Energie,#e81818,#e81818,3,0.37172978638014303
+'Erdöl',de,Energie,#e81818,#e81818,3,0.371729786380143
 'Krise',de,Energie,#e81818,#e81818,3,0.3271296423830502
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.3105243952446117
 'Angriff',de,Krieg,#18e818,#18e818,3,0.3103060910282639
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heizen',de,Winter,#1818e8,#1818e8,3,0.187562116151623
 'Finanz',de,Krise,#181818,#181818,3,0.185998278736798
 'Inflation',de,Krise,#181818,#181818,3,0.1853613749043755
-'Preis',de,Energie,#e81818,#e81818,3,0.1785524621477952
+'Preis',de,Energie,#e81818,#e81818,3,0.17050163646198954
 'Heizen',de,Winter,#1818e8,#1818e8,3,0.1151474267764437
 'Frieren',de,Winter,#1818e8,#1818e8,3,0.1141596363037403
 'frieren',de,Winter,#1818e8,#1818e8,3,0.1103953455975496
