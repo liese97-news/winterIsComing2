@@ -2,12 +2,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Iran',de,Energie,#e81818,#e81818,3,0.4307047813126994
 'Erdöl',de,Energie,#e81818,#e81818,3,0.3436360604853042
 'Gas',de,Winter,#1818e8,#1818e8,3,0.3160551830118167
-'Angriff',de,Krieg,#18e818,#18e818,3,0.2865295106013216
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.2861854282003344
 'Atomkraft',de,Energie,#e81818,#e81818,3,0.2843221529141108
 'Hormus',de,Energie,#e81818,#e81818,3,0.2793384276457027
 'Klima',de,Krise,#181818,#181818,3,0.2744142683351809
 'Krise',de,Energie,#e81818,#e81818,3,0.2703313972576725
+'Angriff',de,Krieg,#18e818,#18e818,3,0.2531003935565779
 'Russland',de,Energie,#e81818,#e81818,3,0.2515400511575117
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2424982337948026
 'Kälte',de,Winter,#1818e8,#1818e8,3,0.2417034032779094
@@ -19,4 +19,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heizen',de,Winter,#1818e8,#1818e8,3,0.1912035749543426
 'Heizen',de,Winter,#1818e8,#1818e8,3,0.1863791043145379
 'frieren',de,Winter,#1818e8,#1818e8,2,0.0556806156780169
-'Frieren',de,Winter,#1818e8,#1818e8,2,0.053515310412806105
+'Frieren',de,Winter,#1818e8,#1818e8,2,0.0535153104128061
