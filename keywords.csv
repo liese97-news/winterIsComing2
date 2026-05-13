@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Iran',de,Energie,#e81818,#e81818,3,0.3653092994951858
-'Erdöl',de,Energie,#e81818,#e81818,3,0.303394876729261
 'Hormus',de,Energie,#e81818,#e81818,3,0.2917469185465268
 'Gas',de,Winter,#1818e8,#1818e8,3,0.2850621723458577
 'Finanz',de,Krise,#181818,#181818,3,0.2759725698055158
+'Erdöl',de,Energie,#e81818,#e81818,3,0.2723903552198718
 'Krise',de,Energie,#e81818,#e81818,3,0.2703313972576725
 'Angriff',de,Krieg,#18e818,#18e818,3,0.2689374009128093
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.2664542021521024
