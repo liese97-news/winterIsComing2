@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Iran',de,Energie,#e81818,#e81818,3,0.38735233758089005
+'Iran',de,Energie,#e81818,#e81818,3,0.38735233758089
 'Krise',de,Energie,#e81818,#e81818,3,0.2855692281204764
 'Gas',de,Winter,#1818e8,#1818e8,3,0.2790943533121608
 'Finanz',de,Krise,#181818,#181818,3,0.2721923043346884
@@ -18,5 +18,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preis',de,Energie,#e81818,#e81818,3,0.2093577900064284
 'Flucht',de,Krise,#181818,#181818,3,0.2044626868501147
 'Heizen',de,Winter,#1818e8,#1818e8,3,0.1529144744581627
-'frieren',de,Winter,#1818e8,#1818e8,2,0.0450063269828056
 'Frieren',de,Winter,#1818e8,#1818e8,2,0.0439239691277189
+'frieren',de,Winter,#1818e8,#1818e8,2,0.04005605293538476
