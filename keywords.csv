@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hormus',de,Energie,#e81818,#e81818,3,0.3595566121824654
 'Wladimir Putin',de,Krieg,#18e818,#18e818,3,0.3485275664835056
+'Ukraine',de,Krieg,#18e818,#18e818,3,0.3229282390051275
 'Krise',de,Energie,#e81818,#e81818,3,0.3056583436652839
-'Finanz',de,Krise,#181818,#181818,3,0.27666803089712105
-'Ukraine',de,Krieg,#18e818,#18e818,3,0.2662077178048939
+'Finanz',de,Krise,#181818,#181818,3,0.276668030897121
 'Gas',de,Winter,#1818e8,#1818e8,3,0.256631390889054
 'Angriff',de,Krieg,#18e818,#18e818,3,0.2472349194122515
 'Preis',de,Energie,#e81818,#e81818,3,0.2466619401418277
