@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomkraft',de,Energie,#e81818,#e81818,3,0.2523048304792499
 'Preis',de,Energie,#e81818,#e81818,3,0.251951347117012
 'Erdöl',de,Energie,#e81818,#e81818,3,0.2497909980634381
-'Finanz',de,Krise,#181818,#181818,3,0.2496717412625528
 'Angriff',de,Krieg,#18e818,#18e818,3,0.2472349194122515
+'Finanz',de,Krise,#181818,#181818,3,0.2399026478004426
 'Iran',de,Energie,#e81818,#e81818,3,0.2345530447155259
 'Kälte',de,Winter,#1818e8,#1818e8,3,0.2298949458798233
 'Russland',de,Energie,#e81818,#e81818,3,0.2241913473776089
@@ -19,4 +19,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heizen',de,Winter,#1818e8,#1818e8,3,0.1760482484694706
 'Heizen',de,Winter,#1818e8,#1818e8,3,0.1348702583899948
 'frieren',de,Winter,#1818e8,#1818e8,2,0.0424910771828645
-'Frieren',de,Winter,#1818e8,#1818e8,2,0.03310570466424218
+'Frieren',de,Winter,#1818e8,#1818e8,2,0.0331057046642421
