@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Iran',de,Energie,#e81818,#e81818,3,0.3441663491315768
+'Iran',de,Energie,#e81818,#e81818,3,0.39758592676184024
 'Russland',de,Energie,#e81818,#e81818,3,0.321267336968901
 'Hormus',de,Energie,#e81818,#e81818,3,0.3186814752780878
 'Wladimir Putin',de,Krieg,#18e818,#18e818,3,0.3129271671697777
@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Angriff',de,Krieg,#18e818,#18e818,3,0.2472349194122515
 'Finanz',de,Krise,#181818,#181818,3,0.2399026478004426
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2382029910712685
-'Gas',de,Winter,#1818e8,#1818e8,3,0.23426587328599288
+'Gas',de,Winter,#1818e8,#1818e8,3,0.2342658732859928
 'Klima',de,Krise,#181818,#181818,3,0.2340125355872566
 'Flucht',de,Krise,#181818,#181818,3,0.2023575361296728
 'Kälte',de,Winter,#1818e8,#1818e8,3,0.1836755915572632
