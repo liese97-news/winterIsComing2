@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Hormus',de,Energie,#e81818,#e81818,3,0.37412068586332625
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.3524736924140251
 'Iran',de,Energie,#e81818,#e81818,3,0.3512483574096208
 'Krise',de,Energie,#e81818,#e81818,3,0.3082116216158438
 'Preis',de,Energie,#e81818,#e81818,3,0.3065650669162795
-'Hormus',de,Energie,#e81818,#e81818,3,0.2877653598392073
 'Waffen',de,Krieg,#18e818,#18e818,3,0.278342840094446
 'Erdöl',de,Energie,#e81818,#e81818,3,0.2754809408596997
 'Russland',de,Energie,#e81818,#e81818,3,0.2747476306283664
@@ -18,5 +18,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Winter,#1818e8,#1818e8,3,0.1901673657746598
 'heizen',de,Winter,#1818e8,#1818e8,3,0.1824180455528667
 'Heizen',de,Winter,#1818e8,#1818e8,3,0.1640188602171337
-'frieren',de,Winter,#1818e8,#1818e8,2,0.056287859385063185
+'frieren',de,Winter,#1818e8,#1818e8,2,0.0562878593850631
 'Frieren',de,Winter,#1818e8,#1818e8,2,0.0320063696597514
