@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krise',de,Energie,#e81818,#e81818,3,0.3257511858357778
 'Hormus',de,Energie,#e81818,#e81818,3,0.2992247153417969
 'Atomkraft',de,Energie,#e81818,#e81818,3,0.2977846275753727
+'Inflation',de,Krise,#181818,#181818,3,0.28972979832771384
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2885542138775471
 'Russland',de,Energie,#e81818,#e81818,3,0.2879869139911249
-'Inflation',de,Krise,#181818,#181818,3,0.2815389504390216
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.2795179534711061
 'Preis',de,Energie,#e81818,#e81818,3,0.2749555307331591
 'Gas',de,Winter,#1818e8,#1818e8,3,0.2542792376803364
